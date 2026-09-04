@@ -6,7 +6,19 @@ uni0315
 </note>
   <anchor x="-180" y="820" name="_caronalt"/>
   <outline>
-    <component base="quoteright" xOffset="-209"/>
+    <contour>
+      <point x="346" y="1214" type="curve" smooth="yes"/>
+      <point x="384" y="1409" type="line"/>
+      <point x="97" y="1409" type="line"/>
+      <point x="46" y="1149" type="line"/>
+      <point x="173" y="1149" type="line"/>
+      <point x="153" y="1049"/>
+      <point x="89" y="943"/>
+      <point x="-20" y="831" type="curve"/>
+      <point x="162" y="831" type="line"/>
+      <point x="263" y="943"/>
+      <point x="315" y="1058"/>
+    </contour>
   </outline>
   <lib>
     <dict>

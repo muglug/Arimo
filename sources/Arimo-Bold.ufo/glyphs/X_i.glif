@@ -7,20 +7,20 @@ Xi
 </note>
   <outline>
     <contour>
-      <point x="1200" y="1409" type="line"/>
-      <point x="119" y="1409" type="line"/>
-      <point x="119" y="1181" type="line"/>
-      <point x="1200" y="1181" type="line"/>
+      <point x="1200" y="1466" type="line"/>
+      <point x="119" y="1466" type="line"/>
+      <point x="119" y="1229" type="line"/>
+      <point x="1200" y="1229" type="line"/>
     </contour>
     <contour>
-      <point x="1080" y="827" type="line"/>
-      <point x="239" y="827" type="line"/>
-      <point x="239" y="599" type="line"/>
-      <point x="1080" y="599" type="line"/>
+      <point x="1080" y="860" type="line"/>
+      <point x="239" y="860" type="line"/>
+      <point x="239" y="623" type="line"/>
+      <point x="1080" y="623" type="line"/>
     </contour>
     <contour>
-      <point x="1235" y="228" type="line"/>
-      <point x="84" y="228" type="line"/>
+      <point x="1235" y="237" type="line"/>
+      <point x="84" y="237" type="line"/>
       <point x="84" y="0" type="line"/>
       <point x="1235" y="0" type="line"/>
     </contour>

@@ -6,7 +6,39 @@
 uniA668
 </note>
   <outline>
-    <component base="O"/>
-    <component base="periodcentered" xOffset="508" yOffset="170"/>
+    <contour>
+      <point x="1495" y="740" type="curve" smooth="yes"/>
+      <point x="1495" y="1213"/>
+      <point x="1228" y="1488"/>
+      <point x="797" y="1488" type="curve" smooth="yes"/>
+      <point x="357" y="1488"/>
+      <point x="97" y="1209"/>
+      <point x="97" y="740" type="curve" smooth="yes"/>
+      <point x="97" y="267"/>
+      <point x="362" y="-20"/>
+      <point x="795" y="-20" type="curve" smooth="yes"/>
+      <point x="1225" y="-20"/>
+      <point x="1495" y="269"/>
+    </contour>
+    <contour>
+      <point x="1300" y="740" type="curve" smooth="yes"/>
+      <point x="1300" y="358"/>
+      <point x="1120" y="140"/>
+      <point x="795" y="140" type="curve" smooth="yes"/>
+      <point x="479" y="140"/>
+      <point x="291" y="372"/>
+      <point x="291" y="740" type="curve" smooth="yes"/>
+      <point x="291" y="1110"/>
+      <point x="474" y="1326"/>
+      <point x="797" y="1326" type="curve" smooth="yes"/>
+      <point x="1117" y="1326"/>
+      <point x="1300" y="1105"/>
+    </contour>
+    <contour>
+      <point x="890" y="870" type="line"/>
+      <point x="695" y="870" type="line"/>
+      <point x="695" y="641" type="line"/>
+      <point x="890" y="641" type="line"/>
+    </contour>
   </outline>
 </glyph>

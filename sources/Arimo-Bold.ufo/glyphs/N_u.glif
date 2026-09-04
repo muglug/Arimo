@@ -6,6 +6,23 @@
 Nu
 </note>
   <outline>
-    <component base="N"/>
+    <contour>
+      <point x="399" y="865" type="line" smooth="yes"/>
+      <point x="399" y="931"/>
+      <point x="393" y="1020"/>
+      <point x="381" y="1129" type="curve"/>
+      <point x="995" y="0" type="line"/>
+      <point x="1341" y="0" type="line"/>
+      <point x="1341" y="1466" type="line"/>
+      <point x="1079" y="1466" type="line"/>
+      <point x="1079" y="614" type="line" smooth="yes"/>
+      <point x="1079" y="528"/>
+      <point x="1085" y="433"/>
+      <point x="1097" y="328" type="curve"/>
+      <point x="474" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -6,6 +6,17 @@
 Zeta
 </note>
   <outline>
-    <component base="Z"/>
+    <contour>
+      <point x="1192" y="240" type="line"/>
+      <point x="389" y="240" type="line"/>
+      <point x="1151" y="1253" type="line"/>
+      <point x="1151" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="1226" type="line"/>
+      <point x="823" y="1226" type="line"/>
+      <point x="61" y="217" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="1192" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

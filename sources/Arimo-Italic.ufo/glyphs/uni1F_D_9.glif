@@ -6,8 +6,18 @@
 uni1FD9
 </note>
   <outline>
-    <component base="I"/>
-    <component base="macron" xOffset="45" yOffset="336"/>
+    <contour>
+      <point x="558" y="1466" type="line"/>
+      <point x="367" y="1466" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="778" y="1768" type="line"/>
+      <point x="228" y="1768" type="line"/>
+      <point x="201" y="1636" type="line"/>
+      <point x="751" y="1636" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

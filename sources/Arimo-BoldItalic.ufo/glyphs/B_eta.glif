@@ -6,7 +6,45 @@
 Beta
 </note>
   <outline>
-    <component base="B"/>
+    <contour>
+      <point x="1372" y="448" type="curve" smooth="yes"/>
+      <point x="1373" y="614"/>
+      <point x="1266" y="736"/>
+      <point x="1085" y="768" type="curve"/>
+      <point x="1298" y="814"/>
+      <point x="1411" y="936"/>
+      <point x="1412" y="1127" type="curve" smooth="yes"/>
+      <point x="1414" y="1351"/>
+      <point x="1241" y="1466"/>
+      <point x="906" y="1466" type="curve" smooth="yes"/>
+      <point x="322" y="1466" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="741" y="0" type="line" smooth="yes"/>
+      <point x="1160" y="0"/>
+      <point x="1369" y="156"/>
+    </contour>
+    <contour>
+      <point x="501" y="875" type="line"/>
+      <point x="571" y="1238" type="line"/>
+      <point x="872" y="1238" type="line" smooth="yes"/>
+      <point x="1051" y="1238"/>
+      <point x="1120" y="1191"/>
+      <point x="1119" y="1080" type="curve" smooth="yes"/>
+      <point x="1118" y="934"/>
+      <point x="1028" y="875"/>
+      <point x="795" y="875" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="375" y="228" type="line"/>
+      <point x="457" y="648" type="line"/>
+      <point x="787" y="648" type="line" smooth="yes"/>
+      <point x="992" y="648"/>
+      <point x="1077" y="580"/>
+      <point x="1076" y="455" type="curve" smooth="yes"/>
+      <point x="1074" y="292"/>
+      <point x="982" y="228"/>
+      <point x="703" y="228" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

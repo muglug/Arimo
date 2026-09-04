@@ -9,16 +9,16 @@ uniA749
     <contour>
       <point x="143" y="0" type="line"/>
       <point x="424" y="0" type="line"/>
-      <point x="424" y="1175" type="line"/>
-      <point x="559" y="1175" type="line"/>
-      <point x="559" y="1345" type="line"/>
-      <point x="424" y="1345" type="line"/>
-      <point x="424" y="1484" type="line"/>
-      <point x="143" y="1484" type="line"/>
-      <point x="143" y="1345" type="line"/>
-      <point x="10" y="1345" type="line"/>
-      <point x="10" y="1175" type="line"/>
-      <point x="143" y="1175" type="line"/>
+      <point x="424" y="1155" type="line"/>
+      <point x="559" y="1155" type="line"/>
+      <point x="559" y="1326" type="line"/>
+      <point x="424" y="1326" type="line"/>
+      <point x="424" y="1466" type="line"/>
+      <point x="143" y="1466" type="line"/>
+      <point x="143" y="1326" type="line"/>
+      <point x="10" y="1326" type="line"/>
+      <point x="10" y="1155" type="line"/>
+      <point x="143" y="1155" type="line"/>
     </contour>
   </outline>
 </glyph>

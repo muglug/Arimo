@@ -6,8 +6,32 @@
 uni045D
 </note>
   <outline>
-    <component base="uni0438" identifier="D52C0DA2"/>
-    <component base="grave" xOffset="170" identifier="780F5735"/>
+    <contour>
+      <point x="840" y="857" type="line"/>
+      <point x="836" y="817"/>
+      <point x="830" y="695"/>
+      <point x="830" y="648" type="curve" smooth="yes"/>
+      <point x="830" y="0" type="line"/>
+      <point x="1002" y="0" type="line"/>
+      <point x="1002" y="1062" type="line"/>
+      <point x="805" y="1062" type="line"/>
+      <point x="306" y="209" type="line"/>
+      <point x="309" y="299"/>
+      <point x="316" y="398"/>
+      <point x="316" y="481" type="curve" smooth="yes"/>
+      <point x="316" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="1202" type="line"/>
+      <point x="483" y="1490" type="line"/>
+      <point x="276" y="1490" type="line"/>
+      <point x="276" y="1461" type="line"/>
+      <point x="606" y="1182" type="line"/>
+      <point x="700" y="1182" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

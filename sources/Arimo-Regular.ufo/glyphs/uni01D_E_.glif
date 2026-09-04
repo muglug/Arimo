@@ -6,7 +6,44 @@
 uni01DE
 </note>
   <outline>
-    <component base="A"/>
-    <component base="uni03080304.cap" xOffset="688"/>
+    <contour>
+      <point x="364" y="429" type="line"/>
+      <point x="1006" y="429" type="line"/>
+      <point x="1167" y="0" type="line"/>
+      <point x="1362" y="0" type="line"/>
+      <point x="796" y="1466" type="line"/>
+      <point x="579" y="1466" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="685" y="1316" type="curve"/>
+      <point x="715" y="1211"/>
+      <point x="749" y="1115"/>
+      <point x="768" y="1068" type="curve" smooth="yes"/>
+      <point x="949" y="584" type="line"/>
+      <point x="422" y="584" type="line"/>
+      <point x="601" y="1061" type="line" smooth="yes"/>
+      <point x="628" y="1133"/>
+      <point x="662" y="1238"/>
+    </contour>
+    <contour>
+      <point x="414" y="1777" type="line"/>
+      <point x="963" y="1777" type="line"/>
+      <point x="963" y="1909" type="line"/>
+      <point x="414" y="1909" type="line"/>
+    </contour>
+    <contour>
+      <point x="824" y="1517" type="line"/>
+      <point x="987" y="1517" type="line"/>
+      <point x="987" y="1708" type="line"/>
+      <point x="824" y="1708" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="1517" type="line"/>
+      <point x="553" y="1517" type="line"/>
+      <point x="553" y="1708" type="line"/>
+      <point x="390" y="1708" type="line"/>
+    </contour>
   </outline>
 </glyph>

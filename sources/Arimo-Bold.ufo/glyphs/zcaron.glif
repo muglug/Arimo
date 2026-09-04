@@ -5,16 +5,38 @@
   <note>
 zcaron
 </note>
-  <anchor x="500" y="1580" name="top"/>
-  <anchor x="930" y="1260" name="caronalt"/>
+  <anchor x="500" y="1562" name="top"/>
+  <anchor x="930" y="1241" name="caronalt"/>
   <anchor x="500" y="-130" name="bottom"/>
-  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1024" y="1522" name="topdouble"/>
   <anchor x="1024" y="-380" name="bottomdouble"/>
-  <anchor x="1024" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1024" y="1822" name="tophalfright"/>
+  <anchor x="0" y="1822" name="tophalfleft"/>
   <anchor x="740" y="0" name="ogonek"/>
   <outline>
-    <component base="z"/>
-    <component base="caron" xOffset="143"/>
+    <contour>
+      <point x="950" y="201" type="line"/>
+      <point x="395" y="201" type="line"/>
+      <point x="901" y="865" type="line"/>
+      <point x="901" y="1062" type="line"/>
+      <point x="123" y="1062" type="line"/>
+      <point x="123" y="863" type="line"/>
+      <point x="591" y="863" type="line"/>
+      <point x="82" y="195" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="950" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="880" y="1482" type="line"/>
+      <point x="880" y="1511" type="line"/>
+      <point x="721" y="1511" type="line"/>
+      <point x="518" y="1317" type="line"/>
+      <point x="514" y="1317" type="line"/>
+      <point x="303" y="1511" type="line"/>
+      <point x="143" y="1511" type="line"/>
+      <point x="143" y="1482" type="line"/>
+      <point x="401" y="1164" type="line"/>
+      <point x="630" y="1164" type="line"/>
+    </contour>
   </outline>
 </glyph>

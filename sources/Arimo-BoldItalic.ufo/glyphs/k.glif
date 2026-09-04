@@ -5,29 +5,29 @@
   <note>
 k
 </note>
-  <anchor x="730" y="1540" name="top"/>
-  <anchor x="1120" y="1540" name="caronalt"/>
+  <anchor x="726" y="1522" name="top"/>
+  <anchor x="1116" y="1522" name="caronalt"/>
   <anchor x="580" y="-130" name="bottom"/>
-  <anchor x="940" y="1100" name="rhotic"/>
-  <anchor x="1000" y="1000" name="horn"/>
-  <anchor x="1139" y="1540" name="topdouble"/>
+  <anchor x="936" y="1080" name="rhotic"/>
+  <anchor x="996" y="982" name="horn"/>
+  <anchor x="1135" y="1522" name="topdouble"/>
   <anchor x="1139" y="-380" name="bottomdouble"/>
-  <anchor x="1139" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1135" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="900" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="400" y="422" type="line"/>
-      <point x="540" y="497" type="line"/>
+      <point x="398" y="414" type="line"/>
+      <point x="538" y="488" type="line"/>
       <point x="728" y="0" type="line"/>
       <point x="1026" y="0" type="line"/>
-      <point x="751" y="660" type="line"/>
-      <point x="1224" y="1082" type="line"/>
-      <point x="902" y="1082" type="line"/>
-      <point x="597" y="788" type="line"/>
-      <point x="437" y="634" type="line"/>
-      <point x="604" y="1484" type="line"/>
-      <point x="323" y="1484" type="line"/>
+      <point x="748" y="648" type="line"/>
+      <point x="1220" y="1062" type="line"/>
+      <point x="898" y="1062" type="line"/>
+      <point x="594" y="773" type="line"/>
+      <point x="435" y="622" type="line"/>
+      <point x="600" y="1466" type="line"/>
+      <point x="319" y="1466" type="line"/>
       <point x="35" y="0" type="line"/>
       <point x="315" y="0" type="line"/>
     </contour>

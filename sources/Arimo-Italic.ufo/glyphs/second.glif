@@ -6,8 +6,18 @@
 second
 </note>
   <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="341"/>
+    <contour>
+      <point x="454" y="1466" type="line"/>
+      <point x="258" y="1466" type="line"/>
+      <point x="190" y="926" type="line"/>
+      <point x="292" y="926" type="line"/>
+    </contour>
+    <contour>
+      <point x="795" y="1466" type="line"/>
+      <point x="599" y="1466" type="line"/>
+      <point x="531" y="926" type="line"/>
+      <point x="633" y="926" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

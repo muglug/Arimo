@@ -7,32 +7,32 @@ uni1E9C
 </note>
   <outline>
     <contour>
-      <point x="386" y="704" type="line"/>
-      <point x="623" y="856" type="line"/>
-      <point x="655" y="1020" type="line"/>
-      <point x="418" y="866" type="line"/>
-      <point x="479" y="1179" type="line" smooth="yes"/>
-      <point x="502" y="1302"/>
-      <point x="541" y="1343"/>
-      <point x="629" y="1343" type="curve" smooth="yes"/>
-      <point x="642" y="1343"/>
-      <point x="672" y="1340"/>
-      <point x="720" y="1335" type="curve"/>
-      <point x="746" y="1472" type="line"/>
-      <point x="713" y="1480"/>
-      <point x="671" y="1484"/>
-      <point x="622" y="1484" type="curve" smooth="yes"/>
-      <point x="438" y="1484"/>
-      <point x="342" y="1412"/>
-      <point x="303" y="1204" type="curve" smooth="yes"/>
-      <point x="280" y="1082" type="line"/>
-      <point x="128" y="1082" type="line"/>
-      <point x="102" y="951" type="line"/>
-      <point x="254" y="951" type="line"/>
-      <point x="211" y="732" type="line"/>
-      <point x="33" y="616" type="line"/>
-      <point x="2" y="457" type="line"/>
-      <point x="180" y="571" type="line"/>
+      <point x="383" y="691" type="line"/>
+      <point x="620" y="840" type="line"/>
+      <point x="651" y="1001" type="line"/>
+      <point x="415" y="850" type="line"/>
+      <point x="475" y="1159" type="line" smooth="yes"/>
+      <point x="498" y="1283"/>
+      <point x="537" y="1324"/>
+      <point x="625" y="1324" type="curve" smooth="yes"/>
+      <point x="638" y="1324"/>
+      <point x="668" y="1321"/>
+      <point x="716" y="1316" type="curve"/>
+      <point x="742" y="1454" type="line"/>
+      <point x="709" y="1462"/>
+      <point x="667" y="1466"/>
+      <point x="618" y="1466" type="curve" smooth="yes"/>
+      <point x="434" y="1466"/>
+      <point x="338" y="1394"/>
+      <point x="299" y="1185" type="curve" smooth="yes"/>
+      <point x="276" y="1062" type="line"/>
+      <point x="124" y="1062" type="line"/>
+      <point x="98" y="933" type="line"/>
+      <point x="250" y="933" type="line"/>
+      <point x="208" y="718" type="line"/>
+      <point x="31" y="605" type="line"/>
+      <point x="0" y="449" type="line"/>
+      <point x="178" y="560" type="line"/>
       <point x="69" y="0" type="line"/>
       <point x="249" y="0" type="line"/>
     </contour>

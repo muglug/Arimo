@@ -6,8 +6,24 @@
 uni0457
 </note>
   <outline>
-    <component base="dotlessi" identifier="D2516CFA"/>
-    <component base="dieresis" xOffset="-53" identifier="E551D084"/>
+    <contour>
+      <point x="374" y="1062" type="line"/>
+      <point x="194" y="1062" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="374" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="549" y="1385" type="line"/>
+      <point x="386" y="1385" type="line"/>
+      <point x="386" y="1200" type="line"/>
+      <point x="549" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="1385" type="line"/>
+      <point x="-8" y="1385" type="line"/>
+      <point x="-8" y="1200" type="line"/>
+      <point x="157" y="1200" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

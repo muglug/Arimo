@@ -10,32 +10,32 @@ uni03D8
       <point x="648" y="-425" type="line"/>
       <point x="943" y="-425" type="line"/>
       <point x="943" y="-8" type="line"/>
-      <point x="1298" y="51"/>
-      <point x="1507" y="319"/>
-      <point x="1507" y="711" type="curve" smooth="yes"/>
-      <point x="1507" y="1148"/>
-      <point x="1239" y="1430"/>
-      <point x="795" y="1430" type="curve" smooth="yes"/>
-      <point x="348" y="1430"/>
-      <point x="84" y="1163"/>
-      <point x="84" y="711" type="curve" smooth="yes"/>
-      <point x="84" y="312"/>
-      <point x="291" y="44"/>
+      <point x="1298" y="53"/>
+      <point x="1507" y="332"/>
+      <point x="1507" y="740" type="curve" smooth="yes"/>
+      <point x="1507" y="1194"/>
+      <point x="1239" y="1488"/>
+      <point x="795" y="1488" type="curve" smooth="yes"/>
+      <point x="348" y="1488"/>
+      <point x="84" y="1210"/>
+      <point x="84" y="740" type="curve" smooth="yes"/>
+      <point x="84" y="325"/>
+      <point x="291" y="46"/>
       <point x="648" y="-9" type="curve"/>
     </contour>
     <contour>
-      <point x="793" y="212" type="curve" smooth="yes"/>
-      <point x="538" y="212"/>
-      <point x="381" y="402"/>
-      <point x="381" y="711" type="curve" smooth="yes"/>
-      <point x="381" y="1018"/>
-      <point x="531" y="1198"/>
-      <point x="795" y="1198" type="curve" smooth="yes"/>
-      <point x="1055" y="1198"/>
-      <point x="1206" y="1015"/>
-      <point x="1206" y="711" type="curve" smooth="yes"/>
-      <point x="1206" y="392"/>
-      <point x="1057" y="212"/>
+      <point x="793" y="221" type="curve" smooth="yes"/>
+      <point x="538" y="221"/>
+      <point x="381" y="418"/>
+      <point x="381" y="740" type="curve" smooth="yes"/>
+      <point x="381" y="1059"/>
+      <point x="531" y="1246"/>
+      <point x="795" y="1246" type="curve" smooth="yes"/>
+      <point x="1055" y="1246"/>
+      <point x="1206" y="1056"/>
+      <point x="1206" y="740" type="curve" smooth="yes"/>
+      <point x="1206" y="408"/>
+      <point x="1057" y="221"/>
     </contour>
   </outline>
 </glyph>

@@ -6,7 +6,41 @@
 omicrontonos
 </note>
   <outline>
-    <component base="o"/>
-    <component base="tonos" xOffset="342"/>
+    <contour>
+      <point x="1171" y="532" type="curve" smooth="yes"/>
+      <point x="1171" y="886"/>
+      <point x="980" y="1082"/>
+      <point x="627" y="1082" type="curve" smooth="yes"/>
+      <point x="282" y="1082"/>
+      <point x="80" y="874"/>
+      <point x="80" y="532" type="curve" smooth="yes"/>
+      <point x="80" y="189"/>
+      <point x="284" y="-20"/>
+      <point x="621" y="-20" type="curve" smooth="yes"/>
+      <point x="965" y="-20"/>
+      <point x="1171" y="187"/>
+    </contour>
+    <contour>
+      <point x="877" y="532" type="curve" smooth="yes"/>
+      <point x="877" y="290"/>
+      <point x="791" y="169"/>
+      <point x="618" y="169" type="curve" smooth="yes"/>
+      <point x="461" y="169"/>
+      <point x="375" y="295"/>
+      <point x="375" y="532" type="curve" smooth="yes"/>
+      <point x="375" y="772"/>
+      <point x="460" y="892"/>
+      <point x="631" y="892" type="curve" smooth="yes"/>
+      <point x="791" y="892"/>
+      <point x="877" y="784"/>
+    </contour>
+    <contour>
+      <point x="853" y="1453" type="line"/>
+      <point x="853" y="1490" type="line"/>
+      <point x="596" y="1490" type="line"/>
+      <point x="527" y="1197" type="line"/>
+      <point x="527" y="1164" type="line"/>
+      <point x="632" y="1164" type="line"/>
+    </contour>
   </outline>
 </glyph>

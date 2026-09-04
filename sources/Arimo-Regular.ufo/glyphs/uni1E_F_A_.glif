@@ -6,8 +6,20 @@
 uni1EFA
 </note>
   <outline>
-    <component base="L" xOffset="380" identifier="1511590F"/>
-    <component base="I" identifier="75B701EA"/>
+    <contour>
+      <point x="1451" y="162" type="line"/>
+      <point x="739" y="162" type="line"/>
+      <point x="739" y="1466" type="line"/>
+      <point x="548" y="1466" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="1451" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="1466" type="line"/>
+      <point x="189" y="1466" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

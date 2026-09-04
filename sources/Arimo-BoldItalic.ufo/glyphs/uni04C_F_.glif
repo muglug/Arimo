@@ -6,7 +6,12 @@
 uni04CF
 </note>
   <outline>
-    <component base="l"/>
+    <contour>
+      <point x="600" y="1466" type="line"/>
+      <point x="319" y="1466" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

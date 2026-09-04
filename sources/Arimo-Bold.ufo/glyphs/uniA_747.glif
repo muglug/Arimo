@@ -7,14 +7,14 @@ uniA747
 </note>
   <outline>
     <contour>
-      <point x="424" y="794" type="line"/>
-      <point x="424" y="1484" type="line"/>
-      <point x="143" y="1484" type="line"/>
-      <point x="143" y="658" type="line"/>
+      <point x="424" y="779" type="line"/>
+      <point x="424" y="1466" type="line"/>
+      <point x="143" y="1466" type="line"/>
+      <point x="143" y="646" type="line"/>
     </contour>
     <contour>
-      <point x="705" y="929" type="line"/>
-      <point x="424" y="793" type="line"/>
+      <point x="705" y="912" type="line"/>
+      <point x="424" y="778" type="line"/>
       <point x="424" y="0" type="line"/>
       <point x="705" y="0" type="line"/>
     </contour>

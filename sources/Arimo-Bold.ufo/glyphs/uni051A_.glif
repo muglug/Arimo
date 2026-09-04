@@ -6,6 +6,46 @@
 uni051A
 </note>
   <outline>
-    <component base="Q"/>
+    <contour>
+      <point x="1507" y="740" type="curve" smooth="yes"/>
+      <point x="1507" y="1205"/>
+      <point x="1242" y="1488"/>
+      <point x="795" y="1488" type="curve" smooth="yes"/>
+      <point x="348" y="1488"/>
+      <point x="84" y="1210"/>
+      <point x="84" y="740" type="curve" smooth="yes"/>
+      <point x="84" y="306"/>
+      <point x="304" y="27"/>
+      <point x="684" y="-10" type="curve"/>
+      <point x="771" y="-291"/>
+      <point x="909" y="-403"/>
+      <point x="1126" y="-403" type="curve" smooth="yes"/>
+      <point x="1203" y="-403"/>
+      <point x="1284" y="-394"/>
+      <point x="1368" y="-375" type="curve"/>
+      <point x="1370" y="-173" type="line"/>
+      <point x="1330" y="-180"/>
+      <point x="1290" y="-183"/>
+      <point x="1251" y="-183" type="curve" smooth="yes"/>
+      <point x="1103" y="-183"/>
+      <point x="1028" y="-128"/>
+      <point x="983" y="4" type="curve"/>
+      <point x="1312" y="74"/>
+      <point x="1507" y="349"/>
+    </contour>
+    <contour>
+      <point x="1206" y="740" type="curve" smooth="yes"/>
+      <point x="1206" y="407"/>
+      <point x="1057" y="220"/>
+      <point x="793" y="220" type="curve" smooth="yes"/>
+      <point x="537" y="220"/>
+      <point x="381" y="418"/>
+      <point x="381" y="740" type="curve" smooth="yes"/>
+      <point x="381" y="1059"/>
+      <point x="531" y="1246"/>
+      <point x="795" y="1246" type="curve" smooth="yes"/>
+      <point x="1055" y="1246"/>
+      <point x="1206" y="1056"/>
+    </contour>
   </outline>
 </glyph>

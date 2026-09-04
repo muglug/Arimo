@@ -7,25 +7,25 @@ uniA659
 </note>
   <outline>
     <contour>
-      <point x="717" y="1082" type="line"/>
-      <point x="504" y="1082" type="line"/>
+      <point x="713" y="1062" type="line"/>
+      <point x="500" y="1062" type="line"/>
       <point x="-103" y="0" type="line"/>
       <point x="907" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="423" y="624" type="line"/>
-      <point x="500" y="767"/>
-      <point x="519" y="809"/>
-      <point x="582" y="941" type="curve"/>
-      <point x="595" y="835"/>
-      <point x="608" y="730"/>
-      <point x="621" y="624" type="curve"/>
+      <point x="421" y="612" type="line"/>
+      <point x="497" y="753"/>
+      <point x="516" y="794"/>
+      <point x="578" y="924" type="curve"/>
+      <point x="592" y="820"/>
+      <point x="605" y="717"/>
+      <point x="619" y="612" type="curve"/>
     </contour>
     <contour>
-      <point x="158" y="131" type="line"/>
-      <point x="352" y="493" type="line"/>
-      <point x="641" y="493" type="line"/>
-      <point x="695" y="131" type="line"/>
+      <point x="157" y="129" type="line"/>
+      <point x="350" y="484" type="line"/>
+      <point x="639" y="484" type="line"/>
+      <point x="694" y="129" type="line"/>
     </contour>
   </outline>
   <lib>

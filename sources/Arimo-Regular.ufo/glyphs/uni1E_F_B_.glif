@@ -7,24 +7,24 @@ uni1EFB
 </note>
   <outline>
     <contour>
-      <point x="318" y="1051" type="line"/>
-      <point x="688" y="1051" type="line"/>
+      <point x="318" y="1032" type="line"/>
+      <point x="688" y="1032" type="line"/>
       <point x="688" y="0" type="line"/>
       <point x="868" y="0" type="line"/>
-      <point x="868" y="1051" type="line"/>
-      <point x="1035" y="1051" type="line"/>
-      <point x="1035" y="1182" type="line"/>
-      <point x="868" y="1182" type="line"/>
-      <point x="868" y="1484" type="line"/>
-      <point x="688" y="1484" type="line"/>
-      <point x="688" y="1182" type="line"/>
-      <point x="318" y="1182" type="line"/>
-      <point x="318" y="1484" type="line"/>
-      <point x="138" y="1484" type="line"/>
-      <point x="138" y="1182" type="line"/>
-      <point x="-30" y="1182" type="line"/>
-      <point x="-30" y="1051" type="line"/>
-      <point x="138" y="1051" type="line"/>
+      <point x="868" y="1032" type="line"/>
+      <point x="1035" y="1032" type="line"/>
+      <point x="1035" y="1162" type="line"/>
+      <point x="868" y="1162" type="line"/>
+      <point x="868" y="1466" type="line"/>
+      <point x="688" y="1466" type="line"/>
+      <point x="688" y="1162" type="line"/>
+      <point x="318" y="1162" type="line"/>
+      <point x="318" y="1466" type="line"/>
+      <point x="138" y="1466" type="line"/>
+      <point x="138" y="1162" type="line"/>
+      <point x="-30" y="1162" type="line"/>
+      <point x="-30" y="1032" type="line"/>
+      <point x="138" y="1032" type="line"/>
       <point x="138" y="0" type="line"/>
       <point x="318" y="0" type="line"/>
     </contour>

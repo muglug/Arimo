@@ -6,8 +6,29 @@
 uniA75F
 </note>
   <outline>
-    <component base="v"/>
-    <component base="slash" xOffset="112" yOffset="-170"/>
+    <contour>
+      <point x="1118" y="1062" type="line"/>
+      <point x="922" y="1062" type="line"/>
+      <point x="541" y="369" type="line" smooth="yes"/>
+      <point x="509" y="311"/>
+      <point x="478" y="252"/>
+      <point x="448" y="190" type="curve" smooth="yes"/>
+      <point x="422" y="138" type="line"/>
+      <point x="418" y="190" type="line" smooth="yes"/>
+      <point x="411" y="266"/>
+      <point x="405" y="327"/>
+      <point x="399" y="371" type="curve" smooth="yes"/>
+      <point x="295" y="1062" type="line"/>
+      <point x="108" y="1062" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="853" y="1295" type="line"/>
+      <point x="695" y="1295" type="line"/>
+      <point x="-4" y="-190" type="line"/>
+      <point x="157" y="-190" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

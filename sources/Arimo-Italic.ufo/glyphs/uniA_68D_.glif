@@ -18,12 +18,12 @@ uniA68D
       <point x="420" y="-153"/>
       <point x="422" y="-135"/>
       <point x="426" y="-115" type="curve" smooth="yes"/>
-      <point x="637" y="951" type="line"/>
-      <point x="981" y="951" type="line"/>
-      <point x="1007" y="1082" type="line"/>
-      <point x="139" y="1082" type="line"/>
-      <point x="113" y="951" type="line"/>
-      <point x="457" y="951" type="line"/>
+      <point x="633" y="933" type="line"/>
+      <point x="977" y="933" type="line"/>
+      <point x="1003" y="1062" type="line"/>
+      <point x="135" y="1062" type="line"/>
+      <point x="109" y="933" type="line"/>
+      <point x="453" y="933" type="line"/>
       <point x="243" y="-129" type="line" smooth="yes"/>
       <point x="236" y="-162"/>
       <point x="233" y="-192"/>

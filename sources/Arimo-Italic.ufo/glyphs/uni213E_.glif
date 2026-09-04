@@ -7,18 +7,18 @@ uni213E
 </note>
   <outline>
     <contour>
-      <point x="520" y="1254" type="line"/>
-      <point x="1071" y="1254" type="line"/>
-      <point x="1071" y="1410" type="line"/>
-      <point x="168" y="1410" type="line"/>
+      <point x="531" y="1305" type="line"/>
+      <point x="1082" y="1305" type="line"/>
+      <point x="1083" y="1467" type="line"/>
+      <point x="180" y="1467" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="520" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="299" y="120" type="line"/>
-      <point x="299" y="1254" type="line"/>
-      <point x="389" y="1254" type="line"/>
-      <point x="389" y="120" type="line"/>
+      <point x="300" y="125" type="line"/>
+      <point x="310" y="1305" type="line"/>
+      <point x="400" y="1305" type="line"/>
+      <point x="390" y="125" type="line"/>
     </contour>
   </outline>
   <lib>

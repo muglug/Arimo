@@ -6,8 +6,55 @@
 uni1F25
 </note>
   <outline>
-    <component base="eta" identifier="51D7C2E0"/>
-    <component base="uni1FDE" xOffset="266" yOffset="100" identifier="BFF9FD98"/>
+    <contour>
+      <point x="1006" y="708" type="line" smooth="yes"/>
+      <point x="1006" y="975"/>
+      <point x="900" y="1082"/>
+      <point x="663" y="1082" type="curve" smooth="yes"/>
+      <point x="502" y="1082"/>
+      <point x="400" y="1027"/>
+      <point x="317" y="880" type="curve"/>
+      <point x="314" y="880" type="line"/>
+      <point x="314" y="934"/>
+      <point x="299" y="1011"/>
+      <point x="276" y="1062" type="curve"/>
+      <point x="106" y="1062" type="line"/>
+      <point x="130" y="991"/>
+      <point x="142" y="916"/>
+      <point x="142" y="835" type="curve" smooth="yes"/>
+      <point x="142" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="615" type="line" smooth="yes"/>
+      <point x="322" y="823"/>
+      <point x="429" y="945"/>
+      <point x="602" y="945" type="curve" smooth="yes"/>
+      <point x="779" y="945"/>
+      <point x="825" y="865"/>
+      <point x="825" y="673" type="curve" smooth="yes"/>
+      <point x="825" y="-424" type="line"/>
+      <point x="1006" y="-424" type="line"/>
+    </contour>
+    <contour>
+      <point x="507" y="1566" type="line"/>
+      <point x="308" y="1566" type="line"/>
+      <point x="308" y="1489" type="line" smooth="yes"/>
+      <point x="308" y="1374"/>
+      <point x="324" y="1310"/>
+      <point x="384" y="1238" type="curve"/>
+      <point x="511" y="1238" type="line"/>
+      <point x="451" y="1306"/>
+      <point x="420" y="1353"/>
+      <point x="420" y="1401" type="curve"/>
+      <point x="507" y="1401" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="1265" type="line"/>
+      <point x="709" y="1265" type="line"/>
+      <point x="898" y="1552" type="line"/>
+      <point x="898" y="1566" type="line"/>
+      <point x="668" y="1566" type="line"/>
+      <point x="595" y="1277" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

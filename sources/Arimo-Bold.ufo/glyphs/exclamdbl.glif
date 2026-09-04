@@ -6,7 +6,29 @@
 exclamdbl
 </note>
   <outline>
-    <component base="exclam"/>
-    <component base="exclam" xOffset="557"/>
+    <contour>
+      <point x="487" y="1466" type="line"/>
+      <point x="193" y="1466" type="line"/>
+      <point x="225" y="443" type="line"/>
+      <point x="455" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="281" type="line"/>
+      <point x="193" y="281" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1044" y="1466" type="line"/>
+      <point x="750" y="1466" type="line"/>
+      <point x="782" y="443" type="line"/>
+      <point x="1012" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="1038" y="281" type="line"/>
+      <point x="750" y="281" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="1038" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

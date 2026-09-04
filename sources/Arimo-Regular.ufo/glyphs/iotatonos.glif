@@ -6,8 +6,26 @@
 iotatonos
 </note>
   <outline>
-    <component base="iota" identifier="4152C6AD"/>
-    <component base="tonos" xOffset="-47" identifier="0F9A32A0"/>
+    <contour>
+      <point x="199" y="0" type="curve"/>
+      <point x="397" y="0" type="line"/>
+      <point x="348" y="52"/>
+      <point x="317" y="137"/>
+      <point x="317" y="223" type="curve" smooth="yes"/>
+      <point x="317" y="1062" type="line"/>
+      <point x="137" y="1062" type="line"/>
+      <point x="137" y="232" type="line" smooth="yes"/>
+      <point x="137" y="141"/>
+      <point x="159" y="42"/>
+    </contour>
+    <contour>
+      <point x="434" y="1488" type="line"/>
+      <point x="434" y="1525" type="line"/>
+      <point x="227" y="1525" type="line"/>
+      <point x="158" y="1232" type="line"/>
+      <point x="158" y="1199" type="line"/>
+      <point x="233" y="1199" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

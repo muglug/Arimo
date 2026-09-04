@@ -6,7 +6,23 @@
 uni1D20
 </note>
   <outline>
-    <component base="v"/>
+    <contour>
+      <point x="1228" y="1062" type="line"/>
+      <point x="926" y="1062" type="line"/>
+      <point x="612" y="465" type="line" smooth="yes"/>
+      <point x="578" y="398"/>
+      <point x="546" y="328"/>
+      <point x="513" y="252" type="curve" smooth="yes"/>
+      <point x="491" y="204" type="line"/>
+      <point x="488" y="254" type="line" smooth="yes"/>
+      <point x="484" y="324"/>
+      <point x="472" y="439"/>
+      <point x="468" y="468" type="curve" smooth="yes"/>
+      <point x="395" y="1062" type="line"/>
+      <point x="106" y="1062" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="622" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

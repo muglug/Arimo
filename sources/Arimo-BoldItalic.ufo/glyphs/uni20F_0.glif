@@ -5,7 +5,23 @@
 uni20F0
 </note>
   <outline>
-    <component base="asterisk" xOffset="-379" yOffset="321"/>
+    <contour>
+      <point x="434" y="1089" type="line"/>
+      <point x="248" y="1302" type="line"/>
+      <point x="498" y="1363" type="line"/>
+      <point x="430" y="1560" type="line"/>
+      <point x="195" y="1456" type="line"/>
+      <point x="213" y="1730" type="line"/>
+      <point x="-2" y="1730" type="line"/>
+      <point x="16" y="1456" type="line"/>
+      <point x="-223" y="1560" type="line"/>
+      <point x="-291" y="1363" type="line"/>
+      <point x="-41" y="1302" type="line"/>
+      <point x="-231" y="1091" type="line"/>
+      <point x="-45" y="968" type="line"/>
+      <point x="104" y="1220" type="line"/>
+      <point x="250" y="968" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

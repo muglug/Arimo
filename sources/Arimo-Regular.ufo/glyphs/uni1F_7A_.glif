@@ -6,8 +6,38 @@
 uni1F7A
 </note>
   <outline>
-    <component base="upsilon" identifier="52BCFAC2"/>
-    <component base="uni1FEF" xOffset="127" identifier="B0B643D2"/>
+    <contour>
+      <point x="1022" y="560" type="curve" smooth="yes"/>
+      <point x="1022" y="714"/>
+      <point x="982" y="908"/>
+      <point x="911" y="1062" type="curve"/>
+      <point x="723" y="1062" type="line"/>
+      <point x="782" y="951"/>
+      <point x="837" y="724"/>
+      <point x="837" y="557" type="curve" smooth="yes"/>
+      <point x="837" y="241"/>
+      <point x="761" y="117"/>
+      <point x="565" y="117" type="curve" smooth="yes"/>
+      <point x="386" y="117"/>
+      <point x="314" y="214"/>
+      <point x="314" y="405" type="curve" smooth="yes"/>
+      <point x="314" y="1062" type="line"/>
+      <point x="133" y="1062" type="line"/>
+      <point x="133" y="411" type="line" smooth="yes"/>
+      <point x="133" y="114"/>
+      <point x="260" y="-20"/>
+      <point x="557" y="-20" type="curve" smooth="yes"/>
+      <point x="865" y="-20"/>
+      <point x="1022" y="177"/>
+    </contour>
+    <contour>
+      <point x="606" y="1232" type="line"/>
+      <point x="537" y="1525" type="line"/>
+      <point x="330" y="1525" type="line"/>
+      <point x="330" y="1488" type="line"/>
+      <point x="531" y="1199" type="line"/>
+      <point x="606" y="1199" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

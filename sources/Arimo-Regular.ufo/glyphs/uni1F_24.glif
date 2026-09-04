@@ -6,8 +6,55 @@
 uni1F24
 </note>
   <outline>
-    <component base="eta" identifier="07488D6C"/>
-    <component base="uni1FCE" xOffset="310" yOffset="100" identifier="6F17F922"/>
+    <contour>
+      <point x="1006" y="708" type="line" smooth="yes"/>
+      <point x="1006" y="975"/>
+      <point x="900" y="1082"/>
+      <point x="663" y="1082" type="curve" smooth="yes"/>
+      <point x="502" y="1082"/>
+      <point x="400" y="1027"/>
+      <point x="317" y="880" type="curve"/>
+      <point x="314" y="880" type="line"/>
+      <point x="314" y="934"/>
+      <point x="299" y="1011"/>
+      <point x="276" y="1062" type="curve"/>
+      <point x="106" y="1062" type="line"/>
+      <point x="130" y="991"/>
+      <point x="142" y="916"/>
+      <point x="142" y="835" type="curve" smooth="yes"/>
+      <point x="142" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="615" type="line" smooth="yes"/>
+      <point x="322" y="823"/>
+      <point x="429" y="945"/>
+      <point x="602" y="945" type="curve" smooth="yes"/>
+      <point x="779" y="945"/>
+      <point x="825" y="865"/>
+      <point x="825" y="673" type="curve" smooth="yes"/>
+      <point x="825" y="-424" type="line"/>
+      <point x="1006" y="-424" type="line"/>
+    </contour>
+    <contour>
+      <point x="712" y="1566" type="line"/>
+      <point x="639" y="1277" type="line"/>
+      <point x="639" y="1265" type="line"/>
+      <point x="753" y="1265" type="line"/>
+      <point x="942" y="1552" type="line"/>
+      <point x="942" y="1566" type="line"/>
+    </contour>
+    <contour>
+      <point x="555" y="1566" type="line"/>
+      <point x="356" y="1566" type="line"/>
+      <point x="356" y="1401" type="line"/>
+      <point x="443" y="1401" type="line"/>
+      <point x="443" y="1353"/>
+      <point x="412" y="1306"/>
+      <point x="352" y="1238" type="curve"/>
+      <point x="479" y="1238" type="line"/>
+      <point x="539" y="1309"/>
+      <point x="555" y="1373"/>
+      <point x="555" y="1489" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

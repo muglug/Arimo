@@ -6,8 +6,24 @@
 uni0407
 </note>
   <outline>
-    <component base="I"/>
-    <component base="dieresis.uc" xOffset="-60"/>
+    <contour>
+      <point x="558" y="1466" type="line"/>
+      <point x="367" y="1466" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="794" y="1783" type="line"/>
+      <point x="621" y="1783" type="line"/>
+      <point x="584" y="1592" type="line"/>
+      <point x="757" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="1783" type="line"/>
+      <point x="237" y="1783" type="line"/>
+      <point x="200" y="1592" type="line"/>
+      <point x="375" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

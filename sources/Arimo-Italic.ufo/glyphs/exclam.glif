@@ -7,14 +7,14 @@ exclam
 </note>
   <outline>
     <contour>
-      <point x="549" y="1409" type="line"/>
-      <point x="353" y="1409" type="line"/>
-      <point x="181" y="397" type="line"/>
-      <point x="329" y="397" type="line"/>
+      <point x="561" y="1466" type="line"/>
+      <point x="365" y="1466" type="line"/>
+      <point x="184" y="413" type="line"/>
+      <point x="332" y="413" type="line"/>
     </contour>
     <contour>
-      <point x="311" y="201" type="line"/>
-      <point x="117" y="201" type="line"/>
+      <point x="313" y="209" type="line"/>
+      <point x="119" y="209" type="line"/>
       <point x="77" y="0" type="line"/>
       <point x="271" y="0" type="line"/>
     </contour>

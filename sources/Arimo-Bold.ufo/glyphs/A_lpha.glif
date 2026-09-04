@@ -6,6 +6,26 @@
 Alpha
 </note>
   <outline>
-    <component base="A"/>
+    <contour>
+      <point x="471" y="375" type="line"/>
+      <point x="1008" y="375" type="line"/>
+      <point x="1133" y="0" type="line"/>
+      <point x="1425" y="0" type="line"/>
+      <point x="913" y="1466" type="line"/>
+      <point x="565" y="1466" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="739" y="1240" type="curve"/>
+      <point x="756" y="1183"/>
+      <point x="771" y="1124"/>
+      <point x="790" y="1068" type="curve" smooth="yes"/>
+      <point x="942" y="606" type="line"/>
+      <point x="537" y="606" type="line"/>
+      <point x="685" y="1058" type="line" smooth="yes"/>
+      <point x="695" y="1090"/>
+      <point x="726" y="1185"/>
+    </contour>
   </outline>
 </glyph>

@@ -11,19 +11,19 @@ uni2C69
       <point x="1087" y="0" type="line"/>
       <point x="1008" y="-408" type="line"/>
       <point x="1258" y="-408" type="line"/>
-      <point x="1385" y="244" type="line"/>
-      <point x="1178" y="244" type="line"/>
-      <point x="856" y="793" type="line"/>
-      <point x="1603" y="1409" type="line"/>
-      <point x="1234" y="1409" type="line"/>
-      <point x="660" y="927" type="line"/>
-      <point x="474" y="770" type="line"/>
-      <point x="604" y="1409" type="line"/>
-      <point x="309" y="1409" type="line"/>
+      <point x="1387" y="254" type="line"/>
+      <point x="1180" y="254" type="line"/>
+      <point x="863" y="825" type="line"/>
+      <point x="1615" y="1466" type="line"/>
+      <point x="1246" y="1466" type="line"/>
+      <point x="668" y="965" type="line"/>
+      <point x="481" y="801" type="line"/>
+      <point x="616" y="1466" type="line"/>
+      <point x="321" y="1466" type="line"/>
       <point x="36" y="0" type="line"/>
       <point x="328" y="0" type="line"/>
-      <point x="429" y="517" type="line"/>
-      <point x="640" y="640" type="line"/>
+      <point x="433" y="538" type="line"/>
+      <point x="646" y="666" type="line"/>
     </contour>
   </outline>
   <lib>

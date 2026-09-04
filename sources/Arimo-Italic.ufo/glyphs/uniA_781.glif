@@ -6,7 +6,12 @@
 uniA781
 </note>
   <outline>
-    <component base="l" yOffset="-402"/>
+    <contour>
+      <point x="497" y="1062" type="line"/>
+      <point x="317" y="1062" type="line"/>
+      <point x="33" y="-402" type="line"/>
+      <point x="212" y="-402" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

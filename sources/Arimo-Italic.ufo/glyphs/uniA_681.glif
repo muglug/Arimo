@@ -11,27 +11,27 @@ uniA681
       <point x="887" y="0" type="line"/>
       <point x="806" y="-408" type="line"/>
       <point x="969" y="-408" type="line"/>
-      <point x="1075" y="131" type="line"/>
-      <point x="929" y="131" type="line"/>
-      <point x="1118" y="1082" type="line"/>
-      <point x="654" y="1082" type="line"/>
-      <point x="714" y="1384" type="line"/>
-      <point x="534" y="1384" type="line"/>
-      <point x="474" y="1082" type="line"/>
-      <point x="313" y="585"/>
-      <point x="189" y="299"/>
-      <point x="54" y="131" type="curve"/>
-      <point x="-65" y="131" type="line"/>
+      <point x="1074" y="129" type="line"/>
+      <point x="928" y="129" type="line"/>
+      <point x="1114" y="1062" type="line"/>
+      <point x="650" y="1062" type="line"/>
+      <point x="710" y="1366" type="line"/>
+      <point x="530" y="1366" type="line"/>
+      <point x="470" y="1062" type="line"/>
+      <point x="311" y="574"/>
+      <point x="188" y="293"/>
+      <point x="53" y="129" type="curve"/>
+      <point x="-66" y="129" type="line"/>
       <point x="-170" y="-408" type="line"/>
       <point x="-8" y="-408" type="line"/>
     </contour>
     <contour>
-      <point x="252" y="131" type="line"/>
-      <point x="361" y="296"/>
-      <point x="479" y="569"/>
-      <point x="606" y="951" type="curve"/>
-      <point x="912" y="951" type="line"/>
-      <point x="749" y="131" type="line"/>
+      <point x="251" y="129" type="line"/>
+      <point x="360" y="291"/>
+      <point x="477" y="558"/>
+      <point x="602" y="933" type="curve"/>
+      <point x="908" y="933" type="line"/>
+      <point x="748" y="129" type="line"/>
     </contour>
   </outline>
   <lib>

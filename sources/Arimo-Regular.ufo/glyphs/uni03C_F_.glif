@@ -10,17 +10,17 @@ uni03CF
       <point x="760" y="-266" type="line"/>
       <point x="895" y="-402" type="line"/>
       <point x="1341" y="0" type="line"/>
-      <point x="663" y="797" type="line"/>
-      <point x="1263" y="1409" type="line"/>
-      <point x="1038" y="1409" type="line"/>
-      <point x="359" y="703" type="line"/>
-      <point x="359" y="1409" type="line"/>
-      <point x="168" y="1409" type="line"/>
+      <point x="663" y="829" type="line"/>
+      <point x="1263" y="1466" type="line"/>
+      <point x="1038" y="1466" type="line"/>
+      <point x="359" y="731" type="line"/>
+      <point x="359" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="359" y="0" type="line"/>
-      <point x="359" y="540" type="line"/>
-      <point x="543" y="680" type="line"/>
-      <point x="1089" y="30" type="line"/>
+      <point x="359" y="562" type="line"/>
+      <point x="543" y="708" type="line"/>
+      <point x="1089" y="31" type="line"/>
     </contour>
   </outline>
 </glyph>

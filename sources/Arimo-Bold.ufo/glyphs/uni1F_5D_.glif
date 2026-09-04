@@ -6,7 +6,37 @@
 uni1F5D
 </note>
   <outline>
-    <component base="Y" xOffset="780"/>
-    <component base="uni1FDE" xOffset="70"/>
+    <contour>
+      <point x="1611" y="601" type="line"/>
+      <point x="2113" y="1466" type="line"/>
+      <point x="1804" y="1466" type="line"/>
+      <point x="1462" y="846" type="line"/>
+      <point x="1124" y="1466" type="line"/>
+      <point x="815" y="1466" type="line"/>
+      <point x="1317" y="601" type="line"/>
+      <point x="1317" y="0" type="line"/>
+      <point x="1611" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="1544" type="line"/>
+      <point x="70" y="1544" type="line"/>
+      <point x="70" y="1398" type="line" smooth="yes"/>
+      <point x="70" y="1286"/>
+      <point x="93" y="1207"/>
+      <point x="158" y="1111" type="curve"/>
+      <point x="297" y="1111" type="line"/>
+      <point x="234" y="1190"/>
+      <point x="194" y="1257"/>
+      <point x="194" y="1344" type="curve"/>
+      <point x="300" y="1344" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="1206" type="line"/>
+      <point x="493" y="1206" type="line"/>
+      <point x="714" y="1506" type="line"/>
+      <point x="714" y="1544" type="line"/>
+      <point x="457" y="1544" type="line"/>
+      <point x="388" y="1240" type="line"/>
+    </contour>
   </outline>
 </glyph>

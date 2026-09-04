@@ -7,13 +7,13 @@ uni2144
 </note>
   <outline>
     <contour>
-      <point x="684" y="671" type="line"/>
+      <point x="684" y="698" type="line"/>
       <point x="1111" y="0" type="line"/>
       <point x="1321" y="0" type="line"/>
-      <point x="777" y="825" type="line"/>
-      <point x="777" y="1409" type="line"/>
-      <point x="587" y="1409" type="line"/>
-      <point x="587" y="825" type="line"/>
+      <point x="777" y="858" type="line"/>
+      <point x="777" y="1466" type="line"/>
+      <point x="587" y="1466" type="line"/>
+      <point x="587" y="858" type="line"/>
       <point x="45" y="0" type="line"/>
       <point x="255" y="0" type="line"/>
     </contour>

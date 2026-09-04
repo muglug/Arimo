@@ -6,8 +6,48 @@
 onequarter
 </note>
   <outline>
-    <component base="onesuperior" xOffset="12"/>
-    <component base="fraction" xOffset="720"/>
-    <component base="foursuperior" xOffset="946" yOffset="-693"/>
+    <contour>
+      <point x="630" y="815" type="line"/>
+      <point x="460" y="815" type="line"/>
+      <point x="460" y="1414" type="line"/>
+      <point x="285" y="1414" type="line"/>
+      <point x="105" y="1297" type="line"/>
+      <point x="105" y="1175" type="line"/>
+      <point x="278" y="1283" type="line"/>
+      <point x="278" y="815" type="line"/>
+      <point x="94" y="815" type="line"/>
+      <point x="94" y="694" type="line"/>
+      <point x="630" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="1439" y="1409" type="line"/>
+      <point x="1238" y="1409" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="544" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1508" y="141" type="line"/>
+      <point x="1611" y="141" type="line"/>
+      <point x="1611" y="281" type="line"/>
+      <point x="1508" y="281" type="line"/>
+      <point x="1508" y="721" type="line"/>
+      <point x="1297" y="721" type="line"/>
+      <point x="981" y="289" type="line"/>
+      <point x="981" y="141" type="line"/>
+      <point x="1325" y="141" type="line"/>
+      <point x="1325" y="1" type="line"/>
+      <point x="1508" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="1329" y="583" type="curve"/>
+      <point x="1327" y="547"/>
+      <point x="1325" y="511"/>
+      <point x="1325" y="475" type="curve" smooth="yes"/>
+      <point x="1325" y="281" type="line"/>
+      <point x="1123" y="281" type="line"/>
+      <point x="1264" y="475" type="line" smooth="yes"/>
+      <point x="1283" y="503"/>
+      <point x="1300" y="533"/>
+    </contour>
   </outline>
 </glyph>

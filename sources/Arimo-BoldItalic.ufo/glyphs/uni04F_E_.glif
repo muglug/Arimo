@@ -9,22 +9,22 @@ uni04FE
     <contour>
       <point x="928" y="0" type="line"/>
       <point x="1235" y="0" type="line"/>
-      <point x="919" y="629" type="line"/>
-      <point x="1254" y="629" type="line"/>
-      <point x="1293" y="832" type="line"/>
-      <point x="956" y="832" type="line"/>
-      <point x="1468" y="1409" type="line"/>
-      <point x="1155" y="1409" type="line"/>
-      <point x="753" y="938" type="line"/>
-      <point x="529" y="1409" type="line"/>
-      <point x="220" y="1409" type="line"/>
-      <point x="510" y="832" type="line"/>
-      <point x="160" y="832" type="line"/>
-      <point x="121" y="629" type="line"/>
-      <point x="463" y="629" type="line"/>
+      <point x="924" y="654" type="line"/>
+      <point x="1259" y="654" type="line"/>
+      <point x="1300" y="866" type="line"/>
+      <point x="963" y="866" type="line"/>
+      <point x="1480" y="1466" type="line"/>
+      <point x="1167" y="1466" type="line"/>
+      <point x="761" y="976" type="line"/>
+      <point x="541" y="1466" type="line"/>
+      <point x="232" y="1466" type="line"/>
+      <point x="517" y="866" type="line"/>
+      <point x="167" y="866" type="line"/>
+      <point x="126" y="654" type="line"/>
+      <point x="468" y="654" type="line"/>
       <point x="-94" y="0" type="line"/>
       <point x="220" y="0" type="line"/>
-      <point x="675" y="532" type="line"/>
+      <point x="680" y="554" type="line"/>
     </contour>
   </outline>
   <lib>

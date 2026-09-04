@@ -6,7 +6,33 @@
 uni1FD0
 </note>
   <outline>
-    <component base="iota" xOffset="-2"/>
-    <component base="breve" xOffset="-52"/>
+    <contour>
+      <point x="197" y="0" type="curve"/>
+      <point x="497" y="0" type="line"/>
+      <point x="448" y="52"/>
+      <point x="417" y="144"/>
+      <point x="417" y="223" type="curve" smooth="yes"/>
+      <point x="417" y="1062" type="line"/>
+      <point x="135" y="1062" type="line"/>
+      <point x="135" y="232" type="line" smooth="yes"/>
+      <point x="135" y="141"/>
+      <point x="157" y="42"/>
+    </contour>
+    <contour>
+      <point x="244" y="1164" type="curve"/>
+      <point x="448" y="1164"/>
+      <point x="575" y="1290"/>
+      <point x="599" y="1488" type="curve"/>
+      <point x="435" y="1488" type="line"/>
+      <point x="416" y="1383"/>
+      <point x="340" y="1321"/>
+      <point x="245" y="1321" type="curve" smooth="yes"/>
+      <point x="150" y="1321"/>
+      <point x="75" y="1385"/>
+      <point x="54" y="1488" type="curve"/>
+      <point x="-109" y="1488" type="line"/>
+      <point x="-94" y="1299"/>
+      <point x="43" y="1164"/>
+    </contour>
   </outline>
 </glyph>

@@ -5,8 +5,18 @@
 uni0433.loclSRB
 </note>
   <outline>
-    <component base="dotlessi"/>
-    <component base="macron" xOffset="-56"/>
+    <contour>
+      <point x="522" y="1062" type="line"/>
+      <point x="241" y="1062" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="730" y="1352" type="line"/>
+      <point x="140" y="1352" type="line"/>
+      <point x="107" y="1184" type="line"/>
+      <point x="693" y="1184" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

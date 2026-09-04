@@ -7,28 +7,28 @@ uni1D01
 </note>
   <outline>
     <contour>
-      <point x="330" y="332" type="line"/>
-      <point x="701" y="332" type="line"/>
+      <point x="329" y="326" type="line"/>
+      <point x="700" y="326" type="line"/>
       <point x="637" y="0" type="line"/>
       <point x="1330" y="0" type="line"/>
-      <point x="1357" y="139" type="line"/>
-      <point x="844" y="139" type="line"/>
-      <point x="911" y="486" type="line"/>
-      <point x="1360" y="486" type="line"/>
-      <point x="1387" y="624" type="line"/>
-      <point x="938" y="624" type="line"/>
-      <point x="1000" y="943" type="line"/>
-      <point x="1488" y="943" type="line"/>
-      <point x="1515" y="1082" type="line"/>
-      <point x="649" y="1082" type="line"/>
+      <point x="1356" y="136" type="line"/>
+      <point x="843" y="136" type="line"/>
+      <point x="909" y="477" type="line"/>
+      <point x="1358" y="477" type="line"/>
+      <point x="1385" y="612" type="line"/>
+      <point x="936" y="612" type="line"/>
+      <point x="996" y="926" type="line"/>
+      <point x="1484" y="926" type="line"/>
+      <point x="1511" y="1062" type="line"/>
+      <point x="645" y="1062" type="line"/>
       <point x="-87" y="0" type="line"/>
       <point x="106" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="421" y="470" type="line"/>
-      <point x="734" y="943" type="line"/>
-      <point x="820" y="943" type="line"/>
-      <point x="728" y="470" type="line"/>
+      <point x="419" y="461" type="line"/>
+      <point x="730" y="926" type="line"/>
+      <point x="816" y="926" type="line"/>
+      <point x="726" y="461" type="line"/>
     </contour>
   </outline>
   <lib>

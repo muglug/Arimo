@@ -6,8 +6,22 @@
 uni0403
 </note>
   <outline>
-    <component base="Gamma"/>
-    <component base="acute.uc" xOffset="374"/>
+    <contour>
+      <point x="509" y="1305" type="line"/>
+      <point x="1222" y="1305" type="line"/>
+      <point x="1253" y="1467" type="line"/>
+      <point x="349" y="1467" type="line"/>
+      <point x="63" y="1" type="line"/>
+      <point x="254" y="1" type="line"/>
+    </contour>
+    <contour>
+      <point x="1123" y="1818" type="line"/>
+      <point x="1128" y="1848" type="line"/>
+      <point x="921" y="1848" type="line"/>
+      <point x="658" y="1613" type="line"/>
+      <point x="655" y="1592" type="line"/>
+      <point x="769" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -6,7 +6,40 @@
 uni1F2C
 </note>
   <outline>
-    <component base="H" xOffset="600"/>
-    <component base="uni1FCE"/>
+    <contour>
+      <point x="1032" y="628" type="line"/>
+      <point x="1646" y="628" type="line"/>
+      <point x="1646" y="0" type="line"/>
+      <point x="1941" y="0" type="line"/>
+      <point x="1941" y="1466" type="line"/>
+      <point x="1646" y="1466" type="line"/>
+      <point x="1646" y="882" type="line"/>
+      <point x="1032" y="882" type="line"/>
+      <point x="1032" y="1466" type="line"/>
+      <point x="737" y="1466" type="line"/>
+      <point x="737" y="0" type="line"/>
+      <point x="1032" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="387" y="1544" type="line"/>
+      <point x="318" y="1240" type="line"/>
+      <point x="318" y="1206" type="line"/>
+      <point x="423" y="1206" type="line"/>
+      <point x="644" y="1506" type="line"/>
+      <point x="644" y="1544" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="1544" type="line"/>
+      <point x="0" y="1544" type="line"/>
+      <point x="0" y="1344" type="line"/>
+      <point x="106" y="1344" type="line"/>
+      <point x="106" y="1257"/>
+      <point x="66" y="1190"/>
+      <point x="3" y="1111" type="curve"/>
+      <point x="142" y="1111" type="line"/>
+      <point x="214" y="1220"/>
+      <point x="230" y="1294"/>
+      <point x="230" y="1398" type="curve" smooth="yes"/>
+    </contour>
   </outline>
 </glyph>

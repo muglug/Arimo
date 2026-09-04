@@ -5,17 +5,47 @@
   <note>
 Umacron
 </note>
-  <anchor x="920" y="1800" name="top"/>
-  <anchor x="1330" y="1540" name="caronalt"/>
+  <anchor x="935" y="1873" name="top"/>
+  <anchor x="1343" y="1602" name="caronalt"/>
   <anchor x="730" y="-130" name="bottom"/>
-  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1495" y="1914" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1495" y="1914" name="tophalfright"/>
+  <anchor x="16" y="1914" name="tophalfleft"/>
   <anchor x="830" y="0" name="ogonek"/>
   <outline>
-    <component base="U"/>
-    <component base="macron" xOffset="461" yOffset="329"/>
+    <contour>
+      <point x="672" y="-20" type="curve" smooth="yes"/>
+      <point x="1063" y="-20"/>
+      <point x="1278" y="161"/>
+      <point x="1355" y="551" type="curve" smooth="yes"/>
+      <point x="1533" y="1466" type="line"/>
+      <point x="1238" y="1466" type="line"/>
+      <point x="1063" y="563" type="line" smooth="yes"/>
+      <point x="1016" y="316"/>
+      <point x="910" y="220"/>
+      <point x="690" y="220" type="curve" smooth="yes"/>
+      <point x="519" y="220"/>
+      <point x="416" y="302"/>
+      <point x="418" y="444" type="curve" smooth="yes"/>
+      <point x="418" y="504"/>
+      <point x="425" y="563"/>
+      <point x="437" y="623" type="curve" smooth="yes"/>
+      <point x="597" y="1466" type="line"/>
+      <point x="302" y="1466" type="line"/>
+      <point x="147" y="661" type="line" smooth="yes"/>
+      <point x="136" y="610"/>
+      <point x="123" y="510"/>
+      <point x="123" y="448" type="curve" smooth="yes"/>
+      <point x="120" y="149"/>
+      <point x="320" y="-20"/>
+    </contour>
+    <contour>
+      <point x="1266" y="1769" type="line"/>
+      <point x="676" y="1769" type="line"/>
+      <point x="641" y="1594" type="line"/>
+      <point x="1227" y="1594" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

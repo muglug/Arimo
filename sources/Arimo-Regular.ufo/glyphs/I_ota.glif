@@ -6,6 +6,11 @@
 Iota
 </note>
   <outline>
-    <component base="I"/>
+    <contour>
+      <point x="380" y="1466" type="line"/>
+      <point x="189" y="1466" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

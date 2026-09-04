@@ -6,7 +6,53 @@
 uni1FFA
 </note>
   <outline>
-    <component base="uni1FEF" xOffset="-88"/>
-    <component base="Omega" xOffset="266"/>
+    <contour>
+      <point x="396" y="1265" type="line"/>
+      <point x="327" y="1569" type="line"/>
+      <point x="70" y="1569" type="line"/>
+      <point x="70" y="1531" type="line"/>
+      <point x="291" y="1231" type="line"/>
+      <point x="396" y="1231" type="line"/>
+    </contour>
+    <contour>
+      <point x="1087" y="1488" type="curve" smooth="yes"/>
+      <point x="644" y="1488"/>
+      <point x="377" y="1253"/>
+      <point x="377" y="863" type="curve" smooth="yes"/>
+      <point x="377" y="567"/>
+      <point x="512" y="362"/>
+      <point x="800" y="226" type="curve"/>
+      <point x="727" y="233"/>
+      <point x="668" y="237"/>
+      <point x="623" y="237" type="curve" smooth="yes"/>
+      <point x="349" y="237" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1016" y="322" type="line"/>
+      <point x="775" y="441"/>
+      <point x="672" y="600"/>
+      <point x="672" y="805" type="curve" smooth="yes"/>
+      <point x="672" y="1088"/>
+      <point x="825" y="1246"/>
+      <point x="1085" y="1246" type="curve" smooth="yes"/>
+      <point x="1346" y="1246"/>
+      <point x="1497" y="1087"/>
+      <point x="1497" y="805" type="curve" smooth="yes"/>
+      <point x="1497" y="600"/>
+      <point x="1395" y="441"/>
+      <point x="1154" y="322" type="curve"/>
+      <point x="1154" y="0" type="line"/>
+      <point x="1825" y="0" type="line"/>
+      <point x="1825" y="237" type="line"/>
+      <point x="1549" y="237" type="line" smooth="yes"/>
+      <point x="1506" y="237"/>
+      <point x="1447" y="233"/>
+      <point x="1371" y="226" type="curve"/>
+      <point x="1656" y="360"/>
+      <point x="1797" y="565"/>
+      <point x="1797" y="861" type="curve" smooth="yes"/>
+      <point x="1797" y="1250"/>
+      <point x="1530" y="1488"/>
+    </contour>
   </outline>
 </glyph>

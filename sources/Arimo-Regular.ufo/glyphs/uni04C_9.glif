@@ -9,18 +9,18 @@ uni04C9
     <contour>
       <point x="1136" y="-410" type="line"/>
       <point x="1308" y="-410" type="line"/>
-      <point x="1496" y="173" type="line"/>
-      <point x="1312" y="173" type="line"/>
-      <point x="1312" y="1409" type="line"/>
-      <point x="1121" y="1409" type="line"/>
-      <point x="1121" y="813" type="line"/>
-      <point x="359" y="813" type="line"/>
-      <point x="359" y="1409" type="line"/>
-      <point x="168" y="1409" type="line"/>
+      <point x="1496" y="180" type="line"/>
+      <point x="1312" y="180" type="line"/>
+      <point x="1312" y="1466" type="line"/>
+      <point x="1121" y="1466" type="line"/>
+      <point x="1121" y="846" type="line"/>
+      <point x="359" y="846" type="line"/>
+      <point x="359" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="359" y="0" type="line"/>
-      <point x="359" y="653" type="line"/>
-      <point x="1121" y="653" type="line"/>
+      <point x="359" y="679" type="line"/>
+      <point x="1121" y="679" type="line"/>
       <point x="1121" y="0" type="line"/>
       <point x="1274" y="0" type="line"/>
     </contour>

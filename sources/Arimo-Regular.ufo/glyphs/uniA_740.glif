@@ -7,24 +7,24 @@ uniA740
 </note>
   <outline>
     <contour>
-      <point x="359" y="540" type="line"/>
-      <point x="543" y="680" type="line"/>
+      <point x="359" y="562" type="line"/>
+      <point x="543" y="708" type="line"/>
       <point x="1106" y="0" type="line"/>
       <point x="1343" y="0" type="line"/>
-      <point x="663" y="797" type="line"/>
-      <point x="1263" y="1409" type="line"/>
-      <point x="1038" y="1409" type="line"/>
-      <point x="359" y="703" type="line"/>
-      <point x="359" y="1047" type="line"/>
-      <point x="542" y="1047" type="line"/>
-      <point x="542" y="1194" type="line"/>
-      <point x="359" y="1194" type="line"/>
-      <point x="359" y="1409" type="line"/>
-      <point x="168" y="1409" type="line"/>
-      <point x="168" y="1194" type="line"/>
-      <point x="4" y="1194" type="line"/>
-      <point x="4" y="1047" type="line"/>
-      <point x="168" y="1047" type="line"/>
+      <point x="663" y="829" type="line"/>
+      <point x="1263" y="1466" type="line"/>
+      <point x="1038" y="1466" type="line"/>
+      <point x="359" y="731" type="line"/>
+      <point x="359" y="1089" type="line"/>
+      <point x="542" y="1089" type="line"/>
+      <point x="542" y="1242" type="line"/>
+      <point x="359" y="1242" type="line"/>
+      <point x="359" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
+      <point x="168" y="1242" type="line"/>
+      <point x="4" y="1242" type="line"/>
+      <point x="4" y="1089" type="line"/>
+      <point x="168" y="1089" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="359" y="0" type="line"/>
     </contour>

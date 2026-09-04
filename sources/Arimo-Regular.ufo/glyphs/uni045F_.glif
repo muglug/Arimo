@@ -13,12 +13,12 @@ uni045F
       <point x="647" y="-408" type="line"/>
       <point x="647" y="0" type="line"/>
       <point x="989" y="0" type="line"/>
-      <point x="989" y="1082" type="line"/>
-      <point x="809" y="1082" type="line"/>
-      <point x="809" y="131" type="line"/>
-      <point x="322" y="131" type="line"/>
-      <point x="322" y="1082" type="line"/>
-      <point x="142" y="1082" type="line"/>
+      <point x="989" y="1062" type="line"/>
+      <point x="809" y="1062" type="line"/>
+      <point x="809" y="129" type="line"/>
+      <point x="322" y="129" type="line"/>
+      <point x="322" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
     </contour>
   </outline>
 </glyph>

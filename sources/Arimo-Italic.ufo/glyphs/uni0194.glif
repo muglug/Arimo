@@ -5,13 +5,13 @@
   <note>
 uni0194
 </note>
-  <anchor x="640" y="1540" name="top"/>
-  <anchor x="1260" y="1540" name="caronalt"/>
+  <anchor x="653" y="1602" name="top"/>
+  <anchor x="1273" y="1602" name="caronalt"/>
   <anchor x="320" y="-540" name="bottom"/>
-  <anchor x="1278" y="1540" name="topdouble"/>
+  <anchor x="1291" y="1602" name="topdouble"/>
   <anchor x="1278" y="-380" name="bottomdouble"/>
-  <anchor x="1278" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1294" y="1914" name="tophalfright"/>
+  <anchor x="16" y="1914" name="tophalfleft"/>
   <anchor x="480" y="-400" name="ogonek"/>
   <outline>
     <contour>
@@ -24,19 +24,19 @@ uni0194
       <point x="628" y="-112" type="curve" smooth="yes"/>
       <point x="628" y="-75"/>
       <point x="624" y="-33"/>
-      <point x="615" y="15" type="curve" smooth="yes"/>
-      <point x="606" y="63"/>
-      <point x="585" y="140"/>
-      <point x="551" y="247" type="curve"/>
-      <point x="1307" y="1409" type="line"/>
-      <point x="1101" y="1409" type="line"/>
-      <point x="481" y="412" type="line"/>
-      <point x="247" y="1409" type="line"/>
-      <point x="49" y="1409" type="line"/>
-      <point x="353" y="257" type="line"/>
-      <point x="280" y="156"/>
-      <point x="230" y="83"/>
-      <point x="204" y="38" type="curve" smooth="yes"/>
+      <point x="615" y="16" type="curve" smooth="yes"/>
+      <point x="607" y="66"/>
+      <point x="586" y="146"/>
+      <point x="553" y="257" type="curve"/>
+      <point x="1319" y="1466" type="line"/>
+      <point x="1113" y="1466" type="line"/>
+      <point x="485" y="429" type="line"/>
+      <point x="259" y="1466" type="line"/>
+      <point x="61" y="1466" type="line"/>
+      <point x="355" y="267" type="line"/>
+      <point x="281" y="162"/>
+      <point x="231" y="86"/>
+      <point x="204" y="40" type="curve" smooth="yes"/>
       <point x="152" y="-53"/>
       <point x="120" y="-137"/>
       <point x="120" y="-205" type="curve" smooth="yes"/>
@@ -50,9 +50,9 @@ uni0194
       <point x="285" y="-193" type="curve" smooth="yes"/>
       <point x="285" y="-137"/>
       <point x="327" y="-34"/>
-      <point x="396" y="75" type="curve" smooth="yes"/>
-      <point x="432" y="130" type="line"/>
-      <point x="454" y="54"/>
+      <point x="397" y="78" type="curve" smooth="yes"/>
+      <point x="433" y="135" type="line"/>
+      <point x="454" y="56"/>
       <point x="465" y="-21"/>
       <point x="465" y="-96" type="curve" smooth="yes"/>
       <point x="465" y="-209"/>

@@ -6,7 +6,23 @@
 uni0457
 </note>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresis" xOffset="-54"/>
+    <contour>
+      <point x="426" y="1062" type="line"/>
+      <point x="145" y="1062" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="613" y="1400" type="line"/>
+      <point x="396" y="1400" type="line"/>
+      <point x="396" y="1180" type="line"/>
+      <point x="613" y="1180" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="1400" type="line"/>
+      <point x="-38" y="1400" type="line"/>
+      <point x="-38" y="1180" type="line"/>
+      <point x="176" y="1180" type="line"/>
+    </contour>
   </outline>
 </glyph>

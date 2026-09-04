@@ -5,9 +5,33 @@
   <note>
 uni0401
 </note>
-  <anchor x="720" y="1840" name="cytop"/>
+  <anchor x="720" y="1914" name="cytop"/>
   <outline>
-    <component base="E"/>
-    <component base="dieresis.uc" xOffset="377"/>
+    <contour>
+      <point x="1286" y="237" type="line"/>
+      <point x="432" y="237" type="line"/>
+      <point x="432" y="623" type="line"/>
+      <point x="1184" y="623" type="line"/>
+      <point x="1184" y="860" type="line"/>
+      <point x="432" y="860" type="line"/>
+      <point x="432" y="1229" type="line"/>
+      <point x="1245" y="1229" type="line"/>
+      <point x="1245" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="1286" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1043" y="1820" type="line"/>
+      <point x="846" y="1820" type="line"/>
+      <point x="846" y="1592" type="line"/>
+      <point x="1043" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="586" y="1820" type="line"/>
+      <point x="392" y="1820" type="line"/>
+      <point x="392" y="1592" type="line"/>
+      <point x="586" y="1592" type="line"/>
+    </contour>
   </outline>
 </glyph>

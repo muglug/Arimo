@@ -6,8 +6,18 @@
 uni02BA
 </note>
   <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="489"/>
+    <contour>
+      <point x="565" y="1409" type="line"/>
+      <point x="259" y="1409" type="line"/>
+      <point x="195" y="890" type="line"/>
+      <point x="407" y="890" type="line"/>
+    </contour>
+    <contour>
+      <point x="1054" y="1409" type="line"/>
+      <point x="748" y="1409" type="line"/>
+      <point x="684" y="890" type="line"/>
+      <point x="896" y="890" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

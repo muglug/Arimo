@@ -7,18 +7,18 @@ uni20B8
 </note>
   <outline>
     <contour>
-      <point x="1329" y="1409" type="line"/>
-      <point x="254" y="1409" type="line"/>
-      <point x="226" y="1263" type="line"/>
-      <point x="1301" y="1263" type="line"/>
+      <point x="1341" y="1466" type="line"/>
+      <point x="266" y="1466" type="line"/>
+      <point x="237" y="1314" type="line"/>
+      <point x="1312" y="1314" type="line"/>
     </contour>
     <contour>
-      <point x="797" y="983" type="line"/>
-      <point x="1245" y="983" type="line"/>
-      <point x="1276" y="1139" type="line"/>
-      <point x="198" y="1139" type="line"/>
-      <point x="167" y="983" type="line"/>
-      <point x="616" y="983" type="line"/>
+      <point x="805" y="1023" type="line"/>
+      <point x="1253" y="1023" type="line"/>
+      <point x="1286" y="1185" type="line"/>
+      <point x="208" y="1185" type="line"/>
+      <point x="175" y="1023" type="line"/>
+      <point x="624" y="1023" type="line"/>
       <point x="422" y="0" type="line"/>
       <point x="603" y="0" type="line"/>
     </contour>

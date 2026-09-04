@@ -7,8 +7,8 @@ uni04FD
 </note>
   <outline>
     <contour>
-      <point x="510" y="444" type="line"/>
-      <point x="763" y="58" type="line" smooth="yes"/>
+      <point x="510" y="436" type="line"/>
+      <point x="763" y="57" type="line" smooth="yes"/>
       <point x="823" y="-34"/>
       <point x="854" y="-98"/>
       <point x="854" y="-155" type="curve" smooth="yes"/>
@@ -27,14 +27,14 @@ uni04FD
       <point x="1022" y="-152" type="curve" smooth="yes"/>
       <point x="1022" y="-69"/>
       <point x="993" y="13"/>
-      <point x="936" y="95" type="curve" smooth="yes"/>
-      <point x="612" y="558" type="line"/>
-      <point x="979" y="1082" type="line"/>
-      <point x="778" y="1082" type="line"/>
-      <point x="510" y="661" type="line"/>
-      <point x="240" y="1082" type="line"/>
-      <point x="41" y="1082" type="line"/>
-      <point x="408" y="556" type="line"/>
+      <point x="936" y="93" type="curve" smooth="yes"/>
+      <point x="612" y="548" type="line"/>
+      <point x="979" y="1062" type="line"/>
+      <point x="778" y="1062" type="line"/>
+      <point x="510" y="649" type="line"/>
+      <point x="240" y="1062" type="line"/>
+      <point x="41" y="1062" type="line"/>
+      <point x="408" y="546" type="line"/>
       <point x="23" y="0" type="line"/>
       <point x="217" y="0" type="line"/>
     </contour>

@@ -5,8 +5,26 @@
 dottediacute
 </note>
   <outline>
-    <component base="i"/>
-    <component base="acute.uc" xOffset="32" yOffset="59"/>
+    <contour>
+      <point x="501" y="1484" type="line"/>
+      <point x="321" y="1484" type="line"/>
+      <point x="287" y="1312" type="line"/>
+      <point x="467" y="1312" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="1082" type="line"/>
+      <point x="243" y="1082" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="766" y="1806" type="line"/>
+      <point x="771" y="1835" type="line"/>
+      <point x="564" y="1835" type="line"/>
+      <point x="303" y="1609" type="line"/>
+      <point x="300" y="1589" type="line"/>
+      <point x="414" y="1589" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -5,17 +5,60 @@
   <note>
 uni1E06
 </note>
-  <anchor x="650" y="1540" name="top"/>
-  <anchor x="1080" y="1540" name="caronalt"/>
+  <anchor x="650" y="1602" name="top"/>
+  <anchor x="1080" y="1602" name="caronalt"/>
   <anchor x="640" y="-440" name="bottom"/>
-  <anchor x="1366" y="1540" name="topdouble"/>
+  <anchor x="1366" y="1602" name="topdouble"/>
   <anchor x="1366" y="-380" name="bottomdouble"/>
-  <anchor x="1366" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1366" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="660" y="-310" name="ogonek"/>
   <outline>
-    <component base="B" identifier="B9043C81"/>
-    <component base="uni0331" xOffset="640" identifier="FD354BA3"/>
+    <contour>
+      <point x="1258" y="413" type="curve" smooth="yes"/>
+      <point x="1258" y="609"/>
+      <point x="1132" y="745"/>
+      <point x="908" y="773" type="curve"/>
+      <point x="1079" y="814"/>
+      <point x="1176" y="936"/>
+      <point x="1176" y="1110" type="curve" smooth="yes"/>
+      <point x="1176" y="1347"/>
+      <point x="1011" y="1466"/>
+      <point x="680" y="1466" type="curve" smooth="yes"/>
+      <point x="168" y="1466" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="740" y="0" type="line" smooth="yes"/>
+      <point x="1065" y="0"/>
+      <point x="1258" y="152"/>
+    </contour>
+    <contour>
+      <point x="984" y="1086" type="curve" smooth="yes"/>
+      <point x="984" y="921"/>
+      <point x="884" y="843"/>
+      <point x="680" y="843" type="curve" smooth="yes"/>
+      <point x="359" y="843" type="line"/>
+      <point x="359" y="1307" type="line"/>
+      <point x="680" y="1307" type="line" smooth="yes"/>
+      <point x="877" y="1307"/>
+      <point x="984" y="1244"/>
+    </contour>
+    <contour>
+      <point x="1065" y="429" type="curve" smooth="yes"/>
+      <point x="1065" y="250"/>
+      <point x="963" y="159"/>
+      <point x="730" y="159" type="curve" smooth="yes"/>
+      <point x="359" y="159" type="line"/>
+      <point x="359" y="688" type="line"/>
+      <point x="715" y="688" type="line" smooth="yes"/>
+      <point x="948" y="688"/>
+      <point x="1065" y="601"/>
+    </contour>
+    <contour>
+      <point x="914" y="-324" type="line"/>
+      <point x="914" y="-197" type="line"/>
+      <point x="365" y="-197" type="line"/>
+      <point x="365" y="-324" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

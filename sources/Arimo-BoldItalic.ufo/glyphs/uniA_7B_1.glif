@@ -7,12 +7,12 @@ uniA7B1
 </note>
   <outline>
     <contour>
-      <point x="1175" y="228" type="line"/>
-      <point x="720" y="228" type="line"/>
-      <point x="950" y="1409" type="line"/>
-      <point x="655" y="1409" type="line"/>
-      <point x="425" y="228" type="line"/>
-      <point x="-31" y="228" type="line"/>
+      <point x="1177" y="237" type="line"/>
+      <point x="722" y="237" type="line"/>
+      <point x="962" y="1466" type="line"/>
+      <point x="667" y="1466" type="line"/>
+      <point x="427" y="237" type="line"/>
+      <point x="-29" y="237" type="line"/>
       <point x="-75" y="0" type="line"/>
       <point x="1131" y="0" type="line"/>
     </contour>

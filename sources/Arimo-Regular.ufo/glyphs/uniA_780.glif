@@ -7,10 +7,10 @@ uniA780
 </note>
   <outline>
     <contour>
-      <point x="971" y="1409" type="line"/>
-      <point x="68" y="1409" type="line"/>
-      <point x="68" y="1253" type="line"/>
-      <point x="780" y="1253" type="line"/>
+      <point x="971" y="1466" type="line"/>
+      <point x="68" y="1466" type="line"/>
+      <point x="68" y="1304" type="line"/>
+      <point x="780" y="1304" type="line"/>
       <point x="780" y="0" type="line"/>
       <point x="971" y="0" type="line"/>
     </contour>

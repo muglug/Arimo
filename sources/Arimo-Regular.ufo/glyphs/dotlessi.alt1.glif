@@ -6,8 +6,8 @@ dotlessi.alt1
 </note>
   <outline>
     <contour>
-      <point x="316" y="1062" type="line"/>
-      <point x="136" y="1062" type="line"/>
+      <point x="316" y="1042" type="line"/>
+      <point x="136" y="1042" type="line"/>
       <point x="136" y="0" type="line"/>
       <point x="316" y="0" type="line"/>
     </contour>

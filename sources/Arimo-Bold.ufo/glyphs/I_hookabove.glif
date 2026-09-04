@@ -5,16 +5,44 @@
   <note>
 Ihookabove
 </note>
-  <anchor x="300" y="1900" name="top"/>
-  <anchor x="660" y="1540" name="caronalt"/>
+  <anchor x="300" y="1977" name="top"/>
+  <anchor x="660" y="1602" name="caronalt"/>
   <anchor x="280" y="-130" name="bottom"/>
-  <anchor x="569" y="1840" name="topdouble"/>
+  <anchor x="569" y="1914" name="topdouble"/>
   <anchor x="569" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="569" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="220" y="0" name="ogonek"/>
   <outline>
-    <component base="I"/>
-    <component base="hookabovecomb" xOffset="578"/>
+    <contour>
+      <point x="432" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="1735" type="curve"/>
+      <point x="347" y="1696"/>
+      <point x="300" y="1676"/>
+      <point x="205" y="1676" type="curve"/>
+      <point x="205" y="1551" type="line"/>
+      <point x="355" y="1551" type="line"/>
+      <point x="355" y="1614" type="line"/>
+      <point x="480" y="1623"/>
+      <point x="537" y="1677"/>
+      <point x="537" y="1751" type="curve" smooth="yes"/>
+      <point x="537" y="1852"/>
+      <point x="436" y="1909"/>
+      <point x="248" y="1909" type="curve" smooth="yes"/>
+      <point x="173" y="1909"/>
+      <point x="118" y="1905"/>
+      <point x="81" y="1898" type="curve"/>
+      <point x="92" y="1792" type="line"/>
+      <point x="129" y="1797"/>
+      <point x="165" y="1800"/>
+      <point x="200" y="1800" type="curve" smooth="yes"/>
+      <point x="298" y="1800"/>
+      <point x="347" y="1778"/>
+    </contour>
   </outline>
 </glyph>

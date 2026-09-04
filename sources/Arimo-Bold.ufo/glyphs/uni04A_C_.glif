@@ -7,14 +7,14 @@ uni04AC
 </note>
   <outline>
     <contour>
-      <point x="897" y="244" type="line"/>
-      <point x="773" y="244" type="line"/>
-      <point x="773" y="1181" type="line"/>
-      <point x="1229" y="1181" type="line"/>
-      <point x="1229" y="1409" type="line"/>
-      <point x="23" y="1409" type="line"/>
-      <point x="23" y="1181" type="line"/>
-      <point x="478" y="1181" type="line"/>
+      <point x="897" y="254" type="line"/>
+      <point x="773" y="254" type="line"/>
+      <point x="773" y="1229" type="line"/>
+      <point x="1229" y="1229" type="line"/>
+      <point x="1229" y="1466" type="line"/>
+      <point x="23" y="1466" type="line"/>
+      <point x="23" y="1229" type="line"/>
+      <point x="478" y="1229" type="line"/>
       <point x="478" y="0" type="line"/>
       <point x="647" y="0" type="line"/>
       <point x="647" y="-408" type="line"/>

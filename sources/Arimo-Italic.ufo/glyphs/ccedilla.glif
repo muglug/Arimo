@@ -5,17 +5,76 @@
   <note>
 ccedilla
 </note>
-  <anchor x="600" y="1200" name="top"/>
-  <anchor x="960" y="1200" name="caronalt"/>
+  <anchor x="596" y="1181" name="top"/>
+  <anchor x="956" y="1181" name="caronalt"/>
   <anchor x="450" y="-540" name="bottom"/>
-  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1020" y="1522" name="topdouble"/>
   <anchor x="1024" y="-380" name="bottomdouble"/>
-  <anchor x="1024" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1020" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="480" y="-400" name="ogonek"/>
   <outline>
-    <component base="c"/>
-    <component base="cedilla" xOffset="134"/>
+    <contour>
+      <point x="469" y="120" type="curve"/>
+      <point x="324" y="120"/>
+      <point x="250" y="207"/>
+      <point x="249" y="382" type="curve" smooth="yes"/>
+      <point x="249" y="445"/>
+      <point x="255" y="511"/>
+      <point x="269" y="576" type="curve" smooth="yes"/>
+      <point x="321" y="826"/>
+      <point x="420" y="943"/>
+      <point x="615" y="943" type="curve" smooth="yes"/>
+      <point x="736" y="943"/>
+      <point x="813" y="872"/>
+      <point x="821" y="745" type="curve"/>
+      <point x="998" y="770" type="line"/>
+      <point x="984" y="963"/>
+      <point x="846" y="1082"/>
+      <point x="621" y="1082" type="curve" smooth="yes"/>
+      <point x="389" y="1082"/>
+      <point x="232" y="978"/>
+      <point x="137" y="753" type="curve" smooth="yes"/>
+      <point x="88" y="640"/>
+      <point x="65" y="518"/>
+      <point x="65" y="388" type="curve" smooth="yes"/>
+      <point x="66" y="130"/>
+      <point x="209" y="-20"/>
+      <point x="465" y="-20" type="curve" smooth="yes"/>
+      <point x="684" y="-20"/>
+      <point x="833" y="86"/>
+      <point x="913" y="297" type="curve"/>
+      <point x="757" y="345" type="line"/>
+      <point x="701" y="195"/>
+      <point x="606" y="120"/>
+    </contour>
+    <contour>
+      <point x="452" y="-96" type="curve"/>
+      <point x="511" y="0" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="303" y="-174" type="line"/>
+      <point x="312" y="-173"/>
+      <point x="332" y="-172"/>
+      <point x="361" y="-172" type="curve" smooth="yes"/>
+      <point x="440" y="-172"/>
+      <point x="480" y="-196"/>
+      <point x="480" y="-244" type="curve" smooth="yes"/>
+      <point x="480" y="-304"/>
+      <point x="435" y="-333"/>
+      <point x="314" y="-333" type="curve" smooth="yes"/>
+      <point x="287" y="-333"/>
+      <point x="258" y="-331"/>
+      <point x="226" y="-327" type="curve"/>
+      <point x="205" y="-418" type="line"/>
+      <point x="242" y="-423"/>
+      <point x="278" y="-425"/>
+      <point x="311" y="-425" type="curve" smooth="yes"/>
+      <point x="513" y="-425"/>
+      <point x="614" y="-361"/>
+      <point x="614" y="-232" type="curve" smooth="yes"/>
+      <point x="614" y="-153"/>
+      <point x="560" y="-103"/>
+    </contour>
   </outline>
   <lib>
     <dict>

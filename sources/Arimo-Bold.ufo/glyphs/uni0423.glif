@@ -5,32 +5,32 @@
   <note>
 uni0423
 </note>
-  <anchor x="660" y="1540" name="cytop"/>
+  <anchor x="660" y="1602" name="cytop"/>
   <outline>
     <contour>
       <point x="341" y="-20" type="curve" smooth="yes"/>
       <point x="474" y="-20"/>
-      <point x="565" y="19"/>
-      <point x="642" y="108" type="curve" smooth="yes"/>
-      <point x="680" y="152"/>
-      <point x="722" y="222"/>
-      <point x="768" y="318" type="curve" smooth="yes"/>
-      <point x="1293" y="1409" type="line"/>
-      <point x="994" y="1409" type="line"/>
-      <point x="696" y="729" type="line"/>
-      <point x="308" y="1409" type="line"/>
-      <point x="1" y="1409" type="line"/>
-      <point x="557" y="477" type="line"/>
-      <point x="521" y="398"/>
-      <point x="493" y="346"/>
-      <point x="474" y="320" type="curve" smooth="yes"/>
-      <point x="434" y="267"/>
-      <point x="393" y="244"/>
-      <point x="330" y="244" type="curve" smooth="yes"/>
-      <point x="283" y="244"/>
-      <point x="229" y="258"/>
-      <point x="170" y="286" type="curve"/>
-      <point x="88" y="40" type="line"/>
+      <point x="565" y="20"/>
+      <point x="642" y="112" type="curve" smooth="yes"/>
+      <point x="680" y="158"/>
+      <point x="722" y="231"/>
+      <point x="768" y="331" type="curve" smooth="yes"/>
+      <point x="1293" y="1466" type="line"/>
+      <point x="994" y="1466" type="line"/>
+      <point x="696" y="758" type="line"/>
+      <point x="308" y="1466" type="line"/>
+      <point x="1" y="1466" type="line"/>
+      <point x="557" y="496" type="line"/>
+      <point x="521" y="414"/>
+      <point x="493" y="360"/>
+      <point x="474" y="333" type="curve" smooth="yes"/>
+      <point x="434" y="278"/>
+      <point x="393" y="254"/>
+      <point x="330" y="254" type="curve" smooth="yes"/>
+      <point x="283" y="254"/>
+      <point x="229" y="268"/>
+      <point x="170" y="298" type="curve"/>
+      <point x="88" y="42" type="line"/>
       <point x="144" y="7"/>
       <point x="246" y="-20"/>
     </contour>

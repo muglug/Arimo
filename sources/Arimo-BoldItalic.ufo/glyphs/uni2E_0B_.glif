@@ -7,16 +7,16 @@ uni2E0B
 </note>
   <outline>
     <contour>
-      <point x="909" y="1409" type="line"/>
-      <point x="113" y="1409" type="line"/>
-      <point x="113" y="613" type="line"/>
-      <point x="909" y="613" type="line"/>
+      <point x="921" y="1466" type="line"/>
+      <point x="125" y="1466" type="line"/>
+      <point x="118" y="638" type="line"/>
+      <point x="914" y="638" type="line"/>
     </contour>
     <contour>
-      <point x="298" y="788" type="line"/>
-      <point x="298" y="1234" type="line"/>
-      <point x="724" y="1234" type="line"/>
-      <point x="724" y="788" type="line"/>
+      <point x="305" y="820" type="line"/>
+      <point x="309" y="1284" type="line"/>
+      <point x="735" y="1284" type="line"/>
+      <point x="731" y="820" type="line"/>
     </contour>
   </outline>
   <lib>

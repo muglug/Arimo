@@ -10,18 +10,18 @@ uni04FC
       <point x="1216" y="-118" type="curve" smooth="yes"/>
       <point x="1216" y="-63"/>
       <point x="1203" y="-10"/>
-      <point x="1177" y="42" type="curve" smooth="yes"/>
-      <point x="830" y="733" type="line"/>
-      <point x="1430" y="1409" type="line"/>
-      <point x="1219" y="1409" type="line"/>
-      <point x="744" y="858" type="line"/>
-      <point x="474" y="1409" type="line"/>
-      <point x="275" y="1409" type="line"/>
-      <point x="615" y="746" type="line"/>
+      <point x="1177" y="44" type="curve" smooth="yes"/>
+      <point x="836" y="763" type="line"/>
+      <point x="1442" y="1466" type="line"/>
+      <point x="1231" y="1466" type="line"/>
+      <point x="751" y="893" type="line"/>
+      <point x="486" y="1466" type="line"/>
+      <point x="287" y="1466" type="line"/>
+      <point x="621" y="776" type="line"/>
       <point x="-39" y="0" type="line"/>
       <point x="172" y="0" type="line"/>
-      <point x="696" y="606" type="line"/>
-      <point x="979" y="40" type="line" smooth="yes"/>
+      <point x="701" y="631" type="line"/>
+      <point x="979" y="42" type="line" smooth="yes"/>
       <point x="1007" y="-17"/>
       <point x="1034" y="-70"/>
       <point x="1034" y="-121" type="curve" smooth="yes"/>

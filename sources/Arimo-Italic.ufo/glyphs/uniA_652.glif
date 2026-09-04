@@ -6,8 +6,44 @@
 uniA652
 </note>
   <outline>
-    <component base="I"/>
-    <component base="uni0462" xOffset="341"/>
+    <contour>
+      <point x="558" y="1466" type="line"/>
+      <point x="367" y="1466" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1059" y="1242" type="line"/>
+      <point x="1103" y="1466" type="line"/>
+      <point x="912" y="1466" type="line"/>
+      <point x="868" y="1242" type="line"/>
+      <point x="482" y="1242" type="line"/>
+      <point x="453" y="1089" type="line"/>
+      <point x="838" y="1089" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="1218" y="0" type="line" smooth="yes"/>
+      <point x="1563" y="0"/>
+      <point x="1773" y="168"/>
+      <point x="1776" y="455" type="curve" smooth="yes"/>
+      <point x="1778" y="704"/>
+      <point x="1600" y="846"/>
+      <point x="1296" y="846" type="curve" smooth="yes"/>
+      <point x="983" y="846" type="line"/>
+      <point x="1030" y="1089" type="line"/>
+      <point x="1435" y="1089" type="line"/>
+      <point x="1464" y="1242" type="line"/>
+    </contour>
+    <contour>
+      <point x="847" y="157" type="line"/>
+      <point x="952" y="688" type="line"/>
+      <point x="1286" y="688" type="line" smooth="yes"/>
+      <point x="1482" y="688"/>
+      <point x="1583" y="601"/>
+      <point x="1582" y="444" type="curve" smooth="yes"/>
+      <point x="1580" y="253"/>
+      <point x="1456" y="157"/>
+      <point x="1210" y="157" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

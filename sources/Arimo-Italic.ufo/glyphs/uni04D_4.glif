@@ -6,7 +6,31 @@
 uni04D4
 </note>
   <outline>
-    <component base="AE"/>
+    <contour>
+      <point x="405" y="429" type="line"/>
+      <point x="948" y="429" type="line"/>
+      <point x="863" y="0" type="line"/>
+      <point x="1834" y="0" type="line"/>
+      <point x="1866" y="162" type="line"/>
+      <point x="1086" y="162" type="line"/>
+      <point x="1186" y="673" type="line"/>
+      <point x="1865" y="673" type="line"/>
+      <point x="1896" y="833" type="line"/>
+      <point x="1217" y="833" type="line"/>
+      <point x="1309" y="1304" type="line"/>
+      <point x="2048" y="1304" type="line"/>
+      <point x="2079" y="1466" type="line"/>
+      <point x="890" y="1466" type="line"/>
+      <point x="-81" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="584" type="line"/>
+      <point x="831" y="1088" type="line"/>
+      <point x="969" y="1313" type="line"/>
+      <point x="1120" y="1313" type="line"/>
+      <point x="978" y="584" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

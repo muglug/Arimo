@@ -6,6 +6,19 @@
 Kappa
 </note>
   <outline>
-    <component base="K"/>
+    <contour>
+      <point x="432" y="535" type="line"/>
+      <point x="606" y="673" type="line"/>
+      <point x="1112" y="0" type="line"/>
+      <point x="1460" y="0" type="line"/>
+      <point x="809" y="846" type="line"/>
+      <point x="1411" y="1466" type="line"/>
+      <point x="1067" y="1466" type="line"/>
+      <point x="432" y="801" type="line"/>
+      <point x="432" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

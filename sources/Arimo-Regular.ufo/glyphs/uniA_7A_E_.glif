@@ -7,16 +7,16 @@ uniA7AE
 </note>
   <outline>
     <contour>
-      <point x="1204" y="156" type="line"/>
-      <point x="720" y="156" type="line"/>
-      <point x="720" y="1253" type="line"/>
-      <point x="1204" y="1253" type="line"/>
-      <point x="1204" y="1409" type="line"/>
-      <point x="46" y="1409" type="line"/>
-      <point x="46" y="1253" type="line"/>
-      <point x="530" y="1253" type="line"/>
-      <point x="530" y="156" type="line"/>
-      <point x="46" y="156" type="line"/>
+      <point x="1204" y="162" type="line"/>
+      <point x="720" y="162" type="line"/>
+      <point x="720" y="1304" type="line"/>
+      <point x="1204" y="1304" type="line"/>
+      <point x="1204" y="1466" type="line"/>
+      <point x="46" y="1466" type="line"/>
+      <point x="46" y="1304" type="line"/>
+      <point x="530" y="1304" type="line"/>
+      <point x="530" y="162" type="line"/>
+      <point x="46" y="162" type="line"/>
       <point x="46" y="0" type="line"/>
       <point x="1204" y="0" type="line"/>
     </contour>

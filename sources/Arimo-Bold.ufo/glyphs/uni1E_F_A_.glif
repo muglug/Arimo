@@ -6,7 +6,19 @@
 uni1EFA
 </note>
   <outline>
-    <component base="L" xOffset="490"/>
-    <component base="I"/>
+    <contour>
+      <point x="1678" y="237" type="line"/>
+      <point x="922" y="237" type="line"/>
+      <point x="922" y="1466" type="line"/>
+      <point x="627" y="1466" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="1678" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

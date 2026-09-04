@@ -6,6 +6,19 @@
 Eta
 </note>
   <outline>
-    <component base="H"/>
+    <contour>
+      <point x="432" y="628" type="line"/>
+      <point x="1046" y="628" type="line"/>
+      <point x="1046" y="0" type="line"/>
+      <point x="1341" y="0" type="line"/>
+      <point x="1341" y="1466" type="line"/>
+      <point x="1046" y="1466" type="line"/>
+      <point x="1046" y="882" type="line"/>
+      <point x="432" y="882" type="line"/>
+      <point x="432" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

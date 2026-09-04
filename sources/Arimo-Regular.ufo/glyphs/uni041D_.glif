@@ -6,6 +6,19 @@
 uni041D
 </note>
   <outline>
-    <component base="H"/>
+    <contour>
+      <point x="359" y="679" type="line"/>
+      <point x="1121" y="679" type="line"/>
+      <point x="1121" y="0" type="line"/>
+      <point x="1312" y="0" type="line"/>
+      <point x="1312" y="1466" type="line"/>
+      <point x="1121" y="1466" type="line"/>
+      <point x="1121" y="846" type="line"/>
+      <point x="359" y="846" type="line"/>
+      <point x="359" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -7,25 +7,25 @@ uniA742
 </note>
   <outline>
     <contour>
-      <point x="429" y="517" type="line"/>
-      <point x="640" y="640" type="line"/>
-      <point x="760" y="423" type="line"/>
-      <point x="479" y="155" type="line"/>
-      <point x="751" y="155" type="line"/>
-      <point x="854" y="253" type="line"/>
+      <point x="433" y="538" type="line"/>
+      <point x="646" y="666" type="line"/>
+      <point x="764" y="440" type="line"/>
+      <point x="480" y="161" type="line"/>
+      <point x="752" y="161" type="line"/>
+      <point x="856" y="263" type="line"/>
       <point x="995" y="0" type="line"/>
       <point x="1321" y="0" type="line"/>
-      <point x="1058" y="448" type="line"/>
-      <point x="1365" y="740" type="line"/>
-      <point x="1093" y="740" type="line"/>
-      <point x="961" y="614" type="line"/>
-      <point x="856" y="793" type="line"/>
-      <point x="1603" y="1409" type="line"/>
-      <point x="1234" y="1409" type="line"/>
-      <point x="663" y="929" type="line"/>
-      <point x="474" y="770" type="line"/>
-      <point x="604" y="1409" type="line"/>
-      <point x="309" y="1409" type="line"/>
+      <point x="1062" y="466" type="line"/>
+      <point x="1371" y="770" type="line"/>
+      <point x="1099" y="770" type="line"/>
+      <point x="966" y="639" type="line"/>
+      <point x="863" y="825" type="line"/>
+      <point x="1615" y="1466" type="line"/>
+      <point x="1246" y="1466" type="line"/>
+      <point x="671" y="967" type="line"/>
+      <point x="481" y="801" type="line"/>
+      <point x="616" y="1466" type="line"/>
+      <point x="321" y="1466" type="line"/>
       <point x="36" y="0" type="line"/>
       <point x="328" y="0" type="line"/>
     </contour>

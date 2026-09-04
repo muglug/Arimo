@@ -7,12 +7,12 @@ uni04F6
 </note>
   <outline>
     <contour>
-      <point x="423" y="160" type="line"/>
-      <point x="285" y="160" type="line"/>
-      <point x="496" y="1253" type="line"/>
-      <point x="1210" y="1253" type="line"/>
-      <point x="1240" y="1409" type="line"/>
-      <point x="336" y="1409" type="line"/>
+      <point x="424" y="166" type="line"/>
+      <point x="286" y="166" type="line"/>
+      <point x="507" y="1304" type="line"/>
+      <point x="1221" y="1304" type="line"/>
+      <point x="1252" y="1466" type="line"/>
+      <point x="348" y="1466" type="line"/>
       <point x="63" y="0" type="line"/>
       <point x="215" y="0" type="line"/>
       <point x="135" y="-408" type="line"/>

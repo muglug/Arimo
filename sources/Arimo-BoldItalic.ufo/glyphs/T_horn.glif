@@ -5,40 +5,40 @@
   <note>
 Thorn
 </note>
-  <anchor x="800" y="1580" name="top"/>
-  <anchor x="1260" y="1260" name="caronalt"/>
+  <anchor x="814" y="1644" name="top"/>
+  <anchor x="1271" y="1311" name="caronalt"/>
   <anchor x="650" y="-130" name="bottom"/>
-  <anchor x="1366" y="1540" name="topdouble"/>
+  <anchor x="1379" y="1602" name="topdouble"/>
   <anchor x="1366" y="-380" name="bottomdouble"/>
-  <anchor x="1366" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1382" y="1914" name="tophalfright"/>
+  <anchor x="16" y="1914" name="tophalfleft"/>
   <anchor x="180" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="384" y="271" type="line"/>
-      <point x="762" y="271" type="line" smooth="yes"/>
-      <point x="1105" y="271"/>
-      <point x="1326" y="462"/>
-      <point x="1326" y="762" type="curve" smooth="yes"/>
-      <point x="1326" y="1026"/>
-      <point x="1135" y="1184"/>
-      <point x="807" y="1184" type="curve" smooth="yes"/>
-      <point x="561" y="1184" type="line"/>
-      <point x="605" y="1409" type="line"/>
-      <point x="310" y="1409" type="line"/>
+      <point x="386" y="282" type="line"/>
+      <point x="764" y="282" type="line" smooth="yes"/>
+      <point x="1107" y="282"/>
+      <point x="1330" y="481"/>
+      <point x="1333" y="793" type="curve" smooth="yes"/>
+      <point x="1335" y="1068"/>
+      <point x="1145" y="1232"/>
+      <point x="817" y="1232" type="curve" smooth="yes"/>
+      <point x="571" y="1232" type="line"/>
+      <point x="617" y="1466" type="line"/>
+      <point x="322" y="1466" type="line"/>
       <point x="36" y="0" type="line"/>
       <point x="331" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="428" y="498" type="line"/>
-      <point x="517" y="955" type="line"/>
-      <point x="779" y="955" type="line" smooth="yes"/>
-      <point x="939" y="955"/>
-      <point x="1027" y="882"/>
-      <point x="1027" y="746" type="curve" smooth="yes"/>
-      <point x="1027" y="570"/>
-      <point x="924" y="498"/>
-      <point x="717" y="498" type="curve" smooth="yes"/>
+      <point x="432" y="518" type="line"/>
+      <point x="525" y="994" type="line"/>
+      <point x="787" y="994" type="line" smooth="yes"/>
+      <point x="947" y="994"/>
+      <point x="1035" y="918"/>
+      <point x="1033" y="776" type="curve" smooth="yes"/>
+      <point x="1032" y="593"/>
+      <point x="928" y="518"/>
+      <point x="721" y="518" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>

@@ -5,24 +5,24 @@
   <note>
 uni214E
 </note>
-  <anchor x="500" y="1200" name="top"/>
-  <anchor x="900" y="1200" name="caronalt"/>
+  <anchor x="496" y="1181" name="top"/>
+  <anchor x="896" y="1181" name="caronalt"/>
   <anchor x="420" y="-130" name="bottom"/>
-  <anchor x="1003" y="1540" name="topdouble"/>
+  <anchor x="999" y="1522" name="topdouble"/>
   <anchor x="1003" y="-380" name="bottomdouble"/>
-  <anchor x="1003" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="999" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="671" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="962" y="1082" type="line"/>
-      <point x="782" y="1082" type="line"/>
-      <point x="688" y="596" type="line"/>
-      <point x="140" y="596" type="line"/>
-      <point x="113" y="458" type="line"/>
-      <point x="661" y="458" type="line"/>
-      <point x="599" y="139" type="line"/>
-      <point x="12" y="139" type="line"/>
+      <point x="958" y="1062" type="line"/>
+      <point x="778" y="1062" type="line"/>
+      <point x="686" y="585" type="line"/>
+      <point x="138" y="585" type="line"/>
+      <point x="111" y="450" type="line"/>
+      <point x="659" y="450" type="line"/>
+      <point x="598" y="136" type="line"/>
+      <point x="11" y="136" type="line"/>
       <point x="-15" y="0" type="line"/>
       <point x="752" y="0" type="line"/>
     </contour>

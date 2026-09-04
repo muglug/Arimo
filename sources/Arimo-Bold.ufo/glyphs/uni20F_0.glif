@@ -5,6 +5,22 @@
 uni20F0
 </note>
   <outline>
-    <component base="asterisk" xOffset="-384" yOffset="321"/>
+    <contour>
+      <point x="347" y="1089" type="line"/>
+      <point x="161" y="1302" type="line"/>
+      <point x="411" y="1363" type="line"/>
+      <point x="343" y="1560" type="line"/>
+      <point x="108" y="1456" type="line"/>
+      <point x="126" y="1730" type="line"/>
+      <point x="-89" y="1730" type="line"/>
+      <point x="-71" y="1456" type="line"/>
+      <point x="-310" y="1560" type="line"/>
+      <point x="-378" y="1363" type="line"/>
+      <point x="-128" y="1302" type="line"/>
+      <point x="-318" y="1091" type="line"/>
+      <point x="-132" y="968" type="line"/>
+      <point x="17" y="1220" type="line"/>
+      <point x="163" y="968" type="line"/>
+    </contour>
   </outline>
 </glyph>

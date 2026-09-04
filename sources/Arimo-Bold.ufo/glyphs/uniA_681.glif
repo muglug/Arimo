@@ -11,27 +11,27 @@ uniA681
       <point x="1017" y="0" type="line"/>
       <point x="1017" y="-408" type="line"/>
       <point x="1262" y="-408" type="line"/>
-      <point x="1262" y="190" type="line"/>
-      <point x="1116" y="190" type="line"/>
-      <point x="1116" y="1082" type="line"/>
-      <point x="604" y="1082" type="line"/>
-      <point x="604" y="1396" type="line"/>
-      <point x="359" y="1396" type="line"/>
-      <point x="359" y="1059" type="line"/>
-      <point x="300" y="614"/>
-      <point x="238" y="350"/>
-      <point x="139" y="190" type="curve"/>
-      <point x="14" y="190" type="line"/>
+      <point x="1262" y="186" type="line"/>
+      <point x="1116" y="186" type="line"/>
+      <point x="1116" y="1062" type="line"/>
+      <point x="604" y="1062" type="line"/>
+      <point x="604" y="1378" type="line"/>
+      <point x="359" y="1378" type="line"/>
+      <point x="359" y="1039" type="line"/>
+      <point x="300" y="603"/>
+      <point x="238" y="344"/>
+      <point x="139" y="186" type="curve"/>
+      <point x="14" y="186" type="line"/>
       <point x="14" y="-408" type="line"/>
       <point x="259" y="-408" type="line"/>
     </contour>
     <contour>
-      <point x="430" y="190" type="line"/>
-      <point x="499" y="324"/>
-      <point x="555" y="558"/>
-      <point x="598" y="892" type="curve"/>
-      <point x="834" y="892" type="line"/>
-      <point x="834" y="190" type="line"/>
+      <point x="430" y="186" type="line"/>
+      <point x="499" y="318"/>
+      <point x="555" y="548"/>
+      <point x="598" y="876" type="curve"/>
+      <point x="834" y="876" type="line"/>
+      <point x="834" y="186" type="line"/>
     </contour>
   </outline>
 </glyph>

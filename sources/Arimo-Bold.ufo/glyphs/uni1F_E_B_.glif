@@ -6,7 +6,24 @@
 uni1FEB
 </note>
   <outline>
-    <component base="Y" xOffset="500"/>
-    <component base="tonos" xOffset="-71"/>
+    <contour>
+      <point x="1331" y="601" type="line"/>
+      <point x="1833" y="1466" type="line"/>
+      <point x="1524" y="1466" type="line"/>
+      <point x="1182" y="846" type="line"/>
+      <point x="844" y="1466" type="line"/>
+      <point x="535" y="1466" type="line"/>
+      <point x="1037" y="601" type="line"/>
+      <point x="1037" y="0" type="line"/>
+      <point x="1331" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="1531" type="line"/>
+      <point x="440" y="1569" type="line"/>
+      <point x="183" y="1569" type="line"/>
+      <point x="114" y="1265" type="line"/>
+      <point x="114" y="1231" type="line"/>
+      <point x="219" y="1231" type="line"/>
+    </contour>
   </outline>
 </glyph>

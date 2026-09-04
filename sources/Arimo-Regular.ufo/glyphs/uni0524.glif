@@ -10,14 +10,14 @@ uni0524
       <point x="1297" y="0" type="line"/>
       <point x="1297" y="-408" type="line"/>
       <point x="1477" y="-408" type="line"/>
-      <point x="1477" y="160" type="line"/>
-      <point x="1312" y="160" type="line"/>
-      <point x="1312" y="1409" type="line"/>
-      <point x="168" y="1409" type="line"/>
+      <point x="1477" y="166" type="line"/>
+      <point x="1312" y="166" type="line"/>
+      <point x="1312" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="359" y="0" type="line"/>
-      <point x="359" y="1248" type="line"/>
-      <point x="1121" y="1248" type="line"/>
+      <point x="359" y="1298" type="line"/>
+      <point x="1121" y="1298" type="line"/>
       <point x="1121" y="0" type="line"/>
     </contour>
   </outline>

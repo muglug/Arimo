@@ -5,17 +5,49 @@
   <note>
 Dcaron
 </note>
-  <anchor x="680" y="1840" name="top"/>
-  <anchor x="1260" y="1540" name="caronalt"/>
+  <anchor x="680" y="1914" name="top"/>
+  <anchor x="1260" y="1602" name="caronalt"/>
   <anchor x="640" y="-130" name="bottom"/>
-  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="1914" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1479" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="670" y="0" name="ogonek"/>
   <outline>
-    <component base="D" identifier="957ECC17"/>
-    <component base="caron.uc" xOffset="358" identifier="563D3A13"/>
+    <contour>
+      <point x="1381" y="748" type="curve" smooth="yes"/>
+      <point x="1381" y="1207"/>
+      <point x="1111" y="1466"/>
+      <point x="634" y="1466" type="curve" smooth="yes"/>
+      <point x="168" y="1466" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="695" y="0" type="line" smooth="yes"/>
+      <point x="1103" y="0"/>
+      <point x="1381" y="285"/>
+    </contour>
+    <contour>
+      <point x="1189" y="748" type="curve" smooth="yes"/>
+      <point x="1189" y="385"/>
+      <point x="986" y="159"/>
+      <point x="673" y="159" type="curve" smooth="yes"/>
+      <point x="359" y="159" type="line"/>
+      <point x="359" y="1307" type="line"/>
+      <point x="630" y="1307" type="line" smooth="yes"/>
+      <point x="993" y="1307"/>
+      <point x="1189" y="1111"/>
+    </contour>
+    <contour>
+      <point x="1020" y="1841" type="line"/>
+      <point x="1020" y="1862" type="line"/>
+      <point x="915" y="1862" type="line"/>
+      <point x="696" y="1718" type="line"/>
+      <point x="694" y="1718" type="line"/>
+      <point x="462" y="1862" type="line"/>
+      <point x="358" y="1862" type="line"/>
+      <point x="358" y="1841" type="line"/>
+      <point x="592" y="1592" type="line"/>
+      <point x="796" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

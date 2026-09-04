@@ -9,16 +9,16 @@ uni0448
     <contour>
       <point x="142" y="0" type="line"/>
       <point x="1501" y="0" type="line"/>
-      <point x="1501" y="1082" type="line"/>
-      <point x="1321" y="1082" type="line"/>
-      <point x="1321" y="131" type="line"/>
-      <point x="912" y="131" type="line"/>
-      <point x="912" y="1082" type="line"/>
-      <point x="732" y="1082" type="line"/>
-      <point x="732" y="131" type="line"/>
-      <point x="322" y="131" type="line"/>
-      <point x="322" y="1082" type="line"/>
-      <point x="142" y="1082" type="line"/>
+      <point x="1501" y="1062" type="line"/>
+      <point x="1321" y="1062" type="line"/>
+      <point x="1321" y="129" type="line"/>
+      <point x="912" y="129" type="line"/>
+      <point x="912" y="1062" type="line"/>
+      <point x="732" y="1062" type="line"/>
+      <point x="732" y="129" type="line"/>
+      <point x="322" y="129" type="line"/>
+      <point x="322" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
     </contour>
   </outline>
 </glyph>

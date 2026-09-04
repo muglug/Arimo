@@ -5,20 +5,20 @@
   <note>
 uni029F
 </note>
-  <anchor x="560" y="1200" name="top"/>
-  <anchor x="720" y="1260" name="caronalt"/>
+  <anchor x="556" y="1181" name="top"/>
+  <anchor x="716" y="1241" name="caronalt"/>
   <anchor x="400" y="-130" name="bottom"/>
-  <anchor x="827" y="1540" name="topdouble"/>
+  <anchor x="823" y="1522" name="topdouble"/>
   <anchor x="827" y="-380" name="bottomdouble"/>
-  <anchor x="827" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="823" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="627" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="763" y="149" type="line"/>
-      <point x="240" y="149" type="line"/>
-      <point x="421" y="1082" type="line"/>
-      <point x="244" y="1082" type="line"/>
+      <point x="762" y="146" type="line"/>
+      <point x="239" y="146" type="line"/>
+      <point x="417" y="1062" type="line"/>
+      <point x="240" y="1062" type="line"/>
       <point x="34" y="0" type="line"/>
       <point x="734" y="0" type="line"/>
     </contour>

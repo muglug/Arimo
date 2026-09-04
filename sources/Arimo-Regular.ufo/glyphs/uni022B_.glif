@@ -6,9 +6,52 @@
 uni022B
 </note>
   <outline>
-    <component base="o" identifier="CD00871F"/>
-    <component base="dieresis" xOffset="242" identifier="EB2175BA"/>
-    <component base="macron" xOffset="242" yOffset="280" identifier="0601E0E1"/>
+    <contour>
+      <point x="1053" y="532" type="curve" smooth="yes"/>
+      <point x="1053" y="908"/>
+      <point x="902" y="1082"/>
+      <point x="571" y="1082" type="curve" smooth="yes"/>
+      <point x="248" y="1082"/>
+      <point x="86" y="898"/>
+      <point x="86" y="532" type="curve" smooth="yes"/>
+      <point x="86" y="175"/>
+      <point x="249" y="-20"/>
+      <point x="565" y="-20" type="curve" smooth="yes"/>
+      <point x="882" y="-20"/>
+      <point x="1053" y="160"/>
+    </contour>
+    <contour>
+      <point x="864" y="532" type="curve" smooth="yes"/>
+      <point x="864" y="242"/>
+      <point x="779" y="111"/>
+      <point x="563" y="111" type="curve" smooth="yes"/>
+      <point x="364" y="111"/>
+      <point x="275" y="252"/>
+      <point x="275" y="532" type="curve" smooth="yes"/>
+      <point x="275" y="820"/>
+      <point x="363" y="951"/>
+      <point x="574" y="951" type="curve" smooth="yes"/>
+      <point x="783" y="951"/>
+      <point x="864" y="825"/>
+    </contour>
+    <contour>
+      <point x="844" y="1385" type="line"/>
+      <point x="681" y="1385" type="line"/>
+      <point x="681" y="1200" type="line"/>
+      <point x="844" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="452" y="1385" type="line"/>
+      <point x="287" y="1385" type="line"/>
+      <point x="287" y="1200" type="line"/>
+      <point x="452" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="1625" type="line"/>
+      <point x="293" y="1498" type="line"/>
+      <point x="842" y="1498" type="line"/>
+      <point x="842" y="1625" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

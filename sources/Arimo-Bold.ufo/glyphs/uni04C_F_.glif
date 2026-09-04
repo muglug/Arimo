@@ -6,6 +6,11 @@
 uni04CF
 </note>
   <outline>
-    <component base="l"/>
+    <contour>
+      <point x="424" y="1466" type="line"/>
+      <point x="143" y="1466" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

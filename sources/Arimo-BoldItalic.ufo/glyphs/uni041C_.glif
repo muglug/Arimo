@@ -6,7 +6,39 @@
 uni041C
 </note>
   <outline>
-    <component base="M"/>
+    <contour>
+      <point x="478" y="923" type="line" smooth="yes"/>
+      <point x="488" y="975"/>
+      <point x="503" y="1085"/>
+      <point x="523" y="1255" type="curve"/>
+      <point x="529" y="1188"/>
+      <point x="541" y="1054"/>
+      <point x="560" y="852" type="curve" smooth="yes"/>
+      <point x="647" y="0" type="line"/>
+      <point x="857" y="0" type="line"/>
+      <point x="1276" y="849" type="line" smooth="yes"/>
+      <point x="1299" y="894"/>
+      <point x="1338" y="977"/>
+      <point x="1462" y="1255" type="curve"/>
+      <point x="1429" y="1122"/>
+      <point x="1403" y="1010"/>
+      <point x="1386" y="920" type="curve" smooth="yes"/>
+      <point x="1206" y="0" type="line"/>
+      <point x="1468" y="0" type="line"/>
+      <point x="1754" y="1466" type="line"/>
+      <point x="1361" y="1466" type="line"/>
+      <point x="889" y="510" type="line"/>
+      <point x="868" y="465"/>
+      <point x="845" y="414"/>
+      <point x="821" y="359" type="curve"/>
+      <point x="814" y="455"/>
+      <point x="806" y="550"/>
+      <point x="798" y="646" type="curve"/>
+      <point x="717" y="1466" type="line"/>
+      <point x="322" y="1466" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="298" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

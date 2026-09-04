@@ -6,7 +6,23 @@
 uni0407
 </note>
   <outline>
-    <component base="I"/>
-    <component base="dieresis.uc" xOffset="-58"/>
+    <contour>
+      <point x="432" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="608" y="1820" type="line"/>
+      <point x="411" y="1820" type="line"/>
+      <point x="411" y="1592" type="line"/>
+      <point x="608" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="1820" type="line"/>
+      <point x="-43" y="1820" type="line"/>
+      <point x="-43" y="1592" type="line"/>
+      <point x="151" y="1592" type="line"/>
+    </contour>
   </outline>
 </glyph>

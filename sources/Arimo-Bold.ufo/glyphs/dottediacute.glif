@@ -5,7 +5,25 @@
 dottediacute
 </note>
   <outline>
-    <component base="i"/>
-    <component base="acute.uc" xOffset="40" yOffset="50"/>
+    <contour>
+      <point x="424" y="1484" type="line"/>
+      <point x="143" y="1484" type="line"/>
+      <point x="143" y="1277" type="line"/>
+      <point x="424" y="1277" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="1082" type="line"/>
+      <point x="143" y="1082" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="637" y="1822" type="line"/>
+      <point x="637" y="1865" type="line"/>
+      <point x="379" y="1865" type="line"/>
+      <point x="127" y="1611" type="line"/>
+      <point x="127" y="1580" type="line"/>
+      <point x="297" y="1580" type="line"/>
+    </contour>
   </outline>
 </glyph>

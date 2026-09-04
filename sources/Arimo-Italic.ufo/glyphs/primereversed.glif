@@ -7,10 +7,10 @@ primereversed
 </note>
   <outline>
     <contour>
-      <point x="403" y="1409" type="line"/>
-      <point x="207" y="1409" type="line"/>
-      <point x="263" y="890" type="line"/>
-      <point x="365" y="890" type="line"/>
+      <point x="415" y="1466" type="line"/>
+      <point x="219" y="1466" type="line"/>
+      <point x="271" y="926" type="line"/>
+      <point x="373" y="926" type="line"/>
     </contour>
   </outline>
   <lib>

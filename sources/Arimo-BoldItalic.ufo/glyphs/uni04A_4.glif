@@ -7,18 +7,18 @@ uni04A4
 </note>
   <outline>
     <contour>
-      <point x="450" y="604" type="line"/>
-      <point x="1065" y="604" type="line"/>
+      <point x="455" y="628" type="line"/>
+      <point x="1070" y="628" type="line"/>
       <point x="948" y="0" type="line"/>
       <point x="1243" y="0" type="line"/>
-      <point x="1472" y="1181" type="line"/>
-      <point x="1887" y="1181" type="line"/>
-      <point x="1931" y="1409" type="line"/>
-      <point x="1221" y="1409" type="line"/>
-      <point x="1112" y="848" type="line"/>
-      <point x="498" y="848" type="line"/>
-      <point x="607" y="1409" type="line"/>
-      <point x="312" y="1409" type="line"/>
+      <point x="1482" y="1229" type="line"/>
+      <point x="1897" y="1229" type="line"/>
+      <point x="1943" y="1466" type="line"/>
+      <point x="1233" y="1466" type="line"/>
+      <point x="1119" y="882" type="line"/>
+      <point x="505" y="882" type="line"/>
+      <point x="619" y="1466" type="line"/>
+      <point x="324" y="1466" type="line"/>
       <point x="39" y="0" type="line"/>
       <point x="334" y="0" type="line"/>
     </contour>

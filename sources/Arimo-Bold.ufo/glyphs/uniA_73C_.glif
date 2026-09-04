@@ -8,15 +8,15 @@ uniA73C
   <outline>
     <contour>
       <point x="1442" y="-105" type="curve" smooth="yes"/>
-      <point x="1992" y="1409" type="line"/>
-      <point x="1687" y="1409" type="line"/>
-      <point x="1330" y="257" type="line"/>
-      <point x="913" y="1409" type="line"/>
-      <point x="565" y="1409" type="line"/>
+      <point x="1992" y="1466" type="line"/>
+      <point x="1687" y="1466" type="line"/>
+      <point x="1330" y="267" type="line"/>
+      <point x="913" y="1466" type="line"/>
+      <point x="565" y="1466" type="line"/>
       <point x="51" y="0" type="line"/>
       <point x="346" y="0" type="line"/>
-      <point x="471" y="360" type="line"/>
-      <point x="1008" y="360" type="line"/>
+      <point x="471" y="375" type="line"/>
+      <point x="1008" y="375" type="line"/>
       <point x="1145" y="-5" type="line"/>
       <point x="1114" y="-66" type="line" smooth="yes"/>
       <point x="1064" y="-164"/>
@@ -33,9 +33,9 @@ uniA73C
       <point x="1358" y="-336"/>
     </contour>
     <contour>
-      <point x="537" y="582" type="line"/>
-      <point x="739" y="1192" type="line"/>
-      <point x="942" y="582" type="line"/>
+      <point x="537" y="606" type="line"/>
+      <point x="739" y="1240" type="line"/>
+      <point x="942" y="606" type="line"/>
     </contour>
   </outline>
 </glyph>

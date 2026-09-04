@@ -5,17 +5,45 @@
   <note>
 Ncaron
 </note>
-  <anchor x="740" y="1840" name="top"/>
-  <anchor x="1300" y="1540" name="caronalt"/>
+  <anchor x="740" y="1914" name="top"/>
+  <anchor x="1300" y="1602" name="caronalt"/>
   <anchor x="730" y="-130" name="bottom"/>
-  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="1914" name="topdouble"/>
   <anchor x="1460" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1479" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="1120" y="0" name="ogonek"/>
   <outline>
-    <component base="N" identifier="F4B6DD1D"/>
-    <component base="caron.uc" xOffset="458" identifier="50FDD7BD"/>
+    <contour>
+      <point x="338" y="974" type="line" smooth="yes"/>
+      <point x="338" y="1065"/>
+      <point x="331" y="1157"/>
+      <point x="328" y="1249" type="curve"/>
+      <point x="1082" y="0" type="line"/>
+      <point x="1312" y="0" type="line"/>
+      <point x="1312" y="1466" type="line"/>
+      <point x="1140" y="1466" type="line"/>
+      <point x="1140" y="505" type="line" smooth="yes"/>
+      <point x="1140" y="443"/>
+      <point x="1144" y="345"/>
+      <point x="1152" y="209" type="curve"/>
+      <point x="390" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1120" y="1841" type="line"/>
+      <point x="1120" y="1862" type="line"/>
+      <point x="1015" y="1862" type="line"/>
+      <point x="796" y="1718" type="line"/>
+      <point x="794" y="1718" type="line"/>
+      <point x="562" y="1862" type="line"/>
+      <point x="458" y="1862" type="line"/>
+      <point x="458" y="1841" type="line"/>
+      <point x="692" y="1592" type="line"/>
+      <point x="896" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

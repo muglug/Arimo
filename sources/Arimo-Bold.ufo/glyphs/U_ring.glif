@@ -5,16 +5,62 @@
   <note>
 Uring
 </note>
-  <anchor x="730" y="2040" name="top"/>
-  <anchor x="1330" y="1700" name="caronalt"/>
+  <anchor x="730" y="2123" name="top"/>
+  <anchor x="1330" y="1769" name="caronalt"/>
   <anchor x="730" y="-130" name="bottom"/>
-  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="1914" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1479" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="830" y="0" name="ogonek"/>
   <outline>
-    <component base="U"/>
-    <component base="ring" xOffset="447" yOffset="334"/>
+    <contour>
+      <point x="723" y="-20" type="curve" smooth="yes"/>
+      <point x="1123" y="-20"/>
+      <point x="1354" y="194"/>
+      <point x="1354" y="565" type="curve" smooth="yes"/>
+      <point x="1354" y="1466" type="line"/>
+      <point x="1059" y="1466" type="line"/>
+      <point x="1059" y="584" type="line" smooth="yes"/>
+      <point x="1059" y="350"/>
+      <point x="942" y="220"/>
+      <point x="731" y="220" type="curve" smooth="yes"/>
+      <point x="526" y="220"/>
+      <point x="418" y="341"/>
+      <point x="418" y="573" type="curve" smooth="yes"/>
+      <point x="418" y="1466" type="line"/>
+      <point x="123" y="1466" type="line"/>
+      <point x="123" y="549" type="line" smooth="yes"/>
+      <point x="123" y="183"/>
+      <point x="335" y="-20"/>
+    </contour>
+    <contour>
+      <point x="994" y="1794" type="curve" smooth="yes"/>
+      <point x="994" y="1939"/>
+      <point x="880" y="2058"/>
+      <point x="740" y="2058" type="curve" smooth="yes"/>
+      <point x="600" y="2058"/>
+      <point x="486" y="1939"/>
+      <point x="486" y="1794" type="curve" smooth="yes"/>
+      <point x="486" y="1648"/>
+      <point x="597" y="1529"/>
+      <point x="740" y="1529" type="curve" smooth="yes"/>
+      <point x="883" y="1529"/>
+      <point x="994" y="1648"/>
+    </contour>
+    <contour>
+      <point x="867" y="1794" type="curve" smooth="yes"/>
+      <point x="867" y="1719"/>
+      <point x="811" y="1661"/>
+      <point x="740" y="1661" type="curve" smooth="yes"/>
+      <point x="672" y="1661"/>
+      <point x="615" y="1716"/>
+      <point x="615" y="1794" type="curve" smooth="yes"/>
+      <point x="615" y="1868"/>
+      <point x="672" y="1924"/>
+      <point x="740" y="1924" type="curve" smooth="yes"/>
+      <point x="812" y="1924"/>
+      <point x="867" y="1864"/>
+    </contour>
   </outline>
 </glyph>

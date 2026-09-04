@@ -6,6 +6,19 @@
 uni1D0B
 </note>
   <outline>
-    <component base="kgreenlandic"/>
+    <contour>
+      <point x="424" y="398" type="line"/>
+      <point x="545" y="481" type="line"/>
+      <point x="834" y="0" type="line"/>
+      <point x="1141" y="0" type="line"/>
+      <point x="732" y="648" type="line"/>
+      <point x="1112" y="1062" type="line"/>
+      <point x="810" y="1062" type="line"/>
+      <point x="424" y="622" type="line"/>
+      <point x="424" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

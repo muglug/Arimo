@@ -6,8 +6,25 @@
 Upsilontonos
 </note>
   <outline>
-    <component base="Y" xOffset="406"/>
-    <component base="tonos" xOffset="-35" yOffset="-133"/>
+    <contour>
+      <point x="1196" y="608" type="line"/>
+      <point x="1907" y="1466" type="line"/>
+      <point x="1693" y="1466" type="line"/>
+      <point x="1127" y="765" type="line"/>
+      <point x="827" y="1466" type="line"/>
+      <point x="631" y="1466" type="line"/>
+      <point x="1008" y="608" type="line"/>
+      <point x="888" y="0" type="line"/>
+      <point x="1078" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="542" y="1429" type="line"/>
+      <point x="549" y="1467" type="line"/>
+      <point x="342" y="1467" type="line"/>
+      <point x="214" y="1163" type="line"/>
+      <point x="207" y="1129" type="line"/>
+      <point x="282" y="1129" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

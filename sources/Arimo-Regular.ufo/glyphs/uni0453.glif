@@ -6,8 +6,22 @@
 uni0453
 </note>
   <outline>
-    <component base="uni0433" identifier="1A3AC8C0"/>
-    <component base="acute" xOffset="216" identifier="ECE87310"/>
+    <contour>
+      <point x="322" y="933" type="line"/>
+      <point x="687" y="933" type="line"/>
+      <point x="687" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="712" y="1461" type="line"/>
+      <point x="712" y="1490" type="line"/>
+      <point x="505" y="1490" type="line"/>
+      <point x="288" y="1202" type="line"/>
+      <point x="288" y="1182" type="line"/>
+      <point x="382" y="1182" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

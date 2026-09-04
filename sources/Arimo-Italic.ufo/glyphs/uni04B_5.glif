@@ -6,8 +6,47 @@
 uni04B5
 </note>
   <outline>
-    <component base="uni0446"/>
-    <component base="macron" xOffset="269"/>
+    <contour>
+      <point x="1062" y="129" type="line"/>
+      <point x="915" y="129" type="line"/>
+      <point x="1097" y="1062" type="line"/>
+      <point x="917" y="1062" type="line"/>
+      <point x="801" y="467" type="line" smooth="yes"/>
+      <point x="759" y="252"/>
+      <point x="621" y="118"/>
+      <point x="453" y="118" type="curve" smooth="yes"/>
+      <point x="334" y="118"/>
+      <point x="273" y="173"/>
+      <point x="273" y="282" type="curve" smooth="yes"/>
+      <point x="273" y="322"/>
+      <point x="279" y="371"/>
+      <point x="290" y="429" type="curve" smooth="yes"/>
+      <point x="414" y="1062" type="line"/>
+      <point x="233" y="1062" type="line"/>
+      <point x="108" y="421" type="line" smooth="yes"/>
+      <point x="95" y="355"/>
+      <point x="88" y="302"/>
+      <point x="88" y="260" type="curve" smooth="yes"/>
+      <point x="89" y="80"/>
+      <point x="189" y="-19"/>
+      <point x="386" y="-19" type="curve" smooth="yes"/>
+      <point x="539" y="-19"/>
+      <point x="640" y="31"/>
+      <point x="750" y="182" type="curve"/>
+      <point x="753" y="182" type="line"/>
+      <point x="744" y="128"/>
+      <point x="726" y="15"/>
+      <point x="726" y="0" type="curve"/>
+      <point x="875" y="0" type="line"/>
+      <point x="795" y="-408" type="line"/>
+      <point x="958" y="-408" type="line"/>
+    </contour>
+    <contour>
+      <point x="983" y="1344" type="line"/>
+      <point x="433" y="1344" type="line"/>
+      <point x="407" y="1217" type="line"/>
+      <point x="957" y="1217" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

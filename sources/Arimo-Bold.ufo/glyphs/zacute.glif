@@ -5,16 +5,34 @@
   <note>
 zacute
 </note>
-  <anchor x="600" y="1580" name="top"/>
-  <anchor x="930" y="1260" name="caronalt"/>
+  <anchor x="600" y="1562" name="top"/>
+  <anchor x="930" y="1241" name="caronalt"/>
   <anchor x="500" y="-130" name="bottom"/>
-  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1024" y="1522" name="topdouble"/>
   <anchor x="1024" y="-380" name="bottomdouble"/>
-  <anchor x="1024" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1024" y="1822" name="tophalfright"/>
+  <anchor x="0" y="1822" name="tophalfleft"/>
   <anchor x="740" y="0" name="ogonek"/>
   <outline>
-    <component base="z"/>
-    <component base="acute" xOffset="249"/>
+    <contour>
+      <point x="950" y="201" type="line"/>
+      <point x="395" y="201" type="line"/>
+      <point x="901" y="865" type="line"/>
+      <point x="901" y="1062" type="line"/>
+      <point x="123" y="1062" type="line"/>
+      <point x="123" y="863" type="line"/>
+      <point x="591" y="863" type="line"/>
+      <point x="82" y="195" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="950" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="846" y="1441" type="line"/>
+      <point x="846" y="1484" type="line"/>
+      <point x="588" y="1484" type="line"/>
+      <point x="336" y="1195" type="line"/>
+      <point x="336" y="1164" type="line"/>
+      <point x="506" y="1164" type="line"/>
+    </contour>
   </outline>
 </glyph>

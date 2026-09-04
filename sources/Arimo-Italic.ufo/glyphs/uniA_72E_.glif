@@ -9,47 +9,47 @@ uniA72E
     <contour>
       <point x="534" y="-19" type="curve" smooth="yes"/>
       <point x="710" y="-19"/>
-      <point x="829" y="87"/>
-      <point x="866" y="276" type="curve" smooth="yes"/>
-      <point x="875" y="319" type="line"/>
-      <point x="1181" y="319" type="line"/>
-      <point x="1212" y="479" type="line"/>
-      <point x="906" y="479" type="line"/>
-      <point x="1090" y="1409" type="line"/>
-      <point x="880" y="1409" type="line"/>
-      <point x="27" y="459" type="line"/>
-      <point x="0" y="319" type="line"/>
-      <point x="684" y="319" type="line"/>
-      <point x="679" y="297" type="line" smooth="yes"/>
-      <point x="658" y="192"/>
-      <point x="613" y="140"/>
-      <point x="544" y="140" type="curve" smooth="yes"/>
-      <point x="519" y="140"/>
-      <point x="492" y="146"/>
-      <point x="461" y="157" type="curve"/>
+      <point x="830" y="91"/>
+      <point x="868" y="287" type="curve" smooth="yes"/>
+      <point x="878" y="332" type="line"/>
+      <point x="1184" y="332" type="line"/>
+      <point x="1216" y="498" type="line"/>
+      <point x="910" y="498" type="line"/>
+      <point x="1102" y="1466" type="line"/>
+      <point x="892" y="1466" type="line"/>
+      <point x="31" y="478" type="line"/>
+      <point x="3" y="332" type="line"/>
+      <point x="687" y="332" type="line"/>
+      <point x="682" y="309" type="line" smooth="yes"/>
+      <point x="660" y="200"/>
+      <point x="614" y="146"/>
+      <point x="545" y="146" type="curve" smooth="yes"/>
+      <point x="520" y="146"/>
+      <point x="493" y="152"/>
+      <point x="462" y="163" type="curve"/>
       <point x="395" y="1" type="line"/>
       <point x="446" y="-12"/>
       <point x="492" y="-19"/>
     </contour>
     <contour>
-      <point x="859" y="1206" type="curve"/>
-      <point x="847" y="1146"/>
-      <point x="836" y="1087"/>
-      <point x="824" y="1027" type="curve"/>
-      <point x="788" y="845"/>
-      <point x="751" y="661"/>
-      <point x="715" y="479" type="curve"/>
-      <point x="230" y="479" type="line"/>
-      <point x="257" y="505"/>
-      <point x="281" y="530"/>
-      <point x="302" y="555" type="curve" smooth="yes"/>
-      <point x="769" y="1087" type="line" smooth="yes"/>
-      <point x="790" y="1112"/>
-      <point x="852" y="1194"/>
+      <point x="869" y="1255" type="curve"/>
+      <point x="857" y="1192"/>
+      <point x="845" y="1131"/>
+      <point x="833" y="1069" type="curve"/>
+      <point x="795" y="879"/>
+      <point x="757" y="688"/>
+      <point x="719" y="498" type="curve"/>
+      <point x="234" y="498" type="line"/>
+      <point x="261" y="525"/>
+      <point x="286" y="551"/>
+      <point x="307" y="577" type="curve" smooth="yes"/>
+      <point x="778" y="1131" type="line" smooth="yes"/>
+      <point x="800" y="1157"/>
+      <point x="862" y="1242"/>
     </contour>
     <contour>
-      <point x="1118" y="219" type="line"/>
-      <point x="923" y="219" type="line"/>
+      <point x="1120" y="228" type="line"/>
+      <point x="925" y="228" type="line"/>
       <point x="880" y="0" type="line"/>
       <point x="968" y="0" type="line"/>
       <point x="950" y="-85"/>
@@ -58,7 +58,7 @@ uniA72E
       <point x="945" y="-262" type="line"/>
       <point x="1020" y="-171"/>
       <point x="1056" y="-90"/>
-      <point x="1085" y="51" type="curve"/>
+      <point x="1085" y="53" type="curve"/>
     </contour>
   </outline>
   <lib>

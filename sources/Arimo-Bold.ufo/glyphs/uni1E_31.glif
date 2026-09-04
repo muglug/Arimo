@@ -5,16 +5,36 @@
   <note>
 uni1E31
 </note>
-  <anchor x="620" y="1900" name="top"/>
-  <anchor x="1120" y="1540" name="caronalt"/>
+  <anchor x="620" y="1882" name="top"/>
+  <anchor x="1120" y="1522" name="caronalt"/>
   <anchor x="580" y="-130" name="bottom"/>
-  <anchor x="1139" y="1840" name="topdouble"/>
+  <anchor x="1139" y="1822" name="topdouble"/>
   <anchor x="1139" y="-380" name="bottomdouble"/>
-  <anchor x="1139" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1139" y="1822" name="tophalfright"/>
+  <anchor x="0" y="1822" name="tophalfleft"/>
   <anchor x="900" y="0" name="ogonek"/>
   <outline>
-    <component base="k"/>
-    <component base="acute.uc" xOffset="272" yOffset="20"/>
+    <contour>
+      <point x="424" y="398" type="line"/>
+      <point x="545" y="481" type="line"/>
+      <point x="834" y="0" type="line"/>
+      <point x="1141" y="0" type="line"/>
+      <point x="732" y="648" type="line"/>
+      <point x="1112" y="1062" type="line"/>
+      <point x="810" y="1062" type="line"/>
+      <point x="424" y="622" type="line"/>
+      <point x="424" y="1466" type="line"/>
+      <point x="143" y="1466" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="869" y="1774" type="line"/>
+      <point x="869" y="1817" type="line"/>
+      <point x="611" y="1817" type="line"/>
+      <point x="359" y="1563" type="line"/>
+      <point x="359" y="1532" type="line"/>
+      <point x="529" y="1532" type="line"/>
+    </contour>
   </outline>
 </glyph>

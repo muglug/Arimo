@@ -6,7 +6,17 @@
 second
 </note>
   <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="342"/>
+    <contour>
+      <point x="345" y="1466" type="line"/>
+      <point x="149" y="1466" type="line"/>
+      <point x="85" y="926" type="line"/>
+      <point x="187" y="926" type="line"/>
+    </contour>
+    <contour>
+      <point x="687" y="1466" type="line"/>
+      <point x="491" y="1466" type="line"/>
+      <point x="427" y="926" type="line"/>
+      <point x="529" y="926" type="line"/>
+    </contour>
   </outline>
 </glyph>

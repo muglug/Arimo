@@ -6,8 +6,28 @@
 Epsilontonos
 </note>
   <outline>
-    <component base="E" xOffset="240" identifier="513A9B81"/>
-    <component base="tonos" xOffset="-216" yOffset="-132" identifier="75740CF4"/>
+    <contour>
+      <point x="1518" y="162" type="line"/>
+      <point x="599" y="162" type="line"/>
+      <point x="599" y="673" type="line"/>
+      <point x="1417" y="673" type="line"/>
+      <point x="1417" y="833" type="line"/>
+      <point x="599" y="833" type="line"/>
+      <point x="599" y="1304" type="line"/>
+      <point x="1477" y="1304" type="line"/>
+      <point x="1477" y="1466" type="line"/>
+      <point x="408" y="1466" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="1518" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="1430" type="line"/>
+      <point x="265" y="1468" type="line"/>
+      <point x="58" y="1468" type="line"/>
+      <point x="-11" y="1164" type="line"/>
+      <point x="-11" y="1130" type="line"/>
+      <point x="64" y="1130" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

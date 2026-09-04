@@ -58,8 +58,8 @@ rule copy
       gftools.builder.jobrunner cp $in $out $stamp
   description = copy
 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5n5p41af
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5n5p41af: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvummao2v
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvummao2v: $
     buildVariable Arimo-Italic.designspace
   operation = buildVariable
   args = --filter ...  --filter FlattenComponentsFilter --filter $
@@ -82,8 +82,8 @@ build instance_ufos/Arimo-BoldItalic.ufo.json: instantiateUfo $
   fontmake_type = -m
   fontmake_args =  --verbose WARNING 
   args =  --ufo-structure=json --output-dir instance_ufos
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpj91y53wf
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpj91y53wf: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5jtalths
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5jtalths: $
     buildVariable Arimo.designspace
   operation = buildVariable
   args = --filter ...  --filter FlattenComponentsFilter --filter $
@@ -110,12 +110,12 @@ build ../fonts/webfonts/Arimo-Italic[wght].woff2: compress $
   operation = compress
 # Postprocessing  with BuildSTAT
 build $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmo2amc_y.buildStatstamp: $
-    buildSTAT-postprocess ../fonts/variable/Arimo[wght].ttf $
-    ../fonts/variable/Arimo-Italic[wght].ttf | $
-    ../fonts/variable/Arimo[wght].ttf ../fonts/variable/Arimo-Italic[wght].ttf
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpv0kti1xw.buildStatstamp: $
+    buildSTAT-postprocess ../fonts/variable/Arimo-Italic[wght].ttf $
+    ../fonts/variable/Arimo[wght].ttf | $
+    ../fonts/variable/Arimo-Italic[wght].ttf ../fonts/variable/Arimo[wght].ttf
   stamp =  && touch $
-      /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmo2amc_y.buildStatstamp
+      /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpv0kti1xw.buildStatstamp
   postprocess = buildStat
 # Generating ../fonts/webfonts/Arimo[wght].woff2
 build ../fonts/webfonts/Arimo[wght].woff2: compress $
@@ -138,140 +138,140 @@ build ../fonts/webfonts/Arimo-Bold.woff2: compress ../fonts/ttf/Arimo-Bold.ttf
   operation = compress
 # Generating ../fonts/variable/Arimo-Italic[wght].ttf
 build ../fonts/variable/Arimo-Italic[wght].ttf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5n5p41af
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvummao2v
   operation = fix
   args = 
 # Generating ../fonts/variable/Arimo[wght].ttf
 build ../fonts/variable/Arimo[wght].ttf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpj91y53wf
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5jtalths
   operation = fix
   args = 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpkq66scm9
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpkq66scm9: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp6v3wuk0o
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp6v3wuk0o: $
     buildTTF instance_ufos/Arimo-Italic.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpftnpin89
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpftnpin89: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvta0_rdf
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvta0_rdf: $
     buildOTF instance_ufos/Arimo-Italic.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvx1gtqem
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvx1gtqem: $
-    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpkq66scm9
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpfh0e4knt
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpfh0e4knt: $
+    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp6v3wuk0o
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Arimo-Italic.ttf
 build ../fonts/ttf/Arimo-Italic.ttf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvx1gtqem
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpfh0e4knt
   operation = fix
   args = 
 # Generating ../fonts/otf/Arimo-Italic.otf
 build ../fonts/otf/Arimo-Italic.otf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpftnpin89
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvta0_rdf
   operation = fix
   args = 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxh4y_f5
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxh4y_f5: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvithiveb
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvithiveb: $
     buildTTF instance_ufos/Arimo-BoldItalic.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpx1vpozxp
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpx1vpozxp: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpcthq3eci
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpcthq3eci: $
     buildOTF instance_ufos/Arimo-BoldItalic.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpanh0an0f
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpanh0an0f: $
-    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxh4y_f5
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpcw0hob0t
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpcw0hob0t: $
+    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvithiveb
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Arimo-BoldItalic.ttf
 build ../fonts/ttf/Arimo-BoldItalic.ttf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpanh0an0f
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpcw0hob0t
   operation = fix
   args = 
 # Generating ../fonts/otf/Arimo-BoldItalic.otf
 build ../fonts/otf/Arimo-BoldItalic.otf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpx1vpozxp
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpcthq3eci
   operation = fix
   args = 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpzsa0sbbf
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpzsa0sbbf: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmmnjc67w
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmmnjc67w: $
     buildTTF instance_ufos/Arimo-Regular.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpchd1tyyj
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpchd1tyyj: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp2ncgqryv
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp2ncgqryv: $
     buildOTF instance_ufos/Arimo-Regular.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp08ppnf12
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp08ppnf12: $
-    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpzsa0sbbf
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp3e_jwmcs
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp3e_jwmcs: $
+    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmmnjc67w
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Arimo-Regular.ttf
 build ../fonts/ttf/Arimo-Regular.ttf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp08ppnf12
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp3e_jwmcs
   operation = fix
   args = 
 # Generating ../fonts/otf/Arimo-Regular.otf
 build ../fonts/otf/Arimo-Regular.otf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpchd1tyyj
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp2ncgqryv
   operation = fix
   args = 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpqoysxhy4
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpqoysxhy4: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpy4_q_tv9
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpy4_q_tv9: $
     buildTTF instance_ufos/Arimo-Bold.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp53g5ta99
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp53g5ta99: $
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpteviozzg
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpteviozzg: $
     buildOTF instance_ufos/Arimo-Bold.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxibcupl
-build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxibcupl: $
-    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpqoysxhy4
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp0asyawcj
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp0asyawcj: $
+    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpy4_q_tv9
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Arimo-Bold.ttf
 build ../fonts/ttf/Arimo-Bold.ttf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxibcupl
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp0asyawcj
   operation = fix
   args = 
 # Generating ../fonts/otf/Arimo-Bold.otf
 build ../fonts/otf/Arimo-Bold.otf: fix $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp53g5ta99
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpteviozzg
   operation = fix
   args = 
 default ../fonts/webfonts/Arimo-Italic[wght].woff2 $
-    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmo2amc_y.buildStatstamp $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpv0kti1xw.buildStatstamp $
     ../fonts/webfonts/Arimo[wght].woff2 $
     ../fonts/webfonts/Arimo-Italic.woff2 $
     ../fonts/webfonts/Arimo-BoldItalic.woff2 $

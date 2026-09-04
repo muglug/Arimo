@@ -5,17 +5,39 @@
   <note>
 uni1E46
 </note>
-  <anchor x="850" y="1540" name="top"/>
-  <anchor x="1420" y="1540" name="caronalt"/>
+  <anchor x="863" y="1602" name="top"/>
+  <anchor x="1433" y="1602" name="caronalt"/>
   <anchor x="600" y="-440" name="bottom"/>
-  <anchor x="1479" y="1540" name="topdouble"/>
+  <anchor x="1492" y="1602" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1495" y="1914" name="tophalfright"/>
+  <anchor x="16" y="1914" name="tophalfleft"/>
   <anchor x="1120" y="0" name="ogonek"/>
   <outline>
-    <component base="N"/>
-    <component base="dotbelowcomb" xOffset="1510"/>
+    <contour>
+      <point x="422" y="981" type="line" smooth="yes"/>
+      <point x="436" y="1048"/>
+      <point x="450" y="1140"/>
+      <point x="466" y="1259" type="curve"/>
+      <point x="987" y="0" type="line"/>
+      <point x="1207" y="0" type="line"/>
+      <point x="1492" y="1466" type="line"/>
+      <point x="1320" y="1466" type="line"/>
+      <point x="1131" y="497" type="line" smooth="yes"/>
+      <point x="1118" y="432"/>
+      <point x="1102" y="333"/>
+      <point x="1084" y="202" type="curve"/>
+      <point x="560" y="1466" type="line"/>
+      <point x="348" y="1466" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="721" y="-139" type="line"/>
+      <point x="541" y="-139" type="line"/>
+      <point x="504" y="-311" type="line"/>
+      <point x="684" y="-311" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

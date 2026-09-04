@@ -7,12 +7,12 @@ uni02E8
 </note>
   <outline>
     <contour>
-      <point x="624" y="1409" type="line"/>
-      <point x="488" y="1409" type="line"/>
-      <point x="488" y="478" type="line"/>
-      <point x="160" y="478" type="line"/>
-      <point x="160" y="342" type="line"/>
-      <point x="488" y="342" type="line"/>
+      <point x="624" y="1466" type="line"/>
+      <point x="488" y="1466" type="line"/>
+      <point x="488" y="497" type="line"/>
+      <point x="160" y="497" type="line"/>
+      <point x="160" y="356" type="line"/>
+      <point x="488" y="356" type="line"/>
       <point x="488" y="0" type="line"/>
       <point x="624" y="0" type="line"/>
     </contour>

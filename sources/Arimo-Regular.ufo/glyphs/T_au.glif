@@ -6,6 +6,15 @@
 Tau
 </note>
   <outline>
-    <component base="T"/>
+    <contour>
+      <point x="720" y="1304" type="line"/>
+      <point x="1204" y="1304" type="line"/>
+      <point x="1204" y="1466" type="line"/>
+      <point x="46" y="1466" type="line"/>
+      <point x="46" y="1304" type="line"/>
+      <point x="530" y="1304" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="720" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

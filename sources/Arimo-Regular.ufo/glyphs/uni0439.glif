@@ -5,10 +5,42 @@
   <note>
 uni0439
 </note>
-  <anchor x="585" y="1580" name="cytop"/>
+  <anchor x="585" y="1562" name="cytop"/>
   <outline>
-    <component base="uni0438" identifier="0BABDE42"/>
-    <component base="breve.cyr" xOffset="234" identifier="935FF26D"/>
+    <contour>
+      <point x="840" y="857" type="line"/>
+      <point x="836" y="817"/>
+      <point x="830" y="695"/>
+      <point x="830" y="648" type="curve" smooth="yes"/>
+      <point x="830" y="0" type="line"/>
+      <point x="1002" y="0" type="line"/>
+      <point x="1002" y="1062" type="line"/>
+      <point x="805" y="1062" type="line"/>
+      <point x="306" y="209" type="line"/>
+      <point x="309" y="299"/>
+      <point x="316" y="398"/>
+      <point x="316" y="481" type="curve" smooth="yes"/>
+      <point x="316" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="574" y="1181" type="curve"/>
+      <point x="811" y="1181"/>
+      <point x="934" y="1288"/>
+      <point x="941" y="1502" type="curve"/>
+      <point x="777" y="1502" type="line"/>
+      <point x="769" y="1369"/>
+      <point x="701" y="1302"/>
+      <point x="574" y="1302" type="curve" smooth="yes"/>
+      <point x="447" y="1302"/>
+      <point x="379" y="1369"/>
+      <point x="371" y="1502" type="curve"/>
+      <point x="207" y="1502" type="line"/>
+      <point x="214" y="1288"/>
+      <point x="337" y="1181"/>
+    </contour>
   </outline>
   <lib>
     <dict>

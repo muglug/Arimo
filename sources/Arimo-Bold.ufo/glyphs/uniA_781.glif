@@ -6,6 +6,11 @@
 uniA781
 </note>
   <outline>
-    <component base="l" yOffset="-402"/>
+    <contour>
+      <point x="424" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
+      <point x="143" y="-402" type="line"/>
+      <point x="424" y="-402" type="line"/>
+    </contour>
   </outline>
 </glyph>

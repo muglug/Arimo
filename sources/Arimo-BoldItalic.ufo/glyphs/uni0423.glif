@@ -5,32 +5,32 @@
   <note>
 uni0423
 </note>
-  <anchor x="820" y="1540" name="cytop"/>
+  <anchor x="833" y="1602" name="cytop"/>
   <outline>
     <contour>
       <point x="293" y="-20" type="curve"/>
       <point x="392" y="-20"/>
       <point x="472" y="0"/>
-      <point x="550" y="56" type="curve" smooth="yes"/>
-      <point x="623" y="108"/>
-      <point x="695" y="191"/>
-      <point x="780" y="318" type="curve" smooth="yes"/>
-      <point x="1517" y="1409" type="line"/>
-      <point x="1208" y="1409" type="line"/>
-      <point x="778" y="729" type="line"/>
-      <point x="522" y="1409" type="line"/>
-      <point x="225" y="1409" type="line"/>
-      <point x="600" y="477" type="line"/>
-      <point x="553" y="405"/>
-      <point x="517" y="355"/>
-      <point x="490" y="327" type="curve" smooth="yes"/>
-      <point x="436" y="270"/>
-      <point x="382" y="244"/>
-      <point x="315" y="244" type="curve" smooth="yes"/>
-      <point x="273" y="244"/>
-      <point x="226" y="258"/>
-      <point x="173" y="286" type="curve"/>
-      <point x="55" y="56" type="line"/>
+      <point x="550" y="58" type="curve" smooth="yes"/>
+      <point x="624" y="112"/>
+      <point x="697" y="199"/>
+      <point x="783" y="331" type="curve" smooth="yes"/>
+      <point x="1529" y="1466" type="line"/>
+      <point x="1220" y="1466" type="line"/>
+      <point x="784" y="758" type="line"/>
+      <point x="534" y="1466" type="line"/>
+      <point x="237" y="1466" type="line"/>
+      <point x="604" y="496" type="line"/>
+      <point x="556" y="421"/>
+      <point x="520" y="369"/>
+      <point x="493" y="340" type="curve" smooth="yes"/>
+      <point x="438" y="281"/>
+      <point x="384" y="254"/>
+      <point x="317" y="254" type="curve" smooth="yes"/>
+      <point x="275" y="254"/>
+      <point x="228" y="268"/>
+      <point x="175" y="298" type="curve"/>
+      <point x="55" y="58" type="line"/>
       <point x="126" y="5"/>
       <point x="206" y="-20"/>
     </contour>

@@ -14,16 +14,16 @@ uniA641
       <point x="759" y="-307"/>
       <point x="871" y="-203"/>
       <point x="871" y="-35" type="curve" smooth="yes"/>
-      <point x="871" y="78"/>
-      <point x="774" y="139"/>
-      <point x="597" y="139" type="curve" smooth="yes"/>
-      <point x="230" y="139" type="line"/>
-      <point x="972" y="945" type="line"/>
-      <point x="996" y="1082" type="line"/>
-      <point x="212" y="1082" type="line"/>
-      <point x="187" y="943" type="line"/>
-      <point x="753" y="943" type="line"/>
-      <point x="11" y="137" type="line"/>
+      <point x="871" y="77"/>
+      <point x="773" y="136"/>
+      <point x="596" y="136" type="curve" smooth="yes"/>
+      <point x="229" y="136" type="line"/>
+      <point x="968" y="928" type="line"/>
+      <point x="992" y="1062" type="line"/>
+      <point x="208" y="1062" type="line"/>
+      <point x="183" y="926" type="line"/>
+      <point x="749" y="926" type="line"/>
+      <point x="10" y="134" type="line"/>
       <point x="-12" y="0" type="line"/>
       <point x="585" y="0" type="line" smooth="yes"/>
       <point x="674" y="0"/>

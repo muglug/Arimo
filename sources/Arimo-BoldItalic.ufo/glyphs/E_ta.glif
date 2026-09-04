@@ -6,7 +6,20 @@
 Eta
 </note>
   <outline>
-    <component base="H"/>
+    <contour>
+      <point x="453" y="628" type="line"/>
+      <point x="1079" y="628" type="line"/>
+      <point x="956" y="0" type="line"/>
+      <point x="1240" y="0" type="line"/>
+      <point x="1526" y="1466" type="line"/>
+      <point x="1242" y="1466" type="line"/>
+      <point x="1128" y="882" type="line"/>
+      <point x="502" y="882" type="line"/>
+      <point x="616" y="1466" type="line"/>
+      <point x="321" y="1466" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -5,63 +5,63 @@
   <note>
 uni0298
 </note>
-  <anchor x="900" y="1540" name="top"/>
-  <anchor x="1440" y="1540" name="caronalt"/>
+  <anchor x="896" y="1522" name="top"/>
+  <anchor x="1436" y="1522" name="caronalt"/>
   <anchor x="700" y="-130" name="bottom"/>
-  <anchor x="1593" y="1540" name="topdouble"/>
+  <anchor x="1589" y="1522" name="topdouble"/>
   <anchor x="1593" y="-380" name="bottomdouble"/>
-  <anchor x="1593" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1589" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="920" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="938" y="1430" type="curve"/>
-      <point x="621" y="1430"/>
-      <point x="357" y="1280"/>
-      <point x="217" y="1013" type="curve" smooth="yes"/>
-      <point x="146" y="879"/>
-      <point x="111" y="732"/>
-      <point x="111" y="573" type="curve" smooth="yes"/>
-      <point x="111" y="334"/>
-      <point x="202" y="156"/>
-      <point x="369" y="61" type="curve" smooth="yes"/>
+      <point x="934" y="1412" type="curve"/>
+      <point x="617" y="1412"/>
+      <point x="353" y="1261"/>
+      <point x="213" y="994" type="curve" smooth="yes"/>
+      <point x="143" y="863"/>
+      <point x="108" y="718"/>
+      <point x="109" y="562" type="curve" smooth="yes"/>
+      <point x="110" y="328"/>
+      <point x="201" y="153"/>
+      <point x="369" y="60" type="curve" smooth="yes"/>
       <point x="460" y="8"/>
       <point x="575" y="-20"/>
       <point x="709" y="-20" type="curve" smooth="yes"/>
       <point x="1024" y="-20"/>
-      <point x="1281" y="127"/>
-      <point x="1424" y="388" type="curve" smooth="yes"/>
-      <point x="1495" y="518"/>
-      <point x="1533" y="672"/>
-      <point x="1536" y="851" type="curve" smooth="yes"/>
-      <point x="1536" y="1204"/>
-      <point x="1307" y="1430"/>
+      <point x="1281" y="125"/>
+      <point x="1422" y="381" type="curve" smooth="yes"/>
+      <point x="1493" y="508"/>
+      <point x="1530" y="660"/>
+      <point x="1533" y="835" type="curve" smooth="yes"/>
+      <point x="1532" y="1185"/>
+      <point x="1303" y="1412"/>
     </contour>
     <contour>
-      <point x="929" y="1276" type="curve"/>
-      <point x="1194" y="1276"/>
-      <point x="1345" y="1123"/>
-      <point x="1345" y="847" type="curve" smooth="yes"/>
-      <point x="1345" y="590"/>
-      <point x="1238" y="337"/>
-      <point x="1054" y="222" type="curve" smooth="yes"/>
-      <point x="961" y="164"/>
-      <point x="849" y="135"/>
-      <point x="718" y="135" type="curve" smooth="yes"/>
-      <point x="447" y="135"/>
-      <point x="302" y="284"/>
-      <point x="302" y="563" type="curve" smooth="yes"/>
-      <point x="302" y="804"/>
-      <point x="404" y="1068"/>
-      <point x="590" y="1187" type="curve" smooth="yes"/>
-      <point x="683" y="1246"/>
-      <point x="796" y="1276"/>
+      <point x="925" y="1257" type="curve"/>
+      <point x="1190" y="1257"/>
+      <point x="1341" y="1103"/>
+      <point x="1342" y="831" type="curve" smooth="yes"/>
+      <point x="1343" y="579"/>
+      <point x="1237" y="331"/>
+      <point x="1053" y="218" type="curve" smooth="yes"/>
+      <point x="960" y="161"/>
+      <point x="848" y="133"/>
+      <point x="717" y="133" type="curve" smooth="yes"/>
+      <point x="446" y="133"/>
+      <point x="301" y="279"/>
+      <point x="300" y="553" type="curve" smooth="yes"/>
+      <point x="299" y="789"/>
+      <point x="400" y="1048"/>
+      <point x="586" y="1168" type="curve" smooth="yes"/>
+      <point x="679" y="1227"/>
+      <point x="792" y="1257"/>
     </contour>
     <contour>
-      <point x="948" y="825" type="line"/>
-      <point x="753" y="825" type="line"/>
-      <point x="710" y="606" type="line"/>
-      <point x="905" y="606" type="line"/>
+      <point x="945" y="810" type="line"/>
+      <point x="750" y="810" type="line"/>
+      <point x="708" y="595" type="line"/>
+      <point x="903" y="595" type="line"/>
     </contour>
   </outline>
   <lib>

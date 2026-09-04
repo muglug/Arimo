@@ -5,16 +5,40 @@
   <note>
 Hcircumflex
 </note>
-  <anchor x="740" y="1900" name="top"/>
-  <anchor x="1330" y="1540" name="caronalt"/>
+  <anchor x="740" y="1977" name="top"/>
+  <anchor x="1330" y="1602" name="caronalt"/>
   <anchor x="730" y="-130" name="bottom"/>
-  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="1914" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1479" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="1100" y="0" name="ogonek"/>
   <outline>
-    <component base="H"/>
-    <component base="circumflex.uc" xOffset="403"/>
+    <contour>
+      <point x="432" y="628" type="line"/>
+      <point x="1046" y="628" type="line"/>
+      <point x="1046" y="0" type="line"/>
+      <point x="1341" y="0" type="line"/>
+      <point x="1341" y="1466" type="line"/>
+      <point x="1046" y="1466" type="line"/>
+      <point x="1046" y="882" type="line"/>
+      <point x="432" y="882" type="line"/>
+      <point x="432" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="1592" type="line"/>
+      <point x="536" y="1592" type="line"/>
+      <point x="747" y="1749" type="line"/>
+      <point x="751" y="1749" type="line"/>
+      <point x="954" y="1592" type="line"/>
+      <point x="1113" y="1592" type="line"/>
+      <point x="1113" y="1622" type="line"/>
+      <point x="863" y="1909" type="line"/>
+      <point x="634" y="1909" type="line"/>
+      <point x="376" y="1622" type="line"/>
+    </contour>
   </outline>
 </glyph>

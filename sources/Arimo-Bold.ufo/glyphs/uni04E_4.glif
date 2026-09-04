@@ -6,7 +6,35 @@
 uni04E4
 </note>
   <outline>
-    <component base="uni0418"/>
-    <component base="dieresis.uc" xOffset="418"/>
+    <contour>
+      <point x="1081" y="1129" type="line"/>
+      <point x="1076" y="1007"/>
+      <point x="1073" y="919"/>
+      <point x="1073" y="865" type="curve" smooth="yes"/>
+      <point x="1073" y="0" type="line"/>
+      <point x="1335" y="0" type="line"/>
+      <point x="1335" y="1466" type="line"/>
+      <point x="1003" y="1466" type="line"/>
+      <point x="390" y="328" type="line"/>
+      <point x="395" y="444"/>
+      <point x="398" y="540"/>
+      <point x="398" y="614" type="curve" smooth="yes"/>
+      <point x="398" y="1466" type="line"/>
+      <point x="136" y="1466" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1084" y="1820" type="line"/>
+      <point x="887" y="1820" type="line"/>
+      <point x="887" y="1592" type="line"/>
+      <point x="1084" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="627" y="1820" type="line"/>
+      <point x="433" y="1820" type="line"/>
+      <point x="433" y="1592" type="line"/>
+      <point x="627" y="1592" type="line"/>
+    </contour>
   </outline>
 </glyph>

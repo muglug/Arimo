@@ -7,32 +7,32 @@ uniA73A
 </note>
   <outline>
     <contour>
-      <point x="496" y="460" type="line"/>
-      <point x="983" y="460" type="line"/>
+      <point x="496" y="479" type="line"/>
+      <point x="983" y="479" type="line"/>
       <point x="1133" y="0" type="line"/>
       <point x="1474" y="0" type="line"/>
-      <point x="1642" y="460" type="line"/>
-      <point x="1862" y="460" type="line"/>
-      <point x="1862" y="682" type="line"/>
-      <point x="1723" y="682" type="line"/>
-      <point x="1992" y="1409" type="line"/>
-      <point x="1687" y="1409" type="line"/>
-      <point x="1455" y="682" type="line"/>
-      <point x="1177" y="682" type="line"/>
-      <point x="913" y="1409" type="line"/>
-      <point x="565" y="1409" type="line"/>
+      <point x="1642" y="479" type="line"/>
+      <point x="1862" y="479" type="line"/>
+      <point x="1862" y="710" type="line"/>
+      <point x="1723" y="710" type="line"/>
+      <point x="1992" y="1466" type="line"/>
+      <point x="1687" y="1466" type="line"/>
+      <point x="1455" y="710" type="line"/>
+      <point x="1177" y="710" type="line"/>
+      <point x="913" y="1466" type="line"/>
+      <point x="565" y="1466" type="line"/>
       <point x="51" y="0" type="line"/>
       <point x="346" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="570" y="682" type="line"/>
-      <point x="739" y="1192" type="line"/>
-      <point x="909" y="682" type="line"/>
+      <point x="570" y="710" type="line"/>
+      <point x="739" y="1240" type="line"/>
+      <point x="909" y="710" type="line"/>
     </contour>
     <contour>
-      <point x="1258" y="460" type="line"/>
-      <point x="1385" y="460" type="line"/>
-      <point x="1327" y="246" type="line"/>
+      <point x="1258" y="479" type="line"/>
+      <point x="1385" y="479" type="line"/>
+      <point x="1327" y="256" type="line"/>
     </contour>
   </outline>
 </glyph>

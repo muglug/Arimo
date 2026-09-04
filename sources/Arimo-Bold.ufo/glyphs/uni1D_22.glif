@@ -6,6 +6,17 @@
 uni1D22
 </note>
   <outline>
-    <component base="z"/>
+    <contour>
+      <point x="950" y="201" type="line"/>
+      <point x="395" y="201" type="line"/>
+      <point x="901" y="865" type="line"/>
+      <point x="901" y="1062" type="line"/>
+      <point x="123" y="1062" type="line"/>
+      <point x="123" y="863" type="line"/>
+      <point x="591" y="863" type="line"/>
+      <point x="82" y="195" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="950" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

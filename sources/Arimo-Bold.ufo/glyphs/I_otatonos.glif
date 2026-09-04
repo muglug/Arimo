@@ -6,7 +6,19 @@
 Iotatonos
 </note>
   <outline>
-    <component base="I" xOffset="401"/>
-    <component base="tonos" xOffset="-149" yOffset="-98"/>
+    <contour>
+      <point x="833" y="1466" type="line"/>
+      <point x="538" y="1466" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="833" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="1429" type="line"/>
+      <point x="362" y="1467" type="line"/>
+      <point x="105" y="1467" type="line"/>
+      <point x="36" y="1163" type="line"/>
+      <point x="36" y="1129" type="line"/>
+      <point x="141" y="1129" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -7,21 +7,21 @@ uni04A7
 </note>
   <outline>
     <contour>
-      <point x="1094" y="1082" type="line"/>
-      <point x="143" y="1082" type="line"/>
+      <point x="1094" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
       <point x="143" y="0" type="line"/>
       <point x="425" y="0" type="line"/>
-      <point x="425" y="892" type="line"/>
-      <point x="812" y="892" type="line"/>
+      <point x="425" y="876" type="line"/>
+      <point x="812" y="876" type="line"/>
       <point x="812" y="0" type="line"/>
       <point x="1094" y="0" type="line"/>
-      <point x="1094" y="398" type="line"/>
-      <point x="1175" y="415"/>
-      <point x="1241" y="424"/>
-      <point x="1293" y="424" type="curve" smooth="yes"/>
-      <point x="1472" y="424"/>
-      <point x="1568" y="321"/>
-      <point x="1568" y="118" type="curve" smooth="yes"/>
+      <point x="1094" y="391" type="line"/>
+      <point x="1175" y="407"/>
+      <point x="1241" y="416"/>
+      <point x="1293" y="416" type="curve" smooth="yes"/>
+      <point x="1472" y="416"/>
+      <point x="1568" y="315"/>
+      <point x="1568" y="116" type="curve" smooth="yes"/>
       <point x="1568" y="-111"/>
       <point x="1491" y="-231"/>
       <point x="1299" y="-231" type="curve" smooth="yes"/>
@@ -34,13 +34,13 @@ uni04A7
       <point x="1301" y="-425" type="curve" smooth="yes"/>
       <point x="1620" y="-425"/>
       <point x="1842" y="-229"/>
-      <point x="1842" y="96" type="curve" smooth="yes"/>
-      <point x="1842" y="423"/>
-      <point x="1654" y="614"/>
-      <point x="1335" y="614" type="curve" smooth="yes"/>
-      <point x="1274" y="614"/>
-      <point x="1194" y="604"/>
-      <point x="1094" y="585" type="curve"/>
+      <point x="1842" y="94" type="curve" smooth="yes"/>
+      <point x="1842" y="415"/>
+      <point x="1654" y="603"/>
+      <point x="1335" y="603" type="curve" smooth="yes"/>
+      <point x="1274" y="603"/>
+      <point x="1194" y="593"/>
+      <point x="1094" y="574" type="curve"/>
     </contour>
   </outline>
 </glyph>

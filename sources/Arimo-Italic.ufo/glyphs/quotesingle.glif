@@ -7,10 +7,10 @@ quotesingle
 </note>
   <outline>
     <contour>
-      <point x="449" y="1409" type="line"/>
-      <point x="265" y="1409" type="line"/>
-      <point x="202" y="966" type="line"/>
-      <point x="343" y="966" type="line"/>
+      <point x="461" y="1466" type="line"/>
+      <point x="277" y="1466" type="line"/>
+      <point x="210" y="1005" type="line"/>
+      <point x="351" y="1005" type="line"/>
     </contour>
   </outline>
   <lib>

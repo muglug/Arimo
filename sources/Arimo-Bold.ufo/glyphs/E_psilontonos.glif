@@ -6,7 +6,27 @@
 Epsilontonos
 </note>
   <outline>
-    <component base="E" xOffset="381"/>
-    <component base="tonos" xOffset="-139" yOffset="-98"/>
+    <contour>
+      <point x="1667" y="237" type="line"/>
+      <point x="813" y="237" type="line"/>
+      <point x="813" y="623" type="line"/>
+      <point x="1565" y="623" type="line"/>
+      <point x="1565" y="860" type="line"/>
+      <point x="813" y="860" type="line"/>
+      <point x="813" y="1229" type="line"/>
+      <point x="1626" y="1229" type="line"/>
+      <point x="1626" y="1466" type="line"/>
+      <point x="518" y="1466" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="1667" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="1429" type="line"/>
+      <point x="372" y="1467" type="line"/>
+      <point x="115" y="1467" type="line"/>
+      <point x="46" y="1163" type="line"/>
+      <point x="46" y="1129" type="line"/>
+      <point x="151" y="1129" type="line"/>
+    </contour>
   </outline>
 </glyph>

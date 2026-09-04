@@ -5,20 +5,20 @@
   <note>
 I
 </note>
-  <anchor x="440" y="1540" name="top"/>
-  <anchor x="440" y="1540" name="caronalt"/>
+  <anchor x="453" y="1602" name="top"/>
+  <anchor x="453" y="1602" name="caronalt"/>
   <anchor x="280" y="-130" name="bottom"/>
-  <anchor x="512" y="1420" name="rhotic"/>
-  <anchor x="530" y="1300" name="horn"/>
-  <anchor x="569" y="1540" name="topdouble"/>
+  <anchor x="524" y="1477" name="rhotic"/>
+  <anchor x="541" y="1353" name="horn"/>
+  <anchor x="582" y="1602" name="topdouble"/>
   <anchor x="569" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="585" y="1914" name="tophalfright"/>
+  <anchor x="16" y="1914" name="tophalfleft"/>
   <anchor x="200" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="604" y="1409" type="line"/>
-      <point x="309" y="1409" type="line"/>
+      <point x="616" y="1466" type="line"/>
+      <point x="321" y="1466" type="line"/>
       <point x="36" y="0" type="line"/>
       <point x="330" y="0" type="line"/>
     </contour>

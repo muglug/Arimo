@@ -6,10 +6,30 @@
 uni2057
 </note>
   <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="370"/>
-    <component base="minute" xOffset="750"/>
-    <component base="minute" xOffset="1130"/>
+    <contour>
+      <point x="577" y="1466" type="line"/>
+      <point x="271" y="1466" type="line"/>
+      <point x="203" y="926" type="line"/>
+      <point x="415" y="926" type="line"/>
+    </contour>
+    <contour>
+      <point x="947" y="1466" type="line"/>
+      <point x="641" y="1466" type="line"/>
+      <point x="573" y="926" type="line"/>
+      <point x="785" y="926" type="line"/>
+    </contour>
+    <contour>
+      <point x="1327" y="1466" type="line"/>
+      <point x="1021" y="1466" type="line"/>
+      <point x="953" y="926" type="line"/>
+      <point x="1165" y="926" type="line"/>
+    </contour>
+    <contour>
+      <point x="1707" y="1466" type="line"/>
+      <point x="1401" y="1466" type="line"/>
+      <point x="1333" y="926" type="line"/>
+      <point x="1545" y="926" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

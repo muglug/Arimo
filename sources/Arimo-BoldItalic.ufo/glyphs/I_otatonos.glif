@@ -6,8 +6,20 @@
 Iotatonos
 </note>
   <outline>
-    <component base="I" xOffset="401"/>
-    <component base="tonos" yOffset="-98"/>
+    <contour>
+      <point x="1017" y="1466" type="line"/>
+      <point x="722" y="1466" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="731" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="547" y="1429" type="line"/>
+      <point x="554" y="1467" type="line"/>
+      <point x="297" y="1467" type="line"/>
+      <point x="169" y="1163" type="line"/>
+      <point x="162" y="1129" type="line"/>
+      <point x="267" y="1129" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

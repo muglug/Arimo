@@ -5,14 +5,43 @@
   <note>
 Ecircumflexdotbelow
 </note>
-  <anchor x="1366" y="1840" name="topdouble"/>
+  <anchor x="1366" y="1914" name="topdouble"/>
   <anchor x="1366" y="-380" name="bottomdouble"/>
-  <anchor x="1366" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1366" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="1120" y="0" name="ogonek"/>
   <outline>
-    <component base="E"/>
-    <component base="circumflex.uc" xOffset="380"/>
-    <component base="dotbelow.alt1" xOffset="940"/>
+    <contour>
+      <point x="1286" y="237" type="line"/>
+      <point x="432" y="237" type="line"/>
+      <point x="432" y="623" type="line"/>
+      <point x="1184" y="623" type="line"/>
+      <point x="1184" y="860" type="line"/>
+      <point x="432" y="860" type="line"/>
+      <point x="432" y="1229" type="line"/>
+      <point x="1245" y="1229" type="line"/>
+      <point x="1245" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="1286" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="1592" type="line"/>
+      <point x="513" y="1592" type="line"/>
+      <point x="724" y="1749" type="line"/>
+      <point x="728" y="1749" type="line"/>
+      <point x="931" y="1592" type="line"/>
+      <point x="1090" y="1592" type="line"/>
+      <point x="1090" y="1622" type="line"/>
+      <point x="840" y="1909" type="line"/>
+      <point x="611" y="1909" type="line"/>
+      <point x="353" y="1622" type="line"/>
+    </contour>
+    <contour>
+      <point x="869" y="-159" type="line"/>
+      <point x="588" y="-159" type="line"/>
+      <point x="588" y="-366" type="line"/>
+      <point x="869" y="-366" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -6,8 +6,28 @@
 uni0400
 </note>
   <outline>
-    <component base="E"/>
-    <component base="grave.uc" xOffset="295"/>
+    <contour>
+      <point x="1231" y="237" type="line"/>
+      <point x="377" y="237" type="line"/>
+      <point x="452" y="623" type="line"/>
+      <point x="1204" y="623" type="line"/>
+      <point x="1250" y="860" type="line"/>
+      <point x="498" y="860" type="line"/>
+      <point x="570" y="1229" type="line"/>
+      <point x="1383" y="1229" type="line"/>
+      <point x="1429" y="1466" type="line"/>
+      <point x="321" y="1466" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="1184" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1059" y="1624" type="line"/>
+      <point x="859" y="1881" type="line"/>
+      <point x="621" y="1881" type="line"/>
+      <point x="611" y="1836" type="line"/>
+      <point x="913" y="1592" type="line"/>
+      <point x="1052" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

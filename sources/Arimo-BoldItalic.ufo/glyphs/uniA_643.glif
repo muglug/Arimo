@@ -14,24 +14,24 @@ uniA643
       <point x="785" y="-350"/>
       <point x="902" y="-231"/>
       <point x="902" y="-46" type="curve" smooth="yes"/>
-      <point x="902" y="125"/>
-      <point x="798" y="205"/>
-      <point x="573" y="205" type="curve" smooth="yes"/>
-      <point x="336" y="205" type="line"/>
-      <point x="568" y="447" type="line"/>
-      <point x="921" y="447" type="line"/>
-      <point x="959" y="644" type="line"/>
-      <point x="758" y="644" type="line"/>
-      <point x="986" y="881" type="line"/>
-      <point x="1025" y="1082" type="line"/>
-      <point x="216" y="1082" type="line"/>
-      <point x="176" y="879" type="line"/>
-      <point x="656" y="879" type="line"/>
-      <point x="430" y="644" type="line"/>
-      <point x="91" y="644" type="line"/>
-      <point x="53" y="447" type="line"/>
-      <point x="241" y="447" type="line"/>
-      <point x="3" y="199" type="line"/>
+      <point x="902" y="123"/>
+      <point x="797" y="201"/>
+      <point x="572" y="201" type="curve" smooth="yes"/>
+      <point x="335" y="201" type="line"/>
+      <point x="566" y="439" type="line"/>
+      <point x="919" y="439" type="line"/>
+      <point x="956" y="632" type="line"/>
+      <point x="755" y="632" type="line"/>
+      <point x="983" y="865" type="line"/>
+      <point x="1021" y="1062" type="line"/>
+      <point x="212" y="1062" type="line"/>
+      <point x="173" y="863" type="line"/>
+      <point x="653" y="863" type="line"/>
+      <point x="427" y="632" type="line"/>
+      <point x="88" y="632" type="line"/>
+      <point x="51" y="439" type="line"/>
+      <point x="239" y="439" type="line"/>
+      <point x="2" y="195" type="line"/>
       <point x="-35" y="0" type="line"/>
       <point x="571" y="0" type="line" smooth="yes"/>
       <point x="651" y="0"/>

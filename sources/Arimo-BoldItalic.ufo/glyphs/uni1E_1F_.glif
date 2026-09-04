@@ -5,17 +5,53 @@
   <note>
 uni1E1F
 </note>
-  <anchor x="700" y="1900" name="top"/>
-  <anchor x="780" y="1540" name="caronalt"/>
+  <anchor x="696" y="1882" name="top"/>
+  <anchor x="776" y="1522" name="caronalt"/>
   <anchor x="340" y="-130" name="bottom"/>
-  <anchor x="682" y="1840" name="topdouble"/>
+  <anchor x="678" y="1822" name="topdouble"/>
   <anchor x="682" y="-380" name="bottomdouble"/>
-  <anchor x="682" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="678" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="280" y="0" name="ogonek"/>
   <outline>
-    <component base="f"/>
-    <component base="dotaccent" xOffset="200" yOffset="362"/>
+    <contour>
+      <point x="524" y="876" type="line"/>
+      <point x="737" y="876" type="line"/>
+      <point x="774" y="1062" type="line"/>
+      <point x="561" y="1062" type="line"/>
+      <point x="577" y="1147" type="line" smooth="yes"/>
+      <point x="594" y="1235"/>
+      <point x="628" y="1277"/>
+      <point x="717" y="1277" type="curve" smooth="yes"/>
+      <point x="730" y="1277"/>
+      <point x="748" y="1275"/>
+      <point x="766" y="1273" type="curve" smooth="yes"/>
+      <point x="786" y="1271"/>
+      <point x="805" y="1268"/>
+      <point x="813" y="1267" type="curve"/>
+      <point x="849" y="1449" type="line"/>
+      <point x="794" y="1460"/>
+      <point x="743" y="1466"/>
+      <point x="694" y="1466" type="curve" smooth="yes"/>
+      <point x="542" y="1466"/>
+      <point x="438" y="1430"/>
+      <point x="373" y="1345" type="curve" smooth="yes"/>
+      <point x="339" y="1302"/>
+      <point x="317" y="1246"/>
+      <point x="303" y="1176" type="curve" smooth="yes"/>
+      <point x="281" y="1062" type="line"/>
+      <point x="123" y="1062" type="line"/>
+      <point x="86" y="876" type="line"/>
+      <point x="244" y="876" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="848" y="1828" type="line"/>
+      <point x="567" y="1828" type="line"/>
+      <point x="526" y="1621" type="line"/>
+      <point x="807" y="1621" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -9,20 +9,20 @@ uniA646
     <contour>
       <point x="140" y="0" type="curve"/>
       <point x="344" y="0" type="line"/>
-      <point x="317" y="35"/>
-      <point x="303" y="82"/>
-      <point x="303" y="140" type="curve" smooth="yes"/>
-      <point x="303" y="167"/>
-      <point x="306" y="197"/>
-      <point x="312" y="228" type="curve" smooth="yes"/>
-      <point x="542" y="1409" type="line"/>
-      <point x="351" y="1409" type="line"/>
-      <point x="123" y="237" type="line" smooth="yes"/>
-      <point x="116" y="198"/>
-      <point x="112" y="161"/>
-      <point x="112" y="125" type="curve" smooth="yes"/>
-      <point x="112" y="76"/>
-      <point x="120" y="31"/>
+      <point x="317" y="36"/>
+      <point x="304" y="85"/>
+      <point x="304" y="146" type="curve" smooth="yes"/>
+      <point x="304" y="174"/>
+      <point x="308" y="205"/>
+      <point x="314" y="237" type="curve" smooth="yes"/>
+      <point x="554" y="1466" type="line"/>
+      <point x="363" y="1466" type="line"/>
+      <point x="125" y="247" type="line" smooth="yes"/>
+      <point x="118" y="206"/>
+      <point x="113" y="168"/>
+      <point x="113" y="130" type="curve" smooth="yes"/>
+      <point x="113" y="79"/>
+      <point x="120" y="32"/>
     </contour>
   </outline>
   <lib>

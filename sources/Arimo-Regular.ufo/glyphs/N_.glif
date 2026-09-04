@@ -5,32 +5,32 @@
   <note>
 N
 </note>
-  <anchor x="730" y="1540" name="top"/>
-  <anchor x="1300" y="1540" name="caronalt"/>
+  <anchor x="730" y="1602" name="top"/>
+  <anchor x="1300" y="1602" name="caronalt"/>
   <anchor x="730" y="-130" name="bottom"/>
-  <anchor x="1300" y="1420" name="rhotic"/>
-  <anchor x="1210" y="1300" name="horn"/>
-  <anchor x="1479" y="1540" name="topdouble"/>
+  <anchor x="1300" y="1477" name="rhotic"/>
+  <anchor x="1210" y="1353" name="horn"/>
+  <anchor x="1479" y="1602" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1479" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="1120" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="338" y="936" type="line" smooth="yes"/>
-      <point x="338" y="1024"/>
-      <point x="331" y="1112"/>
-      <point x="328" y="1200" type="curve"/>
+      <point x="338" y="974" type="line" smooth="yes"/>
+      <point x="338" y="1065"/>
+      <point x="331" y="1157"/>
+      <point x="328" y="1249" type="curve"/>
       <point x="1082" y="0" type="line"/>
       <point x="1312" y="0" type="line"/>
-      <point x="1312" y="1409" type="line"/>
-      <point x="1140" y="1409" type="line"/>
-      <point x="1140" y="485" type="line" smooth="yes"/>
-      <point x="1140" y="426"/>
-      <point x="1144" y="332"/>
-      <point x="1152" y="201" type="curve"/>
-      <point x="390" y="1409" type="line"/>
-      <point x="168" y="1409" type="line"/>
+      <point x="1312" y="1466" type="line"/>
+      <point x="1140" y="1466" type="line"/>
+      <point x="1140" y="505" type="line" smooth="yes"/>
+      <point x="1140" y="443"/>
+      <point x="1144" y="345"/>
+      <point x="1152" y="209" type="curve"/>
+      <point x="390" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
       <point x="168" y="0" type="line"/>
       <point x="338" y="0" type="line"/>
     </contour>

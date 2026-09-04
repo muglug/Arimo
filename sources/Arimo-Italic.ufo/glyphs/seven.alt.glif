@@ -5,23 +5,23 @@ seven.alt
 </note>
   <outline>
     <contour>
-      <point x="343" y="764" type="curve"/>
-      <point x="362" y="860" type="line"/>
-      <point x="-219" y="860" type="line"/>
-      <point x="-241" y="749" type="line"/>
-      <point x="181" y="749" type="line"/>
-      <point x="7" y="588"/>
-      <point x="-99" y="458"/>
-      <point x="-162" y="331" type="curve" smooth="yes"/>
-      <point x="-196" y="262"/>
-      <point x="-218" y="195"/>
-      <point x="-232" y="124" type="curve"/>
-      <point x="-64" y="124" type="line"/>
-      <point x="-34" y="280"/>
-      <point x="24" y="412"/>
-      <point x="136" y="551" type="curve" smooth="yes"/>
-      <point x="191" y="619"/>
-      <point x="259" y="689"/>
+      <point x="350" y="798" type="curve"/>
+      <point x="370" y="898" type="line"/>
+      <point x="-211" y="898" type="line"/>
+      <point x="-234" y="782" type="line"/>
+      <point x="188" y="782" type="line"/>
+      <point x="13" y="614"/>
+      <point x="-95" y="478"/>
+      <point x="-159" y="346" type="curve" smooth="yes"/>
+      <point x="-194" y="274"/>
+      <point x="-216" y="204"/>
+      <point x="-231" y="130" type="curve"/>
+      <point x="-63" y="130" type="line"/>
+      <point x="-31" y="293"/>
+      <point x="28" y="430"/>
+      <point x="141" y="576" type="curve" smooth="yes"/>
+      <point x="197" y="647"/>
+      <point x="266" y="720"/>
     </contour>
   </outline>
   <lib>

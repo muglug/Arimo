@@ -8,15 +8,15 @@ uniA68F
   <outline>
     <contour>
       <point x="1262" y="-124" type="curve" smooth="yes"/>
-      <point x="1262" y="29"/>
-      <point x="1159" y="120"/>
-      <point x="979" y="129" type="curve"/>
-      <point x="979" y="1082" type="line"/>
-      <point x="799" y="1082" type="line"/>
-      <point x="799" y="131" type="line"/>
-      <point x="322" y="131" type="line"/>
-      <point x="322" y="1082" type="line"/>
-      <point x="142" y="1082" type="line"/>
+      <point x="1262" y="28"/>
+      <point x="1159" y="118"/>
+      <point x="979" y="127" type="curve"/>
+      <point x="979" y="1062" type="line"/>
+      <point x="799" y="1062" type="line"/>
+      <point x="799" y="129" type="line"/>
+      <point x="322" y="129" type="line"/>
+      <point x="322" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
       <point x="142" y="0" type="line"/>
       <point x="917" y="0" type="line" smooth="yes"/>
       <point x="1036" y="0"/>

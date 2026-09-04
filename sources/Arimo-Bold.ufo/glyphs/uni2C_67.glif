@@ -7,18 +7,18 @@ uni2C67
 </note>
   <outline>
     <contour>
-      <point x="1442" y="244" type="line"/>
-      <point x="1341" y="244" type="line"/>
-      <point x="1341" y="1409" type="line"/>
-      <point x="1046" y="1409" type="line"/>
-      <point x="1046" y="848" type="line"/>
-      <point x="432" y="848" type="line"/>
-      <point x="432" y="1409" type="line"/>
-      <point x="137" y="1409" type="line"/>
+      <point x="1442" y="254" type="line"/>
+      <point x="1341" y="254" type="line"/>
+      <point x="1341" y="1466" type="line"/>
+      <point x="1046" y="1466" type="line"/>
+      <point x="1046" y="882" type="line"/>
+      <point x="432" y="882" type="line"/>
+      <point x="432" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
       <point x="137" y="0" type="line"/>
       <point x="432" y="0" type="line"/>
-      <point x="432" y="604" type="line"/>
-      <point x="1046" y="604" type="line"/>
+      <point x="432" y="628" type="line"/>
+      <point x="1046" y="628" type="line"/>
       <point x="1046" y="0" type="line"/>
       <point x="1192" y="0" type="line"/>
       <point x="1192" y="-408" type="line"/>

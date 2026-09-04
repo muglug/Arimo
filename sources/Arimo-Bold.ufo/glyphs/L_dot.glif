@@ -5,16 +5,28 @@
   <note>
 Ldot
 </note>
-  <anchor x="650" y="1540" name="top"/>
-  <anchor x="1100" y="1540" name="caronalt"/>
+  <anchor x="650" y="1602" name="top"/>
+  <anchor x="1100" y="1602" name="caronalt"/>
   <anchor x="650" y="-130" name="bottom"/>
-  <anchor x="1251" y="1540" name="topdouble"/>
+  <anchor x="1251" y="1602" name="topdouble"/>
   <anchor x="1251" y="-380" name="bottomdouble"/>
-  <anchor x="1251" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1251" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="940" y="0" name="ogonek"/>
   <outline>
-    <component base="L"/>
-    <component base="dotaccent" xOffset="469" yOffset="-626"/>
+    <contour>
+      <point x="1188" y="237" type="line"/>
+      <point x="432" y="237" type="line"/>
+      <point x="432" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="1188" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="950" y="893" type="line"/>
+      <point x="669" y="893" type="line"/>
+      <point x="669" y="677" type="line"/>
+      <point x="950" y="677" type="line"/>
+    </contour>
   </outline>
 </glyph>

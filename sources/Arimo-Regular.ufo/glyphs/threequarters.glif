@@ -6,9 +6,80 @@
 threequarters
 </note>
   <outline>
-    <component base="fraction" xOffset="781" identifier="29B392B6"/>
-    <component base="foursuperior" xOffset="952" yOffset="-561" identifier="EA022B5B"/>
-    <component base="threesuperior" xOffset="46" identifier="516066E8"/>
+    <contour>
+      <point x="1391" y="1409" type="line"/>
+      <point x="1246" y="1409" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="513" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1503" y="180" type="line"/>
+      <point x="1614" y="180" type="line"/>
+      <point x="1614" y="293" type="line"/>
+      <point x="1503" y="293" type="line"/>
+      <point x="1503" y="848" type="line"/>
+      <point x="1352" y="848" type="line"/>
+      <point x="966" y="291" type="line"/>
+      <point x="966" y="180" type="line"/>
+      <point x="1372" y="180" type="line"/>
+      <point x="1372" y="2" type="line"/>
+      <point x="1503" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1374" y="715" type="curve"/>
+      <point x="1373" y="671"/>
+      <point x="1372" y="626"/>
+      <point x="1372" y="582" type="curve" smooth="yes"/>
+      <point x="1372" y="293" type="line"/>
+      <point x="1093" y="293" type="line"/>
+      <point x="1292" y="580" type="line" smooth="yes"/>
+      <point x="1335" y="642"/>
+      <point x="1360" y="688"/>
+    </contour>
+    <contour>
+      <point x="688" y="795" type="curve" smooth="yes"/>
+      <point x="688" y="912"/>
+      <point x="612" y="985"/>
+      <point x="491" y="997" type="curve"/>
+      <point x="491" y="999" type="line"/>
+      <point x="611" y="1026"/>
+      <point x="667" y="1104"/>
+      <point x="667" y="1204" type="curve" smooth="yes"/>
+      <point x="667" y="1335"/>
+      <point x="562" y="1421"/>
+      <point x="389" y="1421" type="curve" smooth="yes"/>
+      <point x="220" y="1421"/>
+      <point x="109" y="1337"/>
+      <point x="92" y="1192" type="curve"/>
+      <point x="227" y="1180" type="line"/>
+      <point x="235" y="1267"/>
+      <point x="294" y="1315"/>
+      <point x="385" y="1315" type="curve" smooth="yes"/>
+      <point x="480" y="1315"/>
+      <point x="530" y="1266"/>
+      <point x="530" y="1186" type="curve" smooth="yes"/>
+      <point x="530" y="1099"/>
+      <point x="465" y="1049"/>
+      <point x="358" y="1049" type="curve" smooth="yes"/>
+      <point x="301" y="1049" type="line"/>
+      <point x="301" y="940" type="line"/>
+      <point x="362" y="940" type="line" smooth="yes"/>
+      <point x="488" y="940"/>
+      <point x="551" y="894"/>
+      <point x="551" y="803" type="curve" smooth="yes"/>
+      <point x="551" y="704"/>
+      <point x="498" y="655"/>
+      <point x="391" y="655" type="curve" smooth="yes"/>
+      <point x="282" y="655"/>
+      <point x="221" y="700"/>
+      <point x="209" y="791" type="curve"/>
+      <point x="73" y="778" type="line"/>
+      <point x="94" y="627"/>
+      <point x="200" y="551"/>
+      <point x="391" y="551" type="curve" smooth="yes"/>
+      <point x="580" y="551"/>
+      <point x="688" y="640"/>
+    </contour>
   </outline>
   <lib>
     <dict>

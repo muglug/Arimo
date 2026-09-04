@@ -6,7 +6,12 @@
 uni0406
 </note>
   <outline>
-    <component base="I"/>
+    <contour>
+      <point x="558" y="1466" type="line"/>
+      <point x="367" y="1466" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

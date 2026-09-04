@@ -6,6 +6,19 @@
 uni212A
 </note>
   <outline>
-    <component base="K"/>
+    <contour>
+      <point x="359" y="562" type="line"/>
+      <point x="543" y="708" type="line"/>
+      <point x="1106" y="0" type="line"/>
+      <point x="1343" y="0" type="line"/>
+      <point x="663" y="829" type="line"/>
+      <point x="1263" y="1466" type="line"/>
+      <point x="1038" y="1466" type="line"/>
+      <point x="359" y="731" type="line"/>
+      <point x="359" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

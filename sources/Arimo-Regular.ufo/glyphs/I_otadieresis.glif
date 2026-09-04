@@ -6,8 +6,24 @@
 Iotadieresis
 </note>
   <outline>
-    <component base="I" identifier="A3F0CE8B"/>
-    <component base="dieresis.uc" xOffset="-38" identifier="8F642D35"/>
+    <contour>
+      <point x="380" y="1466" type="line"/>
+      <point x="189" y="1466" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="564" y="1783" type="line"/>
+      <point x="401" y="1783" type="line"/>
+      <point x="401" y="1592" type="line"/>
+      <point x="564" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="1783" type="line"/>
+      <point x="7" y="1783" type="line"/>
+      <point x="7" y="1592" type="line"/>
+      <point x="172" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

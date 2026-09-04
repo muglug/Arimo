@@ -6,8 +6,30 @@
 uni04E3
 </note>
   <outline>
-    <component base="uni0438" identifier="8FA10CD7"/>
-    <component base="macron" xOffset="260" identifier="B2FC84DB"/>
+    <contour>
+      <point x="840" y="857" type="line"/>
+      <point x="836" y="817"/>
+      <point x="830" y="695"/>
+      <point x="830" y="648" type="curve" smooth="yes"/>
+      <point x="830" y="0" type="line"/>
+      <point x="1002" y="0" type="line"/>
+      <point x="1002" y="1062" type="line"/>
+      <point x="805" y="1062" type="line"/>
+      <point x="306" y="209" type="line"/>
+      <point x="309" y="299"/>
+      <point x="316" y="398"/>
+      <point x="316" y="481" type="curve" smooth="yes"/>
+      <point x="316" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="1344" type="line"/>
+      <point x="311" y="1217" type="line"/>
+      <point x="860" y="1217" type="line"/>
+      <point x="860" y="1344" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

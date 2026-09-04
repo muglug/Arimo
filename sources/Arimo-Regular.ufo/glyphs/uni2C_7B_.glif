@@ -9,16 +9,16 @@ uni2C7B
     <contour>
       <point x="76" y="0" type="line"/>
       <point x="868" y="0" type="line"/>
-      <point x="868" y="1082" type="line"/>
-      <point x="101" y="1082" type="line"/>
-      <point x="101" y="943" type="line"/>
-      <point x="688" y="943" type="line"/>
-      <point x="688" y="624" type="line"/>
-      <point x="140" y="624" type="line"/>
-      <point x="140" y="486" type="line"/>
-      <point x="688" y="486" type="line"/>
-      <point x="688" y="139" type="line"/>
-      <point x="76" y="139" type="line"/>
+      <point x="868" y="1062" type="line"/>
+      <point x="101" y="1062" type="line"/>
+      <point x="101" y="926" type="line"/>
+      <point x="688" y="926" type="line"/>
+      <point x="688" y="612" type="line"/>
+      <point x="140" y="612" type="line"/>
+      <point x="140" y="477" type="line"/>
+      <point x="688" y="477" type="line"/>
+      <point x="688" y="136" type="line"/>
+      <point x="76" y="136" type="line"/>
     </contour>
   </outline>
 </glyph>

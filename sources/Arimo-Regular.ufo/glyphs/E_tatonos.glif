@@ -6,8 +6,28 @@
 Etatonos
 </note>
   <outline>
-    <component base="H" xOffset="237" identifier="0CF28F0D"/>
-    <component base="tonos" xOffset="-219" yOffset="-132" identifier="4BE0A4FF"/>
+    <contour>
+      <point x="596" y="679" type="line"/>
+      <point x="1358" y="679" type="line"/>
+      <point x="1358" y="0" type="line"/>
+      <point x="1549" y="0" type="line"/>
+      <point x="1549" y="1466" type="line"/>
+      <point x="1358" y="1466" type="line"/>
+      <point x="1358" y="846" type="line"/>
+      <point x="596" y="846" type="line"/>
+      <point x="596" y="1466" type="line"/>
+      <point x="405" y="1466" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="596" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="1430" type="line"/>
+      <point x="262" y="1468" type="line"/>
+      <point x="55" y="1468" type="line"/>
+      <point x="-14" y="1164" type="line"/>
+      <point x="-14" y="1130" type="line"/>
+      <point x="61" y="1130" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

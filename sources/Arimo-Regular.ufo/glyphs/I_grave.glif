@@ -5,17 +5,29 @@
   <note>
 Igrave
 </note>
-  <anchor x="180" y="1840" name="top"/>
-  <anchor x="520" y="1540" name="caronalt"/>
+  <anchor x="180" y="1914" name="top"/>
+  <anchor x="520" y="1602" name="caronalt"/>
   <anchor x="280" y="-130" name="bottom"/>
-  <anchor x="569" y="1840" name="topdouble"/>
+  <anchor x="569" y="1914" name="topdouble"/>
   <anchor x="569" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="569" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="200" y="0" name="ogonek"/>
   <outline>
-    <component base="I" identifier="1AF23DEA"/>
-    <component base="grave.uc" xOffset="-97" identifier="15F3AD7E"/>
+    <contour>
+      <point x="380" y="1466" type="line"/>
+      <point x="189" y="1466" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="1613" type="line"/>
+      <point x="216" y="1848" type="line"/>
+      <point x="9" y="1848" type="line"/>
+      <point x="9" y="1818" type="line"/>
+      <point x="319" y="1592" type="line"/>
+      <point x="433" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

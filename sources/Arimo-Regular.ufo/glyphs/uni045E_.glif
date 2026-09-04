@@ -5,10 +5,54 @@
   <note>
 uni045E
 </note>
-  <anchor x="510" y="1580" name="cytop"/>
+  <anchor x="510" y="1562" name="cytop"/>
   <outline>
-    <component base="y" identifier="C232991A"/>
-    <component base="breve.cyr" xOffset="183" identifier="C588741E"/>
+    <contour>
+      <point x="191" y="-425" type="curve" smooth="yes"/>
+      <point x="310" y="-425"/>
+      <point x="402" y="-370"/>
+      <point x="479" y="-257" type="curve" smooth="yes"/>
+      <point x="518" y="-201"/>
+      <point x="559" y="-115"/>
+      <point x="604" y="0" type="curve" smooth="yes"/>
+      <point x="1020" y="1062" type="line"/>
+      <point x="830" y="1062" type="line"/>
+      <point x="623" y="468" type="line" smooth="yes"/>
+      <point x="591" y="376"/>
+      <point x="556" y="285"/>
+      <point x="523" y="192" type="curve"/>
+      <point x="501" y="274"/>
+      <point x="458" y="392"/>
+      <point x="425" y="475" type="curve" smooth="yes"/>
+      <point x="197" y="1062" type="line"/>
+      <point x="5" y="1062" type="line"/>
+      <point x="434" y="5" type="line"/>
+      <point x="359" y="-215"/>
+      <point x="263" y="-285"/>
+      <point x="151" y="-285" type="curve" smooth="yes"/>
+      <point x="120" y="-285"/>
+      <point x="92" y="-283"/>
+      <point x="67" y="-279" type="curve"/>
+      <point x="67" y="-414" type="line"/>
+      <point x="100" y="-421"/>
+      <point x="142" y="-425"/>
+    </contour>
+    <contour>
+      <point x="523" y="1181" type="curve"/>
+      <point x="760" y="1181"/>
+      <point x="883" y="1288"/>
+      <point x="890" y="1502" type="curve"/>
+      <point x="726" y="1502" type="line"/>
+      <point x="718" y="1369"/>
+      <point x="650" y="1302"/>
+      <point x="523" y="1302" type="curve" smooth="yes"/>
+      <point x="396" y="1302"/>
+      <point x="328" y="1369"/>
+      <point x="320" y="1502" type="curve"/>
+      <point x="156" y="1502" type="line"/>
+      <point x="163" y="1288"/>
+      <point x="286" y="1181"/>
+    </contour>
   </outline>
   <lib>
     <dict>

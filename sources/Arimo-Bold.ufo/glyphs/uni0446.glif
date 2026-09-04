@@ -11,14 +11,14 @@ uni0446
       <point x="995" y="0" type="line"/>
       <point x="995" y="-408" type="line"/>
       <point x="1240" y="-408" type="line"/>
-      <point x="1240" y="190" type="line"/>
-      <point x="1094" y="190" type="line"/>
-      <point x="1094" y="1082" type="line"/>
-      <point x="812" y="1082" type="line"/>
-      <point x="812" y="190" type="line"/>
-      <point x="425" y="190" type="line"/>
-      <point x="425" y="1082" type="line"/>
-      <point x="143" y="1082" type="line"/>
+      <point x="1240" y="186" type="line"/>
+      <point x="1094" y="186" type="line"/>
+      <point x="1094" y="1062" type="line"/>
+      <point x="812" y="1062" type="line"/>
+      <point x="812" y="186" type="line"/>
+      <point x="425" y="186" type="line"/>
+      <point x="425" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
     </contour>
   </outline>
 </glyph>

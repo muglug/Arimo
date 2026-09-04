@@ -11,16 +11,16 @@ uni03CF
       <point x="680" y="-236" type="line"/>
       <point x="812" y="-402" type="line"/>
       <point x="1318" y="0" type="line"/>
-      <point x="856" y="793" type="line"/>
-      <point x="1603" y="1409" type="line"/>
-      <point x="1234" y="1409" type="line"/>
-      <point x="474" y="770" type="line"/>
-      <point x="604" y="1409" type="line"/>
-      <point x="309" y="1409" type="line"/>
+      <point x="863" y="825" type="line"/>
+      <point x="1615" y="1466" type="line"/>
+      <point x="1246" y="1466" type="line"/>
+      <point x="481" y="801" type="line"/>
+      <point x="616" y="1466" type="line"/>
+      <point x="321" y="1466" type="line"/>
       <point x="36" y="0" type="line"/>
       <point x="328" y="0" type="line"/>
-      <point x="429" y="517" type="line"/>
-      <point x="640" y="640" type="line"/>
+      <point x="433" y="538" type="line"/>
+      <point x="646" y="666" type="line"/>
     </contour>
   </outline>
   <lib>

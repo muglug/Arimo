@@ -6,8 +6,25 @@
 uni1FEB
 </note>
   <outline>
-    <component base="Y" xOffset="500"/>
-    <component base="tonos"/>
+    <contour>
+      <point x="1341" y="601" type="line"/>
+      <point x="2032" y="1466" type="line"/>
+      <point x="1709" y="1466" type="line"/>
+      <point x="1230" y="837" type="line"/>
+      <point x="976" y="1466" type="line"/>
+      <point x="684" y="1466" type="line"/>
+      <point x="1047" y="601" type="line"/>
+      <point x="930" y="0" type="line"/>
+      <point x="1224" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="1531" type="line"/>
+      <point x="555" y="1569" type="line"/>
+      <point x="298" y="1569" type="line"/>
+      <point x="169" y="1265" type="line"/>
+      <point x="163" y="1231" type="line"/>
+      <point x="268" y="1231" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

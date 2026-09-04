@@ -8,14 +8,14 @@ uniA768
   <outline>
     <contour>
       <point x="380" y="2" type="line"/>
-      <point x="1064" y="1409" type="line"/>
-      <point x="863" y="1409" type="line"/>
-      <point x="418" y="464" type="line" smooth="yes"/>
-      <point x="407" y="441"/>
-      <point x="394" y="408"/>
-      <point x="380" y="365" type="curve"/>
-      <point x="380" y="1409" type="line"/>
-      <point x="189" y="1409" type="line"/>
+      <point x="1064" y="1466" type="line"/>
+      <point x="863" y="1466" type="line"/>
+      <point x="418" y="483" type="line" smooth="yes"/>
+      <point x="407" y="459"/>
+      <point x="394" y="425"/>
+      <point x="380" y="380" type="curve"/>
+      <point x="380" y="1466" type="line"/>
+      <point x="189" y="1466" type="line"/>
       <point x="189" y="-425" type="line"/>
       <point x="380" y="-425" type="line"/>
     </contour>

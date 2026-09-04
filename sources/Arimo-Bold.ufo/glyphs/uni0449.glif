@@ -7,18 +7,18 @@ uni0449
 </note>
   <outline>
     <contour>
-      <point x="1708" y="190" type="line"/>
-      <point x="1562" y="190" type="line"/>
-      <point x="1562" y="1082" type="line"/>
-      <point x="1300" y="1082" type="line"/>
-      <point x="1300" y="190" type="line"/>
-      <point x="984" y="190" type="line"/>
-      <point x="984" y="1082" type="line"/>
-      <point x="722" y="1082" type="line"/>
-      <point x="722" y="190" type="line"/>
-      <point x="405" y="190" type="line"/>
-      <point x="405" y="1082" type="line"/>
-      <point x="143" y="1082" type="line"/>
+      <point x="1708" y="186" type="line"/>
+      <point x="1562" y="186" type="line"/>
+      <point x="1562" y="1062" type="line"/>
+      <point x="1300" y="1062" type="line"/>
+      <point x="1300" y="186" type="line"/>
+      <point x="984" y="186" type="line"/>
+      <point x="984" y="1062" type="line"/>
+      <point x="722" y="1062" type="line"/>
+      <point x="722" y="186" type="line"/>
+      <point x="405" y="186" type="line"/>
+      <point x="405" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
       <point x="143" y="0" type="line"/>
       <point x="1463" y="0" type="line"/>
       <point x="1463" y="-408" type="line"/>

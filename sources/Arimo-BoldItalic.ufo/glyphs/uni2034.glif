@@ -7,22 +7,22 @@ uni2034
 </note>
   <outline>
     <contour>
-      <point x="756" y="1409" type="line"/>
-      <point x="484" y="1409" type="line"/>
-      <point x="411" y="898" type="line"/>
-      <point x="630" y="898" type="line"/>
+      <point x="768" y="1466" type="line"/>
+      <point x="496" y="1466" type="line"/>
+      <point x="419" y="934" type="line"/>
+      <point x="638" y="934" type="line"/>
     </contour>
     <contour>
-      <point x="374" y="1409" type="line"/>
-      <point x="102" y="1409" type="line"/>
-      <point x="29" y="898" type="line"/>
-      <point x="248" y="898" type="line"/>
+      <point x="386" y="1466" type="line"/>
+      <point x="114" y="1466" type="line"/>
+      <point x="37" y="934" type="line"/>
+      <point x="256" y="934" type="line"/>
     </contour>
     <contour>
-      <point x="1140" y="1409" type="line"/>
-      <point x="868" y="1409" type="line"/>
-      <point x="795" y="898" type="line"/>
-      <point x="1014" y="898" type="line"/>
+      <point x="1152" y="1466" type="line"/>
+      <point x="880" y="1466" type="line"/>
+      <point x="803" y="934" type="line"/>
+      <point x="1022" y="934" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -7,21 +7,21 @@ asterisk
 </note>
   <outline>
     <contour>
-      <point x="813" y="768" type="line"/>
-      <point x="627" y="981" type="line"/>
-      <point x="877" y="1042" type="line"/>
-      <point x="809" y="1239" type="line"/>
-      <point x="574" y="1135" type="line"/>
-      <point x="592" y="1409" type="line"/>
-      <point x="377" y="1409" type="line"/>
-      <point x="395" y="1135" type="line"/>
-      <point x="156" y="1239" type="line"/>
-      <point x="88" y="1042" type="line"/>
-      <point x="338" y="981" type="line"/>
-      <point x="148" y="770" type="line"/>
-      <point x="334" y="647" type="line"/>
-      <point x="483" y="899" type="line"/>
-      <point x="629" y="647" type="line"/>
+      <point x="820" y="799" type="line"/>
+      <point x="635" y="1021" type="line"/>
+      <point x="886" y="1084" type="line"/>
+      <point x="820" y="1289" type="line"/>
+      <point x="584" y="1181" type="line"/>
+      <point x="604" y="1466" type="line"/>
+      <point x="389" y="1466" type="line"/>
+      <point x="405" y="1181" type="line"/>
+      <point x="167" y="1289" type="line"/>
+      <point x="97" y="1084" type="line"/>
+      <point x="346" y="1021" type="line"/>
+      <point x="155" y="801" type="line"/>
+      <point x="340" y="673" type="line"/>
+      <point x="491" y="935" type="line"/>
+      <point x="635" y="673" type="line"/>
     </contour>
   </outline>
   <lib>

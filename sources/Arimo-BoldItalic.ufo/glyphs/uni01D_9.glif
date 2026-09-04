@@ -6,8 +6,55 @@
 uni01D9
 </note>
   <outline>
-    <component base="U"/>
-    <component base="uni0308030C.cap" xOffset="960"/>
+    <contour>
+      <point x="672" y="-20" type="curve" smooth="yes"/>
+      <point x="1063" y="-20"/>
+      <point x="1278" y="161"/>
+      <point x="1355" y="551" type="curve" smooth="yes"/>
+      <point x="1533" y="1466" type="line"/>
+      <point x="1238" y="1466" type="line"/>
+      <point x="1063" y="563" type="line" smooth="yes"/>
+      <point x="1016" y="316"/>
+      <point x="910" y="220"/>
+      <point x="690" y="220" type="curve" smooth="yes"/>
+      <point x="519" y="220"/>
+      <point x="416" y="302"/>
+      <point x="418" y="444" type="curve" smooth="yes"/>
+      <point x="418" y="504"/>
+      <point x="425" y="563"/>
+      <point x="437" y="623" type="curve" smooth="yes"/>
+      <point x="597" y="1466" type="line"/>
+      <point x="302" y="1466" type="line"/>
+      <point x="147" y="661" type="line" smooth="yes"/>
+      <point x="136" y="610"/>
+      <point x="123" y="510"/>
+      <point x="123" y="448" type="curve" smooth="yes"/>
+      <point x="120" y="149"/>
+      <point x="320" y="-20"/>
+    </contour>
+    <contour>
+      <point x="1294" y="1899" type="line"/>
+      <point x="1296" y="1909" type="line"/>
+      <point x="1141" y="1909" type="line"/>
+      <point x="976" y="1840" type="line"/>
+      <point x="840" y="1909" type="line"/>
+      <point x="685" y="1909" type="line"/>
+      <point x="683" y="1897" type="line"/>
+      <point x="863" y="1750" type="line"/>
+      <point x="1057" y="1750" type="line"/>
+    </contour>
+    <contour>
+      <point x="1209" y="1683" type="line"/>
+      <point x="1049" y="1683" type="line"/>
+      <point x="1019" y="1525" type="line"/>
+      <point x="1179" y="1525" type="line"/>
+    </contour>
+    <contour>
+      <point x="844" y="1683" type="line"/>
+      <point x="684" y="1683" type="line"/>
+      <point x="654" y="1525" type="line"/>
+      <point x="814" y="1525" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

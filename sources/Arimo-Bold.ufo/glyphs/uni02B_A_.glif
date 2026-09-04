@@ -6,7 +6,17 @@
 uni02BA
 </note>
   <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="489"/>
+    <contour>
+      <point x="455" y="1409" type="line"/>
+      <point x="149" y="1409" type="line"/>
+      <point x="85" y="890" type="line"/>
+      <point x="297" y="890" type="line"/>
+    </contour>
+    <contour>
+      <point x="944" y="1409" type="line"/>
+      <point x="638" y="1409" type="line"/>
+      <point x="574" y="890" type="line"/>
+      <point x="786" y="890" type="line"/>
+    </contour>
   </outline>
 </glyph>

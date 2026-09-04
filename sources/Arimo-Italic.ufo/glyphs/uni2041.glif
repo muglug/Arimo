@@ -7,12 +7,12 @@ uni2041
 </note>
   <outline>
     <contour>
-      <point x="495" y="547" type="line"/>
+      <point x="500" y="569" type="line"/>
       <point x="673" y="0" type="line"/>
       <point x="865" y="0" type="line"/>
-      <point x="630" y="738" type="line"/>
-      <point x="1101" y="1409" type="line"/>
-      <point x="933" y="1409" type="line"/>
+      <point x="636" y="768" type="line"/>
+      <point x="1113" y="1466" type="line"/>
+      <point x="945" y="1466" type="line"/>
       <point x="-80" y="0" type="line"/>
       <point x="110" y="0" type="line"/>
     </contour>

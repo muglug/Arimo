@@ -6,7 +6,23 @@
 uni204E
 </note>
   <outline>
-    <component base="asterisk" yOffset="-327"/>
+    <contour>
+      <point x="813" y="441" type="line"/>
+      <point x="627" y="654" type="line"/>
+      <point x="877" y="715" type="line"/>
+      <point x="809" y="912" type="line"/>
+      <point x="574" y="808" type="line"/>
+      <point x="592" y="1082" type="line"/>
+      <point x="377" y="1082" type="line"/>
+      <point x="395" y="808" type="line"/>
+      <point x="156" y="912" type="line"/>
+      <point x="88" y="715" type="line"/>
+      <point x="338" y="654" type="line"/>
+      <point x="148" y="443" type="line"/>
+      <point x="334" y="320" type="line"/>
+      <point x="483" y="572" type="line"/>
+      <point x="629" y="320" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

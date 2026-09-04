@@ -6,6 +6,19 @@
 Chi
 </note>
   <outline>
-    <component base="X"/>
+    <contour>
+      <point x="689" y="641" type="line"/>
+      <point x="1112" y="0" type="line"/>
+      <point x="1323" y="0" type="line"/>
+      <point x="800" y="769" type="line"/>
+      <point x="1282" y="1466" type="line"/>
+      <point x="1071" y="1466" type="line"/>
+      <point x="690" y="891" type="line"/>
+      <point x="298" y="1466" type="line"/>
+      <point x="87" y="1466" type="line"/>
+      <point x="582" y="762" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="257" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -7,8 +7,8 @@ uni1D09
 </note>
   <outline>
     <contour>
-      <point x="425" y="1082" type="line"/>
-      <point x="144" y="1082" type="line"/>
+      <point x="425" y="1062" type="line"/>
+      <point x="144" y="1062" type="line"/>
       <point x="144" y="0" type="line"/>
       <point x="425" y="0" type="line"/>
     </contour>

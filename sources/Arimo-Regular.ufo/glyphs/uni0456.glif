@@ -6,6 +6,17 @@
 uni0456
 </note>
   <outline>
-    <component base="i"/>
+    <contour>
+      <point x="317" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="1293" type="line"/>
+      <point x="317" y="1293" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="1062" type="line"/>
+      <point x="137" y="1062" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+    </contour>
   </outline>
 </glyph>

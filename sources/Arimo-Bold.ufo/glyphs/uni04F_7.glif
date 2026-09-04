@@ -10,12 +10,12 @@ uni04F7
       <point x="311" y="0" type="line"/>
       <point x="311" y="-408" type="line"/>
       <point x="552" y="-408" type="line"/>
-      <point x="552" y="190" type="line"/>
-      <point x="425" y="190" type="line"/>
-      <point x="425" y="892" type="line"/>
-      <point x="798" y="892" type="line"/>
-      <point x="798" y="1082" type="line"/>
-      <point x="143" y="1082" type="line"/>
+      <point x="552" y="186" type="line"/>
+      <point x="425" y="186" type="line"/>
+      <point x="425" y="876" type="line"/>
+      <point x="798" y="876" type="line"/>
+      <point x="798" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
       <point x="143" y="0" type="line"/>
     </contour>
   </outline>

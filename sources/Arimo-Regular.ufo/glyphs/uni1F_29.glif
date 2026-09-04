@@ -6,8 +6,33 @@
 uni1F29
 </note>
   <outline>
-    <component base="H" xOffset="200" identifier="5D8C473D"/>
-    <component base="uni1FFE" xOffset="-228" identifier="8D1E7BA0"/>
+    <contour>
+      <point x="559" y="679" type="line"/>
+      <point x="1321" y="679" type="line"/>
+      <point x="1321" y="0" type="line"/>
+      <point x="1512" y="0" type="line"/>
+      <point x="1512" y="1466" type="line"/>
+      <point x="1321" y="1466" type="line"/>
+      <point x="1321" y="846" type="line"/>
+      <point x="559" y="846" type="line"/>
+      <point x="559" y="1466" type="line"/>
+      <point x="368" y="1466" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="559" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="1372" type="curve"/>
+      <point x="207" y="1372" type="line"/>
+      <point x="207" y="1544" type="line"/>
+      <point x="8" y="1544" type="line"/>
+      <point x="8" y="1464" type="line" smooth="yes"/>
+      <point x="8" y="1344"/>
+      <point x="24" y="1279"/>
+      <point x="84" y="1204" type="curve"/>
+      <point x="211" y="1204" type="line"/>
+      <point x="151" y="1275"/>
+      <point x="120" y="1323"/>
+    </contour>
   </outline>
   <lib>
     <dict>

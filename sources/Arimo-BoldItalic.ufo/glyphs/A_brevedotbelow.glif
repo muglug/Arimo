@@ -5,15 +5,55 @@
   <note>
 Abrevedotbelow
 </note>
-  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1495" y="1914" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1495" y="1914" name="tophalfright"/>
+  <anchor x="16" y="1914" name="tophalfleft"/>
   <anchor x="1200" y="0" name="ogonek"/>
   <outline>
-    <component base="A"/>
-    <component base="breve.uc" xOffset="467"/>
-    <component base="dotbelowcomb" xOffset="675"/>
+    <contour>
+      <point x="450" y="375" type="line"/>
+      <point x="987" y="375" type="line"/>
+      <point x="1039" y="0" type="line"/>
+      <point x="1331" y="0" type="line"/>
+      <point x="1105" y="1466" type="line"/>
+      <point x="757" y="1466" type="line"/>
+      <point x="-42" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="886" y="1240" type="curve"/>
+      <point x="886" y="1225"/>
+      <point x="892" y="1169"/>
+      <point x="903" y="1076" type="curve" smooth="yes"/>
+      <point x="966" y="606" type="line"/>
+      <point x="571" y="606" type="line"/>
+      <point x="786" y="1020" type="line" smooth="yes"/>
+      <point x="838" y="1123"/>
+      <point x="872" y="1195"/>
+    </contour>
+    <contour>
+      <point x="950" y="1581" type="curve"/>
+      <point x="1165" y="1581"/>
+      <point x="1292" y="1684"/>
+      <point x="1350" y="1897" type="curve"/>
+      <point x="1186" y="1897" type="line"/>
+      <point x="1149" y="1775"/>
+      <point x="1077" y="1726"/>
+      <point x="973" y="1726" type="curve" smooth="yes"/>
+      <point x="868" y="1726"/>
+      <point x="804" y="1793"/>
+      <point x="805" y="1897" type="curve"/>
+      <point x="640" y="1897" type="line"/>
+      <point x="638" y="1701"/>
+      <point x="761" y="1581"/>
+    </contour>
+    <contour>
+      <point x="811" y="-111" type="line"/>
+      <point x="530" y="-111" type="line"/>
+      <point x="489" y="-318" type="line"/>
+      <point x="770" y="-318" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

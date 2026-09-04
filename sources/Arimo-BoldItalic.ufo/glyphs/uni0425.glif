@@ -6,7 +6,20 @@
 uni0425
 </note>
   <outline>
-    <component base="X"/>
+    <contour>
+      <point x="928" y="0" type="line"/>
+      <point x="1235" y="0" type="line"/>
+      <point x="874" y="762" type="line"/>
+      <point x="1480" y="1466" type="line"/>
+      <point x="1167" y="1466" type="line"/>
+      <point x="761" y="976" type="line"/>
+      <point x="541" y="1466" type="line"/>
+      <point x="232" y="1466" type="line"/>
+      <point x="564" y="766" type="line"/>
+      <point x="-94" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="680" y="554" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -5,17 +5,41 @@
   <note>
 uni1E8D
 </note>
-  <anchor x="610" y="1580" name="top"/>
-  <anchor x="1080" y="1260" name="caronalt"/>
+  <anchor x="606" y="1562" name="top"/>
+  <anchor x="1076" y="1241" name="caronalt"/>
   <anchor x="400" y="-130" name="bottom"/>
-  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1020" y="1522" name="topdouble"/>
   <anchor x="1024" y="-380" name="bottomdouble"/>
-  <anchor x="1024" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1020" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="820" y="0" name="ogonek"/>
   <outline>
-    <component base="x"/>
-    <component base="dieresis" xOffset="213"/>
+    <contour>
+      <point x="495" y="436" type="line"/>
+      <point x="706" y="0" type="line"/>
+      <point x="896" y="0" type="line"/>
+      <point x="613" y="548" type="line"/>
+      <point x="1080" y="1062" type="line"/>
+      <point x="874" y="1062" type="line"/>
+      <point x="525" y="649" type="line"/>
+      <point x="331" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
+      <point x="408" y="546" type="line"/>
+      <point x="-82" y="0" type="line"/>
+      <point x="117" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="938" y="1385" type="line"/>
+      <point x="765" y="1385" type="line"/>
+      <point x="730" y="1200" type="line"/>
+      <point x="903" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="556" y="1385" type="line"/>
+      <point x="381" y="1385" type="line"/>
+      <point x="346" y="1200" type="line"/>
+      <point x="521" y="1200" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

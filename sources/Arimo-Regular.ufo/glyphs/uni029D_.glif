@@ -5,20 +5,20 @@
   <note>
 uni029D
 </note>
-  <anchor x="580" y="1540" name="top"/>
-  <anchor x="720" y="1540" name="caronalt"/>
+  <anchor x="580" y="1522" name="top"/>
+  <anchor x="720" y="1522" name="caronalt"/>
   <anchor x="360" y="-540" name="bottom"/>
-  <anchor x="814" y="1540" name="topdouble"/>
+  <anchor x="814" y="1522" name="topdouble"/>
   <anchor x="814" y="-380" name="bottomdouble"/>
-  <anchor x="814" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="814" y="1822" name="tophalfright"/>
+  <anchor x="0" y="1822" name="tophalfleft"/>
   <anchor x="352" y="-400" name="ogonek"/>
   <outline>
     <contour>
-      <point x="673" y="1484" type="line"/>
-      <point x="493" y="1484" type="line"/>
-      <point x="493" y="1312" type="line"/>
-      <point x="673" y="1312" type="line"/>
+      <point x="673" y="1466" type="line"/>
+      <point x="493" y="1466" type="line"/>
+      <point x="493" y="1293" type="line"/>
+      <point x="673" y="1293" type="line"/>
     </contour>
     <contour>
       <point x="343" y="-425" type="curve" smooth="yes"/>
@@ -27,13 +27,13 @@ uni029D
       <point x="673" y="-82" type="curve" smooth="yes"/>
       <point x="673" y="-45" type="line"/>
       <point x="809" y="-45" type="line"/>
-      <point x="809" y="94" type="line"/>
-      <point x="673" y="94" type="line"/>
-      <point x="673" y="1082" type="line"/>
-      <point x="493" y="1082" type="line"/>
-      <point x="493" y="94" type="line"/>
-      <point x="304" y="94" type="line" smooth="yes"/>
-      <point x="95" y="94"/>
+      <point x="809" y="92" type="line"/>
+      <point x="673" y="92" type="line"/>
+      <point x="673" y="1062" type="line"/>
+      <point x="493" y="1062" type="line"/>
+      <point x="493" y="92" type="line"/>
+      <point x="304" y="92" type="line" smooth="yes"/>
+      <point x="95" y="92"/>
       <point x="1" y="7"/>
       <point x="1" y="-161" type="curve" smooth="yes"/>
       <point x="1" y="-328"/>

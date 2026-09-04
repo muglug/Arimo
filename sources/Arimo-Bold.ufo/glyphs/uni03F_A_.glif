@@ -7,17 +7,17 @@ uni03FA
 </note>
   <outline>
     <contour>
-      <point x="399" y="1161" type="line"/>
-      <point x="748" y="600" type="line"/>
-      <point x="958" y="600" type="line"/>
-      <point x="1307" y="1153" type="line"/>
+      <point x="399" y="1208" type="line"/>
+      <point x="748" y="624" type="line"/>
+      <point x="958" y="624" type="line"/>
+      <point x="1307" y="1200" type="line"/>
       <point x="1307" y="0" type="line"/>
       <point x="1569" y="0" type="line"/>
-      <point x="1569" y="1409" type="line"/>
-      <point x="1176" y="1409" type="line"/>
-      <point x="854" y="887" type="line"/>
-      <point x="532" y="1409" type="line"/>
-      <point x="137" y="1409" type="line"/>
+      <point x="1569" y="1466" type="line"/>
+      <point x="1176" y="1466" type="line"/>
+      <point x="854" y="923" type="line"/>
+      <point x="532" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
       <point x="137" y="0" type="line"/>
       <point x="399" y="0" type="line"/>
     </contour>

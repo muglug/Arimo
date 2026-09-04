@@ -6,7 +6,18 @@
 Zeta
 </note>
   <outline>
-    <component base="Z"/>
+    <contour>
+      <point x="1113" y="162" type="line"/>
+      <point x="228" y="162" type="line"/>
+      <point x="1292" y="1321" type="line"/>
+      <point x="1320" y="1466" type="line"/>
+      <point x="318" y="1466" type="line"/>
+      <point x="287" y="1304" type="line"/>
+      <point x="1052" y="1304" type="line"/>
+      <point x="-12" y="149" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="1082" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

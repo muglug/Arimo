@@ -6,7 +6,37 @@
 uniA691
 </note>
   <outline>
-    <component base="uni0442"/>
-    <component base="ogonek" xOffset="154"/>
+    <contour>
+      <point x="643" y="876" type="line"/>
+      <point x="946" y="876" type="line"/>
+      <point x="946" y="1062" type="line"/>
+      <point x="58" y="1062" type="line"/>
+      <point x="58" y="876" type="line"/>
+      <point x="361" y="876" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="643" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="618" y="-392" type="curve"/>
+      <point x="618" y="-255" type="line"/>
+      <point x="579" y="-273"/>
+      <point x="542" y="-282"/>
+      <point x="506" y="-282" type="curve" smooth="yes"/>
+      <point x="446" y="-282"/>
+      <point x="412" y="-245"/>
+      <point x="412" y="-189" type="curve" smooth="yes"/>
+      <point x="412" y="-118"/>
+      <point x="457" y="-35"/>
+      <point x="541" y="21" type="curve"/>
+      <point x="388" y="21" type="line"/>
+      <point x="293" y="-28"/>
+      <point x="230" y="-125"/>
+      <point x="230" y="-225" type="curve" smooth="yes"/>
+      <point x="230" y="-348"/>
+      <point x="319" y="-425"/>
+      <point x="467" y="-425" type="curve" smooth="yes"/>
+      <point x="526" y="-425"/>
+      <point x="576" y="-414"/>
+    </contour>
   </outline>
 </glyph>

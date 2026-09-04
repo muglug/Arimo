@@ -5,20 +5,20 @@
   <note>
 uni0194
 </note>
-  <anchor x="640" y="1540" name="top"/>
-  <anchor x="1260" y="1540" name="caronalt"/>
+  <anchor x="640" y="1602" name="top"/>
+  <anchor x="1260" y="1602" name="caronalt"/>
   <anchor x="640" y="-540" name="bottom"/>
-  <anchor x="1304" y="1540" name="topdouble"/>
+  <anchor x="1304" y="1602" name="topdouble"/>
   <anchor x="1304" y="-380" name="bottomdouble"/>
-  <anchor x="1304" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1304" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="680" y="-400" name="ogonek"/>
   <outline>
     <contour>
-      <point x="14" y="1409" type="line"/>
-      <point x="505" y="270" type="line"/>
-      <point x="436" y="144"/>
-      <point x="391" y="53"/>
+      <point x="14" y="1466" type="line"/>
+      <point x="505" y="281" type="line"/>
+      <point x="436" y="150"/>
+      <point x="391" y="55"/>
       <point x="372" y="-3" type="curve" smooth="yes"/>
       <point x="352" y="-59"/>
       <point x="342" y="-108"/>
@@ -32,13 +32,13 @@ uni0194
       <point x="971" y="-112"/>
       <point x="960" y="-63"/>
       <point x="939" y="-4" type="curve" smooth="yes"/>
-      <point x="917" y="55"/>
-      <point x="872" y="147"/>
-      <point x="804" y="270" type="curve"/>
-      <point x="1292" y="1409" type="line"/>
-      <point x="987" y="1409" type="line"/>
-      <point x="656" y="543" type="line"/>
-      <point x="322" y="1409" type="line"/>
+      <point x="917" y="57"/>
+      <point x="872" y="153"/>
+      <point x="804" y="281" type="curve"/>
+      <point x="1292" y="1466" type="line"/>
+      <point x="987" y="1466" type="line"/>
+      <point x="656" y="565" type="line"/>
+      <point x="322" y="1466" type="line"/>
     </contour>
     <contour>
       <point x="734" y="-121" type="curve" smooth="yes"/>
@@ -50,7 +50,7 @@ uni0194
       <point x="579" y="-120" type="curve" smooth="yes"/>
       <point x="579" y="-66"/>
       <point x="607" y="9"/>
-      <point x="656" y="95" type="curve"/>
+      <point x="656" y="99" type="curve"/>
       <point x="715" y="-3"/>
       <point x="734" y="-72"/>
     </contour>

@@ -6,7 +6,21 @@
 uni0453
 </note>
   <outline>
-    <component base="uni0433"/>
-    <component base="acute" xOffset="216"/>
+    <contour>
+      <point x="425" y="876" type="line"/>
+      <point x="798" y="876" type="line"/>
+      <point x="798" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="813" y="1441" type="line"/>
+      <point x="813" y="1484" type="line"/>
+      <point x="555" y="1484" type="line"/>
+      <point x="303" y="1195" type="line"/>
+      <point x="303" y="1164" type="line"/>
+      <point x="473" y="1164" type="line"/>
+    </contour>
   </outline>
 </glyph>

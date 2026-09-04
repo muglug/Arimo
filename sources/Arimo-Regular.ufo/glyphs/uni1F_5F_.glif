@@ -6,8 +6,58 @@
 uni1F5F
 </note>
   <outline>
-    <component base="Y" xOffset="600" identifier="3013D007"/>
-    <component base="uni1FDF" identifier="F329DDD5"/>
+    <contour>
+      <point x="1377" y="608" type="line"/>
+      <point x="1921" y="1466" type="line"/>
+      <point x="1711" y="1466" type="line"/>
+      <point x="1284" y="768" type="line"/>
+      <point x="855" y="1466" type="line"/>
+      <point x="645" y="1466" type="line"/>
+      <point x="1187" y="608" type="line"/>
+      <point x="1187" y="0" type="line"/>
+      <point x="1377" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="1579" type="curve" smooth="yes"/>
+      <point x="574" y="1579"/>
+      <point x="628" y="1608"/>
+      <point x="662" y="1680" type="curve" smooth="yes"/>
+      <point x="680" y="1719"/>
+      <point x="693" y="1771"/>
+      <point x="700" y="1837" type="curve"/>
+      <point x="608" y="1837" type="line"/>
+      <point x="597" y="1759"/>
+      <point x="568" y="1724"/>
+      <point x="496" y="1724" type="curve" smooth="yes"/>
+      <point x="414" y="1724"/>
+      <point x="294" y="1827"/>
+      <point x="186" y="1827" type="curve" smooth="yes"/>
+      <point x="102" y="1827"/>
+      <point x="49" y="1785"/>
+      <point x="18" y="1717" type="curve" smooth="yes"/>
+      <point x="2" y="1682"/>
+      <point x="-10" y="1631"/>
+      <point x="-17" y="1564" type="curve"/>
+      <point x="74" y="1564" type="line"/>
+      <point x="86" y="1643"/>
+      <point x="119" y="1677"/>
+      <point x="192" y="1677" type="curve" smooth="yes"/>
+      <point x="277" y="1677"/>
+      <point x="390" y="1579"/>
+    </contour>
+    <contour>
+      <point x="346" y="1362" type="curve"/>
+      <point x="433" y="1362" type="line"/>
+      <point x="433" y="1534" type="line"/>
+      <point x="234" y="1534" type="line"/>
+      <point x="234" y="1454" type="line" smooth="yes"/>
+      <point x="234" y="1334"/>
+      <point x="250" y="1268"/>
+      <point x="310" y="1193" type="curve"/>
+      <point x="437" y="1193" type="line"/>
+      <point x="377" y="1264"/>
+      <point x="346" y="1313"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -8,18 +8,18 @@ uniA798
   <outline>
     <contour>
       <point x="584" y="-32" type="curve" smooth="yes"/>
-      <point x="584" y="517" type="line"/>
-      <point x="978" y="517" type="line"/>
-      <point x="978" y="745" type="line"/>
-      <point x="584" y="745" type="line"/>
-      <point x="584" y="1181" type="line"/>
-      <point x="1328" y="1181" type="line"/>
-      <point x="1328" y="1409" type="line"/>
-      <point x="289" y="1409" type="line"/>
-      <point x="289" y="745" type="line"/>
-      <point x="60" y="745" type="line"/>
-      <point x="60" y="517" type="line"/>
-      <point x="289" y="517" type="line"/>
+      <point x="584" y="538" type="line"/>
+      <point x="978" y="538" type="line"/>
+      <point x="978" y="775" type="line"/>
+      <point x="584" y="775" type="line"/>
+      <point x="584" y="1229" type="line"/>
+      <point x="1328" y="1229" type="line"/>
+      <point x="1328" y="1466" type="line"/>
+      <point x="289" y="1466" type="line"/>
+      <point x="289" y="775" type="line"/>
+      <point x="60" y="775" type="line"/>
+      <point x="60" y="538" type="line"/>
+      <point x="289" y="538" type="line"/>
       <point x="289" y="-42" type="line" smooth="yes"/>
       <point x="289" y="-147"/>
       <point x="258" y="-198"/>

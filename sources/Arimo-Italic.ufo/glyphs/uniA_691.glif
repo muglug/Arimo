@@ -22,12 +22,12 @@ uniA691
       <point x="297" y="-52"/>
       <point x="402" y="0" type="curve"/>
       <point x="449" y="0" type="line"/>
-      <point x="637" y="951" type="line"/>
-      <point x="981" y="951" type="line"/>
-      <point x="1007" y="1082" type="line"/>
-      <point x="139" y="1082" type="line"/>
-      <point x="113" y="951" type="line"/>
-      <point x="457" y="951" type="line"/>
+      <point x="633" y="933" type="line"/>
+      <point x="977" y="933" type="line"/>
+      <point x="1003" y="1062" type="line"/>
+      <point x="135" y="1062" type="line"/>
+      <point x="109" y="933" type="line"/>
+      <point x="453" y="933" type="line"/>
       <point x="269" y="0" type="line"/>
       <point x="268" y="-1" type="line"/>
       <point x="192" y="-40"/>

@@ -5,10 +5,34 @@
   <note>
 uni0401
 </note>
-  <anchor x="685" y="1840" name="cytop"/>
+  <anchor x="685" y="1914" name="cytop"/>
   <outline>
-    <component base="E" identifier="1C3DD501"/>
-    <component base="dieresis.uc" xOffset="377" identifier="AC6E1D0C"/>
+    <contour>
+      <point x="1278" y="162" type="line"/>
+      <point x="359" y="162" type="line"/>
+      <point x="359" y="673" type="line"/>
+      <point x="1177" y="673" type="line"/>
+      <point x="1177" y="833" type="line"/>
+      <point x="359" y="833" type="line"/>
+      <point x="359" y="1304" type="line"/>
+      <point x="1237" y="1304" type="line"/>
+      <point x="1237" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="1278" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="979" y="1783" type="line"/>
+      <point x="816" y="1783" type="line"/>
+      <point x="816" y="1592" type="line"/>
+      <point x="979" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="587" y="1783" type="line"/>
+      <point x="422" y="1783" type="line"/>
+      <point x="422" y="1592" type="line"/>
+      <point x="587" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

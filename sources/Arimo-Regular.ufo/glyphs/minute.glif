@@ -7,10 +7,10 @@ minute
 </note>
   <outline>
     <contour>
-      <point x="345" y="1409" type="line"/>
-      <point x="149" y="1409" type="line"/>
-      <point x="85" y="890" type="line"/>
-      <point x="187" y="890" type="line"/>
+      <point x="345" y="1466" type="line"/>
+      <point x="149" y="1466" type="line"/>
+      <point x="85" y="926" type="line"/>
+      <point x="187" y="926" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -6,6 +6,19 @@
 uniA7FA
 </note>
   <outline>
-    <component base="uni0448"/>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="1560" y="0" type="line"/>
+      <point x="1560" y="1062" type="line"/>
+      <point x="1298" y="1062" type="line"/>
+      <point x="1298" y="186" type="line"/>
+      <point x="983" y="186" type="line"/>
+      <point x="983" y="1062" type="line"/>
+      <point x="721" y="1062" type="line"/>
+      <point x="721" y="186" type="line"/>
+      <point x="405" y="186" type="line"/>
+      <point x="405" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
+    </contour>
   </outline>
 </glyph>

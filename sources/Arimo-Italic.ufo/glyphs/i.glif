@@ -5,26 +5,26 @@
   <note>
 i
 </note>
-  <anchor x="330" y="1580" name="top"/>
-  <anchor x="420" y="1540" name="caronalt"/>
+  <anchor x="326" y="1562" name="top"/>
+  <anchor x="416" y="1522" name="caronalt"/>
   <anchor x="130" y="-130" name="bottom"/>
-  <anchor x="300" y="1100" name="rhotic"/>
-  <anchor x="500" y="1000" name="horn"/>
-  <anchor x="455" y="1540" name="topdouble"/>
+  <anchor x="296" y="1080" name="rhotic"/>
+  <anchor x="496" y="982" name="horn"/>
+  <anchor x="451" y="1522" name="topdouble"/>
   <anchor x="455" y="-380" name="bottomdouble"/>
-  <anchor x="455" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="451" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="160" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="501" y="1484" type="line"/>
-      <point x="321" y="1484" type="line"/>
-      <point x="287" y="1312" type="line"/>
-      <point x="467" y="1312" type="line"/>
+      <point x="497" y="1466" type="line"/>
+      <point x="317" y="1466" type="line"/>
+      <point x="283" y="1293" type="line"/>
+      <point x="463" y="1293" type="line"/>
     </contour>
     <contour>
-      <point x="423" y="1082" type="line"/>
-      <point x="243" y="1082" type="line"/>
+      <point x="419" y="1062" type="line"/>
+      <point x="239" y="1062" type="line"/>
       <point x="33" y="0" type="line"/>
       <point x="212" y="0" type="line"/>
     </contour>

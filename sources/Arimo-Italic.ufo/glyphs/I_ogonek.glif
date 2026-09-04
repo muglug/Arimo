@@ -5,17 +5,43 @@
   <note>
 Iogonek
 </note>
-  <anchor x="380" y="1540" name="top"/>
-  <anchor x="500" y="1540" name="caronalt"/>
+  <anchor x="393" y="1602" name="top"/>
+  <anchor x="513" y="1602" name="caronalt"/>
   <anchor x="180" y="-540" name="bottom"/>
-  <anchor x="569" y="1540" name="topdouble"/>
+  <anchor x="582" y="1602" name="topdouble"/>
   <anchor x="569" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="585" y="1914" name="tophalfright"/>
+  <anchor x="16" y="1914" name="tophalfleft"/>
   <anchor x="260" y="-400" name="ogonek"/>
   <outline>
-    <component base="I"/>
-    <component base="ogonek" xOffset="-135"/>
+    <contour>
+      <point x="558" y="1466" type="line"/>
+      <point x="367" y="1466" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="-427" type="curve"/>
+      <point x="165" y="-427"/>
+      <point x="213" y="-418"/>
+      <point x="258" y="-400" type="curve"/>
+      <point x="273" y="-295" type="line"/>
+      <point x="233" y="-310"/>
+      <point x="195" y="-317"/>
+      <point x="159" y="-317" type="curve" smooth="yes"/>
+      <point x="108" y="-317"/>
+      <point x="81" y="-281"/>
+      <point x="81" y="-236" type="curve" smooth="yes"/>
+      <point x="81" y="-152"/>
+      <point x="150" y="-64"/>
+      <point x="274" y="0" type="curve"/>
+      <point x="141" y="0" type="line"/>
+      <point x="20" y="-47"/>
+      <point x="-64" y="-148"/>
+      <point x="-64" y="-259" type="curve" smooth="yes"/>
+      <point x="-64" y="-358"/>
+      <point x="-3" y="-427"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -5,13 +5,45 @@
   <note>
 Ecircumflexacute
 </note>
-  <anchor x="1366" y="1840" name="topdouble"/>
+  <anchor x="1366" y="1914" name="topdouble"/>
   <anchor x="1366" y="-380" name="bottomdouble"/>
-  <anchor x="1366" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1366" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="1120" y="0" name="ogonek"/>
   <outline>
-    <component base="E"/>
-    <component base="circumflexacute" xOffset="722"/>
+    <contour>
+      <point x="1286" y="237" type="line"/>
+      <point x="432" y="237" type="line"/>
+      <point x="432" y="623" type="line"/>
+      <point x="1184" y="623" type="line"/>
+      <point x="1184" y="860" type="line"/>
+      <point x="432" y="860" type="line"/>
+      <point x="432" y="1229" type="line"/>
+      <point x="1245" y="1229" type="line"/>
+      <point x="1245" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="1286" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1251" y="1897" type="line"/>
+      <point x="1251" y="1909" type="line"/>
+      <point x="1034" y="1909" type="line"/>
+      <point x="929" y="1724" type="line"/>
+      <point x="929" y="1714" type="line"/>
+      <point x="1025" y="1714" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="1697" type="line"/>
+      <point x="721" y="1697" type="line"/>
+      <point x="940" y="1521" type="line"/>
+      <point x="1045" y="1521" type="line"/>
+      <point x="1045" y="1542" type="line"/>
+      <point x="821" y="1823" type="line"/>
+      <point x="617" y="1823" type="line"/>
+      <point x="393" y="1542" type="line"/>
+      <point x="393" y="1521" type="line"/>
+      <point x="497" y="1521" type="line"/>
+    </contour>
   </outline>
 </glyph>

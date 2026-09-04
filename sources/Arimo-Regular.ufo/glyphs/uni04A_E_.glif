@@ -7,13 +7,13 @@ uni04AE
 </note>
   <outline>
     <contour>
-      <point x="662" y="584" type="line"/>
-      <point x="1119" y="1409" type="line"/>
-      <point x="909" y="1409" type="line"/>
-      <point x="569" y="730" type="line"/>
-      <point x="230" y="1409" type="line"/>
-      <point x="20" y="1409" type="line"/>
-      <point x="472" y="584" type="line"/>
+      <point x="662" y="608" type="line"/>
+      <point x="1119" y="1466" type="line"/>
+      <point x="909" y="1466" type="line"/>
+      <point x="569" y="760" type="line"/>
+      <point x="230" y="1466" type="line"/>
+      <point x="20" y="1466" type="line"/>
+      <point x="472" y="608" type="line"/>
       <point x="472" y="0" type="line"/>
       <point x="662" y="0" type="line"/>
     </contour>

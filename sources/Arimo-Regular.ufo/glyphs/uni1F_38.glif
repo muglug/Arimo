@@ -6,8 +6,25 @@
 uni1F38
 </note>
   <outline>
-    <component base="I" xOffset="200" identifier="EF66D557"/>
-    <component base="uni1FBD" xOffset="-228" identifier="E470FE93"/>
+    <contour>
+      <point x="580" y="1466" type="line"/>
+      <point x="389" y="1466" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="1464" type="curve" smooth="yes"/>
+      <point x="218" y="1544" type="line"/>
+      <point x="19" y="1544" type="line"/>
+      <point x="19" y="1372" type="line"/>
+      <point x="106" y="1372" type="line"/>
+      <point x="106" y="1323"/>
+      <point x="75" y="1275"/>
+      <point x="15" y="1204" type="curve"/>
+      <point x="142" y="1204" type="line"/>
+      <point x="202" y="1278"/>
+      <point x="218" y="1343"/>
+    </contour>
   </outline>
   <lib>
     <dict>

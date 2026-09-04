@@ -5,14 +5,37 @@
   <note>
 uni1E2F
 </note>
-  <anchor x="569" y="1840" name="topdouble"/>
+  <anchor x="569" y="1822" name="topdouble"/>
   <anchor x="569" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="569" y="1822" name="tophalfright"/>
+  <anchor x="0" y="1822" name="tophalfleft"/>
   <anchor x="220" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresis" xOffset="-54"/>
-    <component base="acute" xOffset="38" yOffset="310"/>
+    <contour>
+      <point x="426" y="1062" type="line"/>
+      <point x="145" y="1062" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="613" y="1400" type="line"/>
+      <point x="396" y="1400" type="line"/>
+      <point x="396" y="1180" type="line"/>
+      <point x="613" y="1180" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="1400" type="line"/>
+      <point x="-38" y="1400" type="line"/>
+      <point x="-38" y="1180" type="line"/>
+      <point x="176" y="1180" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="1751" type="line"/>
+      <point x="635" y="1794" type="line"/>
+      <point x="377" y="1794" type="line"/>
+      <point x="125" y="1506" type="line"/>
+      <point x="125" y="1475" type="line"/>
+      <point x="295" y="1475" type="line"/>
+    </contour>
   </outline>
 </glyph>

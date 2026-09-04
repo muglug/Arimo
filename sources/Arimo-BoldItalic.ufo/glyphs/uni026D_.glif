@@ -5,13 +5,13 @@
   <note>
 uni026D
 </note>
-  <anchor x="440" y="1580" name="top"/>
-  <anchor x="600" y="1540" name="caronalt"/>
+  <anchor x="436" y="1562" name="top"/>
+  <anchor x="596" y="1522" name="caronalt"/>
   <anchor x="340" y="-540" name="bottom"/>
-  <anchor x="569" y="1540" name="topdouble"/>
+  <anchor x="565" y="1522" name="topdouble"/>
   <anchor x="569" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="565" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="460" y="-400" name="ogonek"/>
   <outline>
     <contour>
@@ -24,8 +24,8 @@ uni026D
       <point x="292" y="-180"/>
       <point x="292" y="-121" type="curve"/>
       <point x="296" y="-84" type="line"/>
-      <point x="601" y="1484" type="line"/>
-      <point x="320" y="1484" type="line"/>
+      <point x="597" y="1466" type="line"/>
+      <point x="316" y="1466" type="line"/>
       <point x="17" y="-77" type="line" smooth="yes"/>
       <point x="9" y="-120"/>
       <point x="5" y="-159"/>

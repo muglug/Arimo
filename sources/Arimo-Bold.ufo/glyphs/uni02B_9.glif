@@ -6,6 +6,11 @@
 uni02B9
 </note>
   <outline>
-    <component base="minute"/>
+    <contour>
+      <point x="455" y="1409" type="line"/>
+      <point x="149" y="1409" type="line"/>
+      <point x="85" y="890" type="line"/>
+      <point x="297" y="890" type="line"/>
+    </contour>
   </outline>
 </glyph>

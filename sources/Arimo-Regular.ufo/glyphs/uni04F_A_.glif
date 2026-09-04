@@ -22,20 +22,20 @@ uni04FA
       <point x="354" y="-425"/>
       <point x="448" y="-326"/>
       <point x="448" y="-129" type="curve" smooth="yes"/>
-      <point x="448" y="155" type="line"/>
-      <point x="359" y="155" type="line"/>
-      <point x="359" y="659" type="line"/>
-      <point x="779" y="659" type="line"/>
-      <point x="779" y="806" type="line"/>
-      <point x="359" y="806" type="line"/>
-      <point x="359" y="1253" type="line"/>
-      <point x="1071" y="1253" type="line"/>
-      <point x="1071" y="1409" type="line"/>
-      <point x="168" y="1409" type="line"/>
-      <point x="168" y="806" type="line"/>
-      <point x="-1" y="806" type="line"/>
-      <point x="-1" y="659" type="line"/>
-      <point x="168" y="659" type="line"/>
+      <point x="448" y="161" type="line"/>
+      <point x="359" y="161" type="line"/>
+      <point x="359" y="686" type="line"/>
+      <point x="779" y="686" type="line"/>
+      <point x="779" y="839" type="line"/>
+      <point x="359" y="839" type="line"/>
+      <point x="359" y="1304" type="line"/>
+      <point x="1071" y="1304" type="line"/>
+      <point x="1071" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
+      <point x="168" y="839" type="line"/>
+      <point x="-1" y="839" type="line"/>
+      <point x="-1" y="686" type="line"/>
+      <point x="168" y="686" type="line"/>
       <point x="168" y="0" type="line"/>
     </contour>
   </outline>

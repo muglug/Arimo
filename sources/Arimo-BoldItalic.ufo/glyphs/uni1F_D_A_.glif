@@ -6,8 +6,20 @@
 uni1FDA
 </note>
   <outline>
-    <component base="I" xOffset="300"/>
-    <component base="uni1FEF" xOffset="-139"/>
+    <contour>
+      <point x="916" y="1466" type="line"/>
+      <point x="621" y="1466" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="630" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="1265" type="line"/>
+      <point x="411" y="1569" type="line"/>
+      <point x="154" y="1569" type="line"/>
+      <point x="147" y="1531" type="line"/>
+      <point x="309" y="1231" type="line"/>
+      <point x="414" y="1231" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

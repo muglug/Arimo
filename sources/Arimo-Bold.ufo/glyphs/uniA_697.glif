@@ -7,17 +7,17 @@ uniA697
 </note>
   <outline>
     <contour>
-      <point x="1560" y="177" type="curve"/>
-      <point x="1560" y="1082" type="line"/>
-      <point x="1298" y="1082" type="line"/>
-      <point x="1298" y="190" type="line"/>
-      <point x="983" y="190" type="line"/>
-      <point x="983" y="1082" type="line"/>
-      <point x="721" y="1082" type="line"/>
-      <point x="721" y="190" type="line"/>
-      <point x="405" y="190" type="line"/>
-      <point x="405" y="1082" type="line"/>
-      <point x="143" y="1082" type="line"/>
+      <point x="1560" y="174" type="curve"/>
+      <point x="1560" y="1062" type="line"/>
+      <point x="1298" y="1062" type="line"/>
+      <point x="1298" y="186" type="line"/>
+      <point x="983" y="186" type="line"/>
+      <point x="983" y="1062" type="line"/>
+      <point x="721" y="1062" type="line"/>
+      <point x="721" y="186" type="line"/>
+      <point x="405" y="186" type="line"/>
+      <point x="405" y="1062" type="line"/>
+      <point x="143" y="1062" type="line"/>
       <point x="143" y="0" type="line"/>
       <point x="1367" y="0" type="line" smooth="yes"/>
       <point x="1483" y="0"/>
@@ -52,8 +52,8 @@ uniA697
       <point x="1595" y="-425"/>
       <point x="1767" y="-307"/>
       <point x="1767" y="-80" type="curve" smooth="yes"/>
-      <point x="1767" y="48"/>
-      <point x="1687" y="144"/>
+      <point x="1767" y="47"/>
+      <point x="1687" y="141"/>
     </contour>
   </outline>
 </glyph>

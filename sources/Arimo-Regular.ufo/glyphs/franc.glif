@@ -7,22 +7,22 @@ franc
 </note>
   <outline>
     <contour>
-      <point x="359" y="279" type="line"/>
-      <point x="761" y="279" type="line"/>
-      <point x="761" y="408" type="line"/>
-      <point x="359" y="408" type="line"/>
-      <point x="359" y="621" type="line"/>
-      <point x="1046" y="621" type="line"/>
-      <point x="1046" y="778" type="line"/>
-      <point x="359" y="778" type="line"/>
-      <point x="359" y="1254" type="line"/>
-      <point x="1070" y="1254" type="line"/>
-      <point x="1070" y="1409" type="line"/>
-      <point x="179" y="1409" type="line"/>
-      <point x="179" y="408" type="line"/>
-      <point x="4" y="408" type="line"/>
-      <point x="4" y="279" type="line"/>
-      <point x="179" y="279" type="line"/>
+      <point x="359" y="290" type="line"/>
+      <point x="761" y="290" type="line"/>
+      <point x="761" y="425" type="line"/>
+      <point x="359" y="425" type="line"/>
+      <point x="359" y="646" type="line"/>
+      <point x="1046" y="646" type="line"/>
+      <point x="1046" y="809" type="line"/>
+      <point x="359" y="809" type="line"/>
+      <point x="359" y="1305" type="line"/>
+      <point x="1070" y="1305" type="line"/>
+      <point x="1070" y="1466" type="line"/>
+      <point x="179" y="1466" type="line"/>
+      <point x="179" y="425" type="line"/>
+      <point x="4" y="425" type="line"/>
+      <point x="4" y="290" type="line"/>
+      <point x="179" y="290" type="line"/>
       <point x="179" y="0" type="line"/>
       <point x="359" y="0" type="line"/>
     </contour>

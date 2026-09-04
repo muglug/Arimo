@@ -7,23 +7,23 @@ uni2E16
 </note>
   <outline>
     <contour>
-      <point x="757" y="1410" type="line"/>
-      <point x="469" y="1410" type="line"/>
-      <point x="469" y="1128" type="line"/>
-      <point x="757" y="1128" type="line"/>
+      <point x="757" y="1467" type="line"/>
+      <point x="469" y="1467" type="line"/>
+      <point x="469" y="1174" type="line"/>
+      <point x="757" y="1174" type="line"/>
     </contour>
     <contour>
-      <point x="1113" y="546" type="line"/>
-      <point x="1113" y="868" type="line"/>
-      <point x="86" y="1179" type="line"/>
-      <point x="86" y="951" type="line"/>
-      <point x="918" y="706" type="line"/>
-      <point x="86" y="462" type="line"/>
-      <point x="86" y="235" type="line"/>
+      <point x="1113" y="568" type="line"/>
+      <point x="1113" y="903" type="line"/>
+      <point x="86" y="1227" type="line"/>
+      <point x="86" y="989" type="line"/>
+      <point x="918" y="735" type="line"/>
+      <point x="86" y="481" type="line"/>
+      <point x="86" y="245" type="line"/>
     </contour>
     <contour>
-      <point x="757" y="281" type="line"/>
-      <point x="469" y="281" type="line"/>
+      <point x="757" y="292" type="line"/>
+      <point x="469" y="292" type="line"/>
       <point x="469" y="0" type="line"/>
       <point x="757" y="0" type="line"/>
     </contour>

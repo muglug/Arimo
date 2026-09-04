@@ -5,9 +5,43 @@
 uni03B9030803040300
 </note>
   <outline>
-    <component base="iota" xOffset="-2"/>
-    <component base="dieresis" xOffset="-59" yOffset="-34"/>
-    <component base="macron" xOffset="-63" yOffset="249"/>
-    <component base="uni1FEF.short" xOffset="-119" yOffset="107"/>
+    <contour>
+      <point x="197" y="0" type="curve"/>
+      <point x="497" y="0" type="line"/>
+      <point x="448" y="53"/>
+      <point x="417" y="147"/>
+      <point x="417" y="227" type="curve" smooth="yes"/>
+      <point x="417" y="1082" type="line"/>
+      <point x="135" y="1082" type="line"/>
+      <point x="135" y="236" type="line" smooth="yes"/>
+      <point x="135" y="144"/>
+      <point x="157" y="43"/>
+    </contour>
+    <contour>
+      <point x="608" y="1384" type="line"/>
+      <point x="391" y="1384" type="line"/>
+      <point x="391" y="1165" type="line"/>
+      <point x="608" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="1384" type="line"/>
+      <point x="-43" y="1384" type="line"/>
+      <point x="-43" y="1165" type="line"/>
+      <point x="171" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="-27" y="1620" type="line"/>
+      <point x="-27" y="1452" type="line"/>
+      <point x="585" y="1452" type="line"/>
+      <point x="585" y="1620" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="1730" type="line"/>
+      <point x="291" y="1942" type="line"/>
+      <point x="54" y="1942" type="line"/>
+      <point x="54" y="1905" type="line"/>
+      <point x="255" y="1697" type="line"/>
+      <point x="360" y="1697" type="line"/>
+    </contour>
   </outline>
 </glyph>

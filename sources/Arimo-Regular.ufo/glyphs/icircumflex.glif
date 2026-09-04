@@ -5,18 +5,34 @@
   <note>
 icircumflex
 </note>
-  <anchor x="300" y="1580" name="top"/>
-  <anchor x="680" y="1260" name="caronalt"/>
+  <anchor x="300" y="1562" name="top"/>
+  <anchor x="680" y="1241" name="caronalt"/>
   <anchor x="280" y="-130" name="bottom"/>
-  <anchor x="350" y="1100" name="rhotic"/>
-  <anchor x="455" y="1540" name="topdouble"/>
+  <anchor x="350" y="1080" name="rhotic"/>
+  <anchor x="455" y="1522" name="topdouble"/>
   <anchor x="455" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="569" y="1822" name="tophalfright"/>
+  <anchor x="0" y="1822" name="tophalfleft"/>
   <anchor x="220" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" identifier="097874D5"/>
-    <component base="circumflex" xOffset="-45" identifier="ACCD253F"/>
+    <contour>
+      <point x="374" y="1062" type="line"/>
+      <point x="194" y="1062" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="374" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-44" y="1182" type="line"/>
+      <point x="60" y="1182" type="line"/>
+      <point x="292" y="1351" type="line"/>
+      <point x="294" y="1351" type="line"/>
+      <point x="513" y="1182" type="line"/>
+      <point x="618" y="1182" type="line"/>
+      <point x="618" y="1202" type="line"/>
+      <point x="394" y="1473" type="line"/>
+      <point x="190" y="1473" type="line"/>
+      <point x="-44" y="1202" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

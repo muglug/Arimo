@@ -5,30 +5,30 @@
   <note>
 Tbar
 </note>
-  <anchor x="750" y="1540" name="top"/>
-  <anchor x="1240" y="1540" name="caronalt"/>
+  <anchor x="763" y="1602" name="top"/>
+  <anchor x="1253" y="1602" name="caronalt"/>
   <anchor x="620" y="-130" name="bottom"/>
-  <anchor x="1251" y="1540" name="topdouble"/>
+  <anchor x="1264" y="1602" name="topdouble"/>
   <anchor x="1251" y="-380" name="bottomdouble"/>
-  <anchor x="1251" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1267" y="1914" name="tophalfright"/>
+  <anchor x="16" y="1914" name="tophalfleft"/>
   <anchor x="550" y="0" name="ogonek"/>
   <outline>
     <contour>
-      <point x="787" y="626" type="line"/>
-      <point x="1015" y="626" type="line"/>
-      <point x="1052" y="816" type="line"/>
-      <point x="824" y="816" type="line"/>
-      <point x="895" y="1181" type="line"/>
-      <point x="1351" y="1181" type="line"/>
-      <point x="1395" y="1409" type="line"/>
-      <point x="189" y="1409" type="line"/>
-      <point x="145" y="1181" type="line"/>
-      <point x="600" y="1181" type="line"/>
-      <point x="529" y="816" type="line"/>
-      <point x="302" y="816" type="line"/>
-      <point x="265" y="626" type="line"/>
-      <point x="492" y="626" type="line"/>
+      <point x="792" y="651" type="line"/>
+      <point x="1020" y="651" type="line"/>
+      <point x="1059" y="849" type="line"/>
+      <point x="831" y="849" type="line"/>
+      <point x="905" y="1229" type="line"/>
+      <point x="1361" y="1229" type="line"/>
+      <point x="1407" y="1466" type="line"/>
+      <point x="201" y="1466" type="line"/>
+      <point x="155" y="1229" type="line"/>
+      <point x="610" y="1229" type="line"/>
+      <point x="536" y="849" type="line"/>
+      <point x="309" y="849" type="line"/>
+      <point x="270" y="651" type="line"/>
+      <point x="497" y="651" type="line"/>
       <point x="370" y="0" type="line"/>
       <point x="665" y="0" type="line"/>
     </contour>

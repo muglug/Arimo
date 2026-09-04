@@ -7,56 +7,56 @@ Phi
 </note>
   <outline>
     <contour>
-      <point x="557" y="188" type="curve" smooth="yes"/>
-      <point x="633" y="188" type="line"/>
+      <point x="559" y="196" type="curve" smooth="yes"/>
+      <point x="635" y="196" type="line"/>
       <point x="595" y="-11" type="line"/>
       <point x="865" y="-11" type="line"/>
-      <point x="903" y="188" type="line"/>
-      <point x="984" y="188" type="line" smooth="yes"/>
-      <point x="1231" y="188"/>
-      <point x="1419" y="266"/>
-      <point x="1533" y="407" type="curve" smooth="yes"/>
-      <point x="1612" y="506"/>
-      <point x="1654" y="636"/>
-      <point x="1654" y="793" type="curve" smooth="yes"/>
-      <point x="1654" y="980"/>
-      <point x="1575" y="1126"/>
-      <point x="1432" y="1203" type="curve" smooth="yes"/>
-      <point x="1360" y="1242"/>
-      <point x="1276" y="1261"/>
-      <point x="1179" y="1261" type="curve" smooth="yes"/>
-      <point x="1112" y="1261" type="line"/>
-      <point x="1142" y="1419" type="line"/>
-      <point x="872" y="1419" type="line"/>
-      <point x="842" y="1261" type="line"/>
-      <point x="773" y="1261" type="line" smooth="yes"/>
-      <point x="340" y="1261"/>
-      <point x="96" y="1040"/>
-      <point x="96" y="651" type="curve" smooth="yes"/>
-      <point x="96" y="375"/>
-      <point x="281" y="188"/>
+      <point x="905" y="196" type="line"/>
+      <point x="986" y="196" type="line" smooth="yes"/>
+      <point x="1233" y="196"/>
+      <point x="1421" y="277"/>
+      <point x="1536" y="423" type="curve" smooth="yes"/>
+      <point x="1616" y="526"/>
+      <point x="1659" y="662"/>
+      <point x="1661" y="825" type="curve" smooth="yes"/>
+      <point x="1662" y="1020"/>
+      <point x="1585" y="1172"/>
+      <point x="1442" y="1252" type="curve" smooth="yes"/>
+      <point x="1371" y="1292"/>
+      <point x="1287" y="1312"/>
+      <point x="1190" y="1312" type="curve" smooth="yes"/>
+      <point x="1123" y="1312" type="line"/>
+      <point x="1154" y="1476" type="line"/>
+      <point x="884" y="1476" type="line"/>
+      <point x="853" y="1312" type="line"/>
+      <point x="784" y="1312" type="line" smooth="yes"/>
+      <point x="351" y="1312"/>
+      <point x="105" y="1082"/>
+      <point x="102" y="677" type="curve" smooth="yes"/>
+      <point x="99" y="390"/>
+      <point x="283" y="196"/>
     </contour>
     <contour>
-      <point x="944" y="397" type="line"/>
-      <point x="1071" y="1052" type="line"/>
-      <point x="1133" y="1052" type="line" smooth="yes"/>
-      <point x="1276" y="1052"/>
-      <point x="1363" y="952"/>
-      <point x="1363" y="789" type="curve" smooth="yes"/>
-      <point x="1363" y="549"/>
-      <point x="1225" y="397"/>
-      <point x="998" y="397" type="curve" smooth="yes"/>
+      <point x="947" y="413" type="line"/>
+      <point x="1080" y="1095" type="line"/>
+      <point x="1142" y="1095" type="line" smooth="yes"/>
+      <point x="1285" y="1095"/>
+      <point x="1371" y="991"/>
+      <point x="1370" y="821" type="curve" smooth="yes"/>
+      <point x="1368" y="571"/>
+      <point x="1228" y="413"/>
+      <point x="1001" y="413" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="608" y="397" type="line" smooth="yes"/>
-      <point x="471" y="397"/>
-      <point x="387" y="499"/>
-      <point x="387" y="662" type="curve" smooth="yes"/>
-      <point x="387" y="913"/>
-      <point x="522" y="1052"/>
-      <point x="755" y="1052" type="curve" smooth="yes"/>
-      <point x="801" y="1052" type="line"/>
-      <point x="674" y="397" type="line"/>
+      <point x="611" y="413" type="line" smooth="yes"/>
+      <point x="474" y="413"/>
+      <point x="391" y="519"/>
+      <point x="393" y="689" type="curve" smooth="yes"/>
+      <point x="395" y="950"/>
+      <point x="531" y="1095"/>
+      <point x="764" y="1095" type="curve" smooth="yes"/>
+      <point x="810" y="1095" type="line"/>
+      <point x="677" y="413" type="line"/>
     </contour>
   </outline>
   <lib>

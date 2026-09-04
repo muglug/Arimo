@@ -6,9 +6,49 @@
 onequarter
 </note>
   <outline>
-    <component base="onesuperior" xOffset="-24" identifier="44299CCF"/>
-    <component base="fraction" xOffset="761" identifier="32D0D1D1"/>
-    <component base="foursuperior" xOffset="952" yOffset="-561" identifier="36C39FCF"/>
+    <contour>
+      <point x="613" y="670" type="line"/>
+      <point x="398" y="670" type="line"/>
+      <point x="398" y="1409" type="line"/>
+      <point x="275" y="1409" type="line"/>
+      <point x="65" y="1272" type="line"/>
+      <point x="65" y="1152" type="line"/>
+      <point x="267" y="1290" type="line"/>
+      <point x="267" y="670" type="line"/>
+      <point x="56" y="670" type="line"/>
+      <point x="56" y="563" type="line"/>
+      <point x="613" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="1371" y="1409" type="line"/>
+      <point x="1226" y="1409" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1503" y="180" type="line"/>
+      <point x="1614" y="180" type="line"/>
+      <point x="1614" y="293" type="line"/>
+      <point x="1503" y="293" type="line"/>
+      <point x="1503" y="848" type="line"/>
+      <point x="1352" y="848" type="line"/>
+      <point x="966" y="291" type="line"/>
+      <point x="966" y="180" type="line"/>
+      <point x="1372" y="180" type="line"/>
+      <point x="1372" y="2" type="line"/>
+      <point x="1503" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1374" y="715" type="curve"/>
+      <point x="1373" y="671"/>
+      <point x="1372" y="626"/>
+      <point x="1372" y="582" type="curve" smooth="yes"/>
+      <point x="1372" y="293" type="line"/>
+      <point x="1093" y="293" type="line"/>
+      <point x="1292" y="580" type="line" smooth="yes"/>
+      <point x="1335" y="642"/>
+      <point x="1360" y="688"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -6,8 +6,25 @@
 uni1FEA
 </note>
   <outline>
-    <component base="Y" xOffset="300"/>
-    <component base="uni1FEF" xOffset="-217"/>
+    <contour>
+      <point x="1090" y="608" type="line"/>
+      <point x="1801" y="1466" type="line"/>
+      <point x="1587" y="1466" type="line"/>
+      <point x="1021" y="765" type="line"/>
+      <point x="721" y="1466" type="line"/>
+      <point x="525" y="1466" type="line"/>
+      <point x="902" y="608" type="line"/>
+      <point x="782" y="0" type="line"/>
+      <point x="972" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="1302" type="line"/>
+      <point x="371" y="1605" type="line"/>
+      <point x="164" y="1605" type="line"/>
+      <point x="157" y="1567" type="line"/>
+      <point x="299" y="1267" type="line"/>
+      <point x="374" y="1267" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

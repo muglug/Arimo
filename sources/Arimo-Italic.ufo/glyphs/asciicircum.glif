@@ -7,13 +7,13 @@ asciicircum
 </note>
   <outline>
     <contour>
-      <point x="508" y="1306" type="line"/>
-      <point x="817" y="673" type="line"/>
-      <point x="981" y="673" type="line"/>
-      <point x="611" y="1409" type="line"/>
-      <point x="408" y="1409" type="line"/>
-      <point x="40" y="673" type="line"/>
-      <point x="202" y="673" type="line"/>
+      <point x="519" y="1359" type="line"/>
+      <point x="823" y="700" type="line"/>
+      <point x="987" y="700" type="line"/>
+      <point x="623" y="1466" type="line"/>
+      <point x="420" y="1466" type="line"/>
+      <point x="46" y="700" type="line"/>
+      <point x="208" y="700" type="line"/>
     </contour>
   </outline>
   <lib>

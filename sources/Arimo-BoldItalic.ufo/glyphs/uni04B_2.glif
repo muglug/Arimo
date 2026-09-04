@@ -11,18 +11,18 @@ uni04B2
       <point x="1003" y="0" type="line"/>
       <point x="924" y="-408" type="line"/>
       <point x="1174" y="-408" type="line"/>
-      <point x="1301" y="244" type="line"/>
-      <point x="1112" y="244" type="line"/>
-      <point x="868" y="732" type="line"/>
-      <point x="1468" y="1409" type="line"/>
-      <point x="1155" y="1409" type="line"/>
-      <point x="753" y="938" type="line"/>
-      <point x="529" y="1409" type="line"/>
-      <point x="220" y="1409" type="line"/>
-      <point x="558" y="736" type="line"/>
+      <point x="1303" y="254" type="line"/>
+      <point x="1114" y="254" type="line"/>
+      <point x="874" y="762" type="line"/>
+      <point x="1480" y="1466" type="line"/>
+      <point x="1167" y="1466" type="line"/>
+      <point x="761" y="976" type="line"/>
+      <point x="541" y="1466" type="line"/>
+      <point x="232" y="1466" type="line"/>
+      <point x="564" y="766" type="line"/>
       <point x="-94" y="0" type="line"/>
       <point x="220" y="0" type="line"/>
-      <point x="675" y="532" type="line"/>
+      <point x="680" y="554" type="line"/>
     </contour>
   </outline>
   <lib>

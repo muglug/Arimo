@@ -5,16 +5,60 @@
   <note>
 Ntilde
 </note>
-  <anchor x="730" y="1900" name="top"/>
-  <anchor x="1330" y="1540" name="caronalt"/>
+  <anchor x="730" y="1977" name="top"/>
+  <anchor x="1330" y="1602" name="caronalt"/>
   <anchor x="730" y="-130" name="bottom"/>
-  <anchor x="1479" y="1840" name="topdouble"/>
+  <anchor x="1479" y="1914" name="topdouble"/>
   <anchor x="1479" y="-380" name="bottomdouble"/>
-  <anchor x="1479" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1479" y="1914" name="tophalfright"/>
+  <anchor x="0" y="1914" name="tophalfleft"/>
   <anchor x="1080" y="0" name="ogonek"/>
   <outline>
-    <component base="N"/>
-    <component base="tilde.uc" xOffset="398"/>
+    <contour>
+      <point x="399" y="865" type="line" smooth="yes"/>
+      <point x="399" y="931"/>
+      <point x="393" y="1020"/>
+      <point x="381" y="1129" type="curve"/>
+      <point x="995" y="0" type="line"/>
+      <point x="1341" y="0" type="line"/>
+      <point x="1341" y="1466" type="line"/>
+      <point x="1079" y="1466" type="line"/>
+      <point x="1079" y="614" type="line" smooth="yes"/>
+      <point x="1079" y="528"/>
+      <point x="1085" y="433"/>
+      <point x="1097" y="328" type="curve"/>
+      <point x="474" y="1466" type="line"/>
+      <point x="137" y="1466" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="906" y="1592" type="curve" smooth="yes"/>
+      <point x="1043" y="1592"/>
+      <point x="1120" y="1679"/>
+      <point x="1129" y="1897" type="curve"/>
+      <point x="994" y="1897" type="line"/>
+      <point x="975" y="1794"/>
+      <point x="948" y="1769"/>
+      <point x="895" y="1769" type="curve" smooth="yes"/>
+      <point x="854" y="1769"/>
+      <point x="802" y="1801"/>
+      <point x="745" y="1833" type="curve" smooth="yes"/>
+      <point x="689" y="1866"/>
+      <point x="629" y="1897"/>
+      <point x="574" y="1897" type="curve" smooth="yes"/>
+      <point x="445" y="1897"/>
+      <point x="364" y="1823"/>
+      <point x="349" y="1592" type="curve"/>
+      <point x="486" y="1592" type="line"/>
+      <point x="505" y="1699"/>
+      <point x="529" y="1720"/>
+      <point x="584" y="1720" type="curve" smooth="yes"/>
+      <point x="625" y="1720"/>
+      <point x="676" y="1690"/>
+      <point x="730" y="1658" type="curve" smooth="yes"/>
+      <point x="788" y="1626"/>
+      <point x="849" y="1592"/>
+    </contour>
   </outline>
 </glyph>

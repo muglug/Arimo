@@ -6,8 +6,33 @@
 uni1F19
 </note>
   <outline>
-    <component base="E" xOffset="200" identifier="2FAAB306"/>
-    <component base="uni1FFE" xOffset="-228" identifier="EEC7150A"/>
+    <contour>
+      <point x="1478" y="162" type="line"/>
+      <point x="559" y="162" type="line"/>
+      <point x="559" y="673" type="line"/>
+      <point x="1377" y="673" type="line"/>
+      <point x="1377" y="833" type="line"/>
+      <point x="559" y="833" type="line"/>
+      <point x="559" y="1304" type="line"/>
+      <point x="1437" y="1304" type="line"/>
+      <point x="1437" y="1466" type="line"/>
+      <point x="368" y="1466" type="line"/>
+      <point x="368" y="0" type="line"/>
+      <point x="1478" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="1372" type="curve"/>
+      <point x="207" y="1372" type="line"/>
+      <point x="207" y="1544" type="line"/>
+      <point x="8" y="1544" type="line"/>
+      <point x="8" y="1464" type="line" smooth="yes"/>
+      <point x="8" y="1344"/>
+      <point x="24" y="1279"/>
+      <point x="84" y="1204" type="curve"/>
+      <point x="211" y="1204" type="line"/>
+      <point x="151" y="1275"/>
+      <point x="120" y="1323"/>
+    </contour>
   </outline>
   <lib>
     <dict>

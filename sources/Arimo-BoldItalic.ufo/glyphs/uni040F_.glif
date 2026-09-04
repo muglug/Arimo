@@ -9,12 +9,12 @@ uni040F
     <contour>
       <point x="759" y="0" type="line"/>
       <point x="1232" y="0" type="line"/>
-      <point x="1506" y="1409" type="line"/>
-      <point x="1221" y="1409" type="line"/>
-      <point x="995" y="244" type="line"/>
-      <point x="378" y="244" type="line"/>
-      <point x="604" y="1409" type="line"/>
-      <point x="309" y="1409" type="line"/>
+      <point x="1518" y="1466" type="line"/>
+      <point x="1233" y="1466" type="line"/>
+      <point x="997" y="254" type="line"/>
+      <point x="380" y="254" type="line"/>
+      <point x="616" y="1466" type="line"/>
+      <point x="321" y="1466" type="line"/>
       <point x="35" y="0" type="line"/>
       <point x="509" y="0" type="line"/>
       <point x="430" y="-408" type="line"/>

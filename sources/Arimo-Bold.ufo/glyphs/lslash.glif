@@ -5,28 +5,28 @@
   <note>
 lslash
 </note>
-  <anchor x="280" y="1580" name="top"/>
-  <anchor x="475" y="1540" name="caronalt"/>
+  <anchor x="280" y="1562" name="top"/>
+  <anchor x="475" y="1522" name="caronalt"/>
   <anchor x="280" y="-130" name="bottom"/>
-  <anchor x="569" y="1540" name="topdouble"/>
+  <anchor x="569" y="1522" name="topdouble"/>
   <anchor x="569" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="569" y="1822" name="tophalfright"/>
+  <anchor x="0" y="1822" name="tophalfleft"/>
   <anchor x="220" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="143" y="0" type="line"/>
       <point x="424" y="0" type="line"/>
-      <point x="424" y="717" type="line"/>
-      <point x="553" y="793" type="line"/>
-      <point x="553" y="1006" type="line"/>
-      <point x="424" y="932" type="line"/>
-      <point x="424" y="1484" type="line"/>
-      <point x="143" y="1484" type="line"/>
-      <point x="143" y="776" type="line"/>
-      <point x="18" y="707" type="line"/>
-      <point x="18" y="492" type="line"/>
-      <point x="143" y="561" type="line"/>
+      <point x="424" y="704" type="line"/>
+      <point x="553" y="778" type="line"/>
+      <point x="553" y="987" type="line"/>
+      <point x="424" y="915" type="line"/>
+      <point x="424" y="1466" type="line"/>
+      <point x="143" y="1466" type="line"/>
+      <point x="143" y="762" type="line"/>
+      <point x="18" y="694" type="line"/>
+      <point x="18" y="483" type="line"/>
+      <point x="143" y="551" type="line"/>
     </contour>
   </outline>
 </glyph>

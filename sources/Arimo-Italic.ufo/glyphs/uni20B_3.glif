@@ -7,45 +7,45 @@ uni20B3
 </note>
   <outline>
     <contour>
-      <point x="354" y="412" type="line"/>
-      <point x="978" y="412" type="line"/>
+      <point x="358" y="429" type="line"/>
+      <point x="982" y="429" type="line"/>
       <point x="1059" y="0" type="line"/>
       <point x="1253" y="0" type="line"/>
-      <point x="1165" y="412" type="line"/>
-      <point x="1348" y="412" type="line"/>
-      <point x="1377" y="561" type="line"/>
-      <point x="1133" y="561" type="line"/>
-      <point x="1085" y="786" type="line"/>
-      <point x="1421" y="786" type="line"/>
-      <point x="1450" y="935" type="line"/>
-      <point x="1053" y="935" type="line"/>
-      <point x="952" y="1409" type="line"/>
-      <point x="754" y="1409" type="line"/>
-      <point x="469" y="935" type="line"/>
-      <point x="83" y="935" type="line"/>
-      <point x="54" y="786" type="line"/>
-      <point x="379" y="786" type="line"/>
-      <point x="244" y="561" type="line"/>
-      <point x="10" y="561" type="line"/>
-      <point x="-19" y="412" type="line"/>
-      <point x="154" y="412" type="line"/>
+      <point x="1169" y="429" type="line"/>
+      <point x="1352" y="429" type="line"/>
+      <point x="1382" y="584" type="line"/>
+      <point x="1138" y="584" type="line"/>
+      <point x="1092" y="818" type="line"/>
+      <point x="1428" y="818" type="line"/>
+      <point x="1458" y="973" type="line"/>
+      <point x="1061" y="973" type="line"/>
+      <point x="964" y="1466" type="line"/>
+      <point x="766" y="1466" type="line"/>
+      <point x="477" y="973" type="line"/>
+      <point x="91" y="973" type="line"/>
+      <point x="61" y="818" type="line"/>
+      <point x="386" y="818" type="line"/>
+      <point x="249" y="584" type="line"/>
+      <point x="15" y="584" type="line"/>
+      <point x="-15" y="429" type="line"/>
+      <point x="158" y="429" type="line"/>
       <point x="-94" y="0" type="line"/>
       <point x="111" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="828" y="1242" type="curve"/>
-      <point x="838" y="1145"/>
-      <point x="854" y="1042"/>
-      <point x="875" y="935" type="curve"/>
-      <point x="661" y="935" type="line"/>
-      <point x="720" y="1036"/>
-      <point x="776" y="1138"/>
+      <point x="839" y="1292" type="curve"/>
+      <point x="848" y="1191"/>
+      <point x="863" y="1084"/>
+      <point x="883" y="973" type="curve"/>
+      <point x="669" y="973" type="line"/>
+      <point x="729" y="1078"/>
+      <point x="786" y="1184"/>
     </contour>
     <contour>
-      <point x="441" y="561" type="line"/>
-      <point x="573" y="786" type="line"/>
-      <point x="904" y="786" type="line"/>
-      <point x="949" y="561" type="line"/>
+      <point x="446" y="584" type="line"/>
+      <point x="580" y="818" type="line"/>
+      <point x="911" y="818" type="line"/>
+      <point x="954" y="584" type="line"/>
     </contour>
   </outline>
   <lib>

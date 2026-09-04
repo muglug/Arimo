@@ -5,22 +5,22 @@ four.alt
 </note>
   <outline>
     <contour>
-      <point x="216" y="263" type="line"/>
-      <point x="324" y="263" type="line"/>
-      <point x="324" y="392" type="line"/>
-      <point x="216" y="392" type="line"/>
-      <point x="216" y="867" type="line"/>
-      <point x="22" y="867" type="line"/>
-      <point x="-324" y="386" type="line"/>
-      <point x="-324" y="263" type="line"/>
-      <point x="43" y="263" type="line"/>
-      <point x="43" y="114" type="line"/>
-      <point x="216" y="114" type="line"/>
+      <point x="216" y="275" type="line"/>
+      <point x="324" y="275" type="line"/>
+      <point x="324" y="410" type="line"/>
+      <point x="216" y="410" type="line"/>
+      <point x="216" y="906" type="line"/>
+      <point x="22" y="906" type="line"/>
+      <point x="-324" y="403" type="line"/>
+      <point x="-324" y="275" type="line"/>
+      <point x="43" y="275" type="line"/>
+      <point x="43" y="119" type="line"/>
+      <point x="216" y="119" type="line"/>
     </contour>
     <contour>
-      <point x="44" y="682" type="line"/>
-      <point x="43" y="392" type="line"/>
-      <point x="-164" y="392" type="line"/>
+      <point x="44" y="712" type="line"/>
+      <point x="43" y="410" type="line"/>
+      <point x="-164" y="410" type="line"/>
     </contour>
   </outline>
 </glyph>

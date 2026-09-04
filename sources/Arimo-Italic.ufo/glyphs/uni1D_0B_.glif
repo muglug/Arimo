@@ -6,7 +6,21 @@
 uni1D0B
 </note>
   <outline>
-    <component base="kappa"/>
+    <contour>
+      <point x="284" y="371" type="line"/>
+      <point x="451" y="493" type="line"/>
+      <point x="721" y="0" type="line"/>
+      <point x="916" y="0" type="line"/>
+      <point x="578" y="606" type="line"/>
+      <point x="1106" y="1062" type="line"/>
+      <point x="884" y="1062" type="line"/>
+      <point x="524" y="743" type="line"/>
+      <point x="321" y="557" type="line"/>
+      <point x="420" y="1062" type="line"/>
+      <point x="240" y="1062" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

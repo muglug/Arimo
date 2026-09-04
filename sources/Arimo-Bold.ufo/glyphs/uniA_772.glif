@@ -9,18 +9,18 @@ uniA772
     <contour>
       <point x="706" y="0" type="curve"/>
       <point x="1017" y="0" type="line"/>
-      <point x="1017" y="231" type="line"/>
-      <point x="808" y="231" type="line"/>
-      <point x="867" y="380"/>
-      <point x="908" y="511"/>
-      <point x="933" y="626" type="curve"/>
-      <point x="640" y="547" type="line"/>
-      <point x="623" y="439"/>
-      <point x="597" y="334"/>
-      <point x="562" y="231" type="curve"/>
-      <point x="424" y="231" type="line"/>
-      <point x="424" y="1484" type="line"/>
-      <point x="143" y="1484" type="line"/>
+      <point x="1017" y="227" type="line"/>
+      <point x="808" y="227" type="line"/>
+      <point x="867" y="373"/>
+      <point x="908" y="502"/>
+      <point x="933" y="614" type="curve"/>
+      <point x="640" y="537" type="line"/>
+      <point x="623" y="431"/>
+      <point x="597" y="328"/>
+      <point x="562" y="227" type="curve"/>
+      <point x="424" y="227" type="line"/>
+      <point x="424" y="1466" type="line"/>
+      <point x="143" y="1466" type="line"/>
       <point x="143" y="0" type="line"/>
       <point x="471" y="0" type="line"/>
       <point x="411" y="-134"/>

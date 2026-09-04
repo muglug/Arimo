@@ -6,9 +6,64 @@
 uni022B
 </note>
   <outline>
-    <component base="o"/>
-    <component base="dieresis" xOffset="290"/>
-    <component base="macron" xOffset="326" yOffset="305"/>
+    <contour>
+      <point x="1182" y="670" type="curve"/>
+      <point x="1181" y="930"/>
+      <point x="1013" y="1081"/>
+      <point x="700" y="1081" type="curve" smooth="yes"/>
+      <point x="449" y="1081"/>
+      <point x="245" y="964"/>
+      <point x="140" y="761" type="curve" smooth="yes"/>
+      <point x="87" y="660"/>
+      <point x="61" y="543"/>
+      <point x="61" y="411" type="curve" smooth="yes"/>
+      <point x="62" y="144"/>
+      <point x="244" y="-20"/>
+      <point x="535" y="-20" type="curve" smooth="yes"/>
+      <point x="786" y="-20"/>
+      <point x="995" y="98"/>
+      <point x="1103" y="309" type="curve" smooth="yes"/>
+      <point x="1156" y="414"/>
+      <point x="1183" y="535"/>
+    </contour>
+    <contour>
+      <point x="888" y="650" type="curve"/>
+      <point x="880" y="457"/>
+      <point x="830" y="298"/>
+      <point x="743" y="225" type="curve" smooth="yes"/>
+      <point x="699" y="187"/>
+      <point x="640" y="169"/>
+      <point x="565" y="169" type="curve" smooth="yes"/>
+      <point x="426" y="169"/>
+      <point x="357" y="253"/>
+      <point x="356" y="423" type="curve" smooth="yes"/>
+      <point x="356" y="571"/>
+      <point x="409" y="755"/>
+      <point x="499" y="833" type="curve" smooth="yes"/>
+      <point x="544" y="873"/>
+      <point x="603" y="892"/>
+      <point x="679" y="892" type="curve" smooth="yes"/>
+      <point x="818" y="892"/>
+      <point x="888" y="812"/>
+    </contour>
+    <contour>
+      <point x="1114" y="1400" type="line"/>
+      <point x="897" y="1400" type="line"/>
+      <point x="854" y="1180" type="line"/>
+      <point x="1071" y="1180" type="line"/>
+    </contour>
+    <contour>
+      <point x="677" y="1400" type="line"/>
+      <point x="463" y="1400" type="line"/>
+      <point x="421" y="1180" type="line"/>
+      <point x="634" y="1180" type="line"/>
+    </contour>
+    <contour>
+      <point x="1112" y="1658" type="line"/>
+      <point x="522" y="1658" type="line"/>
+      <point x="489" y="1490" type="line"/>
+      <point x="1075" y="1490" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

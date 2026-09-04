@@ -6,8 +6,29 @@
 Upsilondieresis
 </note>
   <outline>
-    <component base="Y"/>
-    <component base="dieresis.uc" xOffset="320"/>
+    <contour>
+      <point x="790" y="608" type="line"/>
+      <point x="1501" y="1466" type="line"/>
+      <point x="1287" y="1466" type="line"/>
+      <point x="721" y="765" type="line"/>
+      <point x="421" y="1466" type="line"/>
+      <point x="225" y="1466" type="line"/>
+      <point x="602" y="608" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="672" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1174" y="1783" type="line"/>
+      <point x="1001" y="1783" type="line"/>
+      <point x="964" y="1592" type="line"/>
+      <point x="1137" y="1592" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="1783" type="line"/>
+      <point x="617" y="1783" type="line"/>
+      <point x="580" y="1592" type="line"/>
+      <point x="755" y="1592" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

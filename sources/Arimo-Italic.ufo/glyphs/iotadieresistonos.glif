@@ -6,8 +6,44 @@
 iotadieresistonos
 </note>
   <outline>
-    <component base="iota"/>
-    <component base="dieresistonos" xOffset="50"/>
+    <contour>
+      <point x="243" y="136" type="curve"/>
+      <point x="243" y="165"/>
+      <point x="246" y="193"/>
+      <point x="252" y="223" type="curve" smooth="yes"/>
+      <point x="415" y="1062" type="line"/>
+      <point x="235" y="1062" type="line"/>
+      <point x="73" y="232" type="line" smooth="yes"/>
+      <point x="66" y="193"/>
+      <point x="62" y="157"/>
+      <point x="63" y="123" type="curve" smooth="yes"/>
+      <point x="63" y="67"/>
+      <point x="72" y="27"/>
+      <point x="91" y="0" type="curve"/>
+      <point x="289" y="0" type="line"/>
+      <point x="259" y="42"/>
+      <point x="244" y="88"/>
+    </contour>
+    <contour>
+      <point x="583" y="1546" type="line"/>
+      <point x="590" y="1583" type="line"/>
+      <point x="403" y="1583" type="line"/>
+      <point x="263" y="1214" type="line"/>
+      <point x="256" y="1181" type="line"/>
+      <point x="331" y="1181" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="1385" type="line"/>
+      <point x="75" y="1385" type="line"/>
+      <point x="42" y="1212" type="line"/>
+      <point x="191" y="1212" type="line"/>
+    </contour>
+    <contour>
+      <point x="697" y="1385" type="line"/>
+      <point x="547" y="1385" type="line"/>
+      <point x="513" y="1212" type="line"/>
+      <point x="663" y="1212" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

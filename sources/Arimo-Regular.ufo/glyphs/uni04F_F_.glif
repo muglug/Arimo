@@ -9,22 +9,22 @@ uni04FF
     <contour>
       <point x="801" y="0" type="line"/>
       <point x="1002" y="0" type="line"/>
-      <point x="662" y="486" type="line"/>
-      <point x="974" y="486" type="line"/>
-      <point x="974" y="632" type="line"/>
-      <point x="664" y="632" type="line"/>
-      <point x="979" y="1082" type="line"/>
-      <point x="778" y="1082" type="line"/>
-      <point x="510" y="661" type="line"/>
-      <point x="240" y="1082" type="line"/>
-      <point x="41" y="1082" type="line"/>
-      <point x="355" y="632" type="line"/>
-      <point x="51" y="632" type="line"/>
-      <point x="51" y="486" type="line"/>
-      <point x="359" y="486" type="line"/>
+      <point x="662" y="477" type="line"/>
+      <point x="974" y="477" type="line"/>
+      <point x="974" y="620" type="line"/>
+      <point x="664" y="620" type="line"/>
+      <point x="979" y="1062" type="line"/>
+      <point x="778" y="1062" type="line"/>
+      <point x="510" y="649" type="line"/>
+      <point x="240" y="1062" type="line"/>
+      <point x="41" y="1062" type="line"/>
+      <point x="355" y="620" type="line"/>
+      <point x="51" y="620" type="line"/>
+      <point x="51" y="477" type="line"/>
+      <point x="359" y="477" type="line"/>
       <point x="23" y="0" type="line"/>
       <point x="217" y="0" type="line"/>
-      <point x="510" y="444" type="line"/>
+      <point x="510" y="436" type="line"/>
     </contour>
   </outline>
 </glyph>

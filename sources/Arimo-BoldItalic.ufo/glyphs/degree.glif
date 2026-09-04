@@ -7,32 +7,32 @@ degree
 </note>
   <outline>
     <contour>
-      <point x="830" y="1110" type="curve"/>
-      <point x="830" y="1283"/>
-      <point x="689" y="1425"/>
-      <point x="509" y="1425" type="curve" smooth="yes"/>
-      <point x="332" y="1425"/>
-      <point x="189" y="1287"/>
-      <point x="189" y="1110" type="curve" smooth="yes"/>
-      <point x="189" y="933"/>
-      <point x="333" y="795"/>
-      <point x="509" y="795" type="curve" smooth="yes"/>
-      <point x="688" y="795"/>
-      <point x="830" y="937"/>
+      <point x="840" y="1155" type="curve"/>
+      <point x="841" y="1335"/>
+      <point x="701" y="1483"/>
+      <point x="521" y="1483" type="curve" smooth="yes"/>
+      <point x="344" y="1483"/>
+      <point x="200" y="1339"/>
+      <point x="199" y="1155" type="curve" smooth="yes"/>
+      <point x="197" y="971"/>
+      <point x="340" y="827"/>
+      <point x="516" y="827" type="curve" smooth="yes"/>
+      <point x="695" y="827"/>
+      <point x="838" y="975"/>
     </contour>
     <contour>
-      <point x="672" y="1110" type="curve"/>
-      <point x="672" y="1017"/>
-      <point x="598" y="942"/>
-      <point x="509" y="942" type="curve" smooth="yes"/>
-      <point x="418" y="942"/>
-      <point x="343" y="1018"/>
-      <point x="343" y="1110" type="curve" smooth="yes"/>
-      <point x="343" y="1202"/>
-      <point x="414" y="1276"/>
-      <point x="509" y="1276" type="curve" smooth="yes"/>
-      <point x="602" y="1276"/>
-      <point x="672" y="1203"/>
+      <point x="682" y="1155" type="curve"/>
+      <point x="681" y="1058"/>
+      <point x="606" y="980"/>
+      <point x="517" y="980" type="curve" smooth="yes"/>
+      <point x="426" y="980"/>
+      <point x="352" y="1059"/>
+      <point x="353" y="1155" type="curve" smooth="yes"/>
+      <point x="353" y="1251"/>
+      <point x="425" y="1328"/>
+      <point x="520" y="1328" type="curve" smooth="yes"/>
+      <point x="613" y="1328"/>
+      <point x="682" y="1252"/>
     </contour>
   </outline>
   <lib>

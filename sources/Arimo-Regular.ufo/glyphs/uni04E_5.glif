@@ -6,8 +6,36 @@
 uni04E5
 </note>
   <outline>
-    <component base="uni0438" identifier="0FD8877B"/>
-    <component base="dieresis" xOffset="247" identifier="8B0C7F76"/>
+    <contour>
+      <point x="840" y="857" type="line"/>
+      <point x="836" y="817"/>
+      <point x="830" y="695"/>
+      <point x="830" y="648" type="curve" smooth="yes"/>
+      <point x="830" y="0" type="line"/>
+      <point x="1002" y="0" type="line"/>
+      <point x="1002" y="1062" type="line"/>
+      <point x="805" y="1062" type="line"/>
+      <point x="306" y="209" type="line"/>
+      <point x="309" y="299"/>
+      <point x="316" y="398"/>
+      <point x="316" y="481" type="curve" smooth="yes"/>
+      <point x="316" y="1062" type="line"/>
+      <point x="142" y="1062" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="849" y="1385" type="line"/>
+      <point x="686" y="1385" type="line"/>
+      <point x="686" y="1200" type="line"/>
+      <point x="849" y="1200" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="1385" type="line"/>
+      <point x="292" y="1385" type="line"/>
+      <point x="292" y="1200" type="line"/>
+      <point x="457" y="1200" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

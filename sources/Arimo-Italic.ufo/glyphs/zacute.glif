@@ -5,17 +5,35 @@
   <note>
 zacute
 </note>
-  <anchor x="700" y="1580" name="top"/>
-  <anchor x="980" y="1260" name="caronalt"/>
+  <anchor x="696" y="1562" name="top"/>
+  <anchor x="976" y="1241" name="caronalt"/>
   <anchor x="400" y="-130" name="bottom"/>
-  <anchor x="1024" y="1540" name="topdouble"/>
+  <anchor x="1020" y="1522" name="topdouble"/>
   <anchor x="1024" y="-380" name="bottomdouble"/>
-  <anchor x="1024" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="1020" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="740" y="0" name="ogonek"/>
   <outline>
-    <component base="z"/>
-    <component base="acute" xOffset="309"/>
+    <contour>
+      <point x="850" y="136" type="line"/>
+      <point x="229" y="136" type="line"/>
+      <point x="968" y="928" type="line"/>
+      <point x="992" y="1062" type="line"/>
+      <point x="208" y="1062" type="line"/>
+      <point x="183" y="926" type="line"/>
+      <point x="749" y="926" type="line"/>
+      <point x="10" y="134" type="line"/>
+      <point x="-12" y="0" type="line"/>
+      <point x="826" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="948" y="1461" type="line"/>
+      <point x="953" y="1490" type="line"/>
+      <point x="736" y="1490" type="line"/>
+      <point x="483" y="1202" type="line"/>
+      <point x="480" y="1182" type="line"/>
+      <point x="574" y="1182" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

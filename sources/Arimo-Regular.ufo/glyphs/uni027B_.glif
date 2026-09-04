@@ -5,13 +5,13 @@
   <note>
 uni027B
 </note>
-  <anchor x="460" y="1200" name="top"/>
-  <anchor x="560" y="1260" name="caronalt"/>
+  <anchor x="460" y="1181" name="top"/>
+  <anchor x="560" y="1241" name="caronalt"/>
   <anchor x="320" y="-540" name="bottom"/>
-  <anchor x="682" y="1540" name="topdouble"/>
+  <anchor x="682" y="1522" name="topdouble"/>
   <anchor x="682" y="-380" name="bottomdouble"/>
-  <anchor x="682" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="682" y="1822" name="tophalfright"/>
+  <anchor x="0" y="1822" name="tophalfleft"/>
   <anchor x="600" y="-400" name="ogonek"/>
   <outline>
     <contour>
@@ -23,22 +23,22 @@ uni027B
       <point x="587" y="-268"/>
       <point x="549" y="-228"/>
       <point x="549" y="-120" type="curve" smooth="yes"/>
-      <point x="549" y="1082" type="line"/>
-      <point x="369" y="1082" type="line"/>
-      <point x="369" y="518" type="line" smooth="yes"/>
-      <point x="369" y="278"/>
-      <point x="288" y="145"/>
-      <point x="139" y="145" type="curve" smooth="yes"/>
-      <point x="99" y="145"/>
-      <point x="67" y="148"/>
-      <point x="43" y="155" type="curve"/>
+      <point x="549" y="1062" type="line"/>
+      <point x="369" y="1062" type="line"/>
+      <point x="369" y="508" type="line" smooth="yes"/>
+      <point x="369" y="273"/>
+      <point x="288" y="142"/>
+      <point x="139" y="142" type="curve" smooth="yes"/>
+      <point x="99" y="142"/>
+      <point x="67" y="145"/>
+      <point x="43" y="152" type="curve"/>
       <point x="43" y="-10" type="line"/>
       <point x="68" y="-17"/>
       <point x="92" y="-20"/>
       <point x="116" y="-20" type="curve" smooth="yes"/>
       <point x="252" y="-20"/>
-      <point x="323" y="33"/>
-      <point x="374" y="192" type="curve"/>
+      <point x="323" y="32"/>
+      <point x="374" y="188" type="curve"/>
       <point x="374" y="-129" type="line" smooth="yes"/>
       <point x="374" y="-326"/>
       <point x="459" y="-425"/>

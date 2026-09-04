@@ -7,27 +7,27 @@ yen
 </note>
   <outline>
     <contour>
-      <point x="658" y="303" type="line"/>
-      <point x="1041" y="303" type="line"/>
-      <point x="1041" y="430" type="line"/>
-      <point x="658" y="430" type="line"/>
-      <point x="658" y="584" type="line"/>
-      <point x="1041" y="584" type="line"/>
-      <point x="1041" y="709" type="line"/>
-      <point x="720" y="709" type="line"/>
-      <point x="1142" y="1409" type="line"/>
-      <point x="943" y="1409" type="line"/>
-      <point x="568" y="762" type="line"/>
-      <point x="197" y="1409" type="line"/>
-      <point x="-2" y="1409" type="line"/>
-      <point x="419" y="709" type="line"/>
-      <point x="99" y="709" type="line"/>
-      <point x="99" y="584" type="line"/>
-      <point x="482" y="584" type="line"/>
-      <point x="480" y="430" type="line"/>
-      <point x="99" y="430" type="line"/>
-      <point x="99" y="303" type="line"/>
-      <point x="480" y="303" type="line"/>
+      <point x="658" y="315" type="line"/>
+      <point x="1041" y="315" type="line"/>
+      <point x="1041" y="447" type="line"/>
+      <point x="658" y="447" type="line"/>
+      <point x="658" y="608" type="line"/>
+      <point x="1041" y="608" type="line"/>
+      <point x="1041" y="738" type="line"/>
+      <point x="720" y="738" type="line"/>
+      <point x="1142" y="1466" type="line"/>
+      <point x="943" y="1466" type="line"/>
+      <point x="568" y="793" type="line"/>
+      <point x="197" y="1466" type="line"/>
+      <point x="-2" y="1466" type="line"/>
+      <point x="419" y="738" type="line"/>
+      <point x="99" y="738" type="line"/>
+      <point x="99" y="608" type="line"/>
+      <point x="482" y="608" type="line"/>
+      <point x="480" y="447" type="line"/>
+      <point x="99" y="447" type="line"/>
+      <point x="99" y="315" type="line"/>
+      <point x="480" y="315" type="line"/>
       <point x="480" y="0" type="line"/>
       <point x="658" y="0" type="line"/>
     </contour>

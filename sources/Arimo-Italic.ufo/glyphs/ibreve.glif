@@ -5,17 +5,38 @@
   <note>
 ibreve
 </note>
-  <anchor x="320" y="1580" name="top"/>
-  <anchor x="680" y="1260" name="caronalt"/>
+  <anchor x="316" y="1562" name="top"/>
+  <anchor x="676" y="1241" name="caronalt"/>
   <anchor x="180" y="-130" name="bottom"/>
-  <anchor x="569" y="1540" name="topdouble"/>
+  <anchor x="565" y="1522" name="topdouble"/>
   <anchor x="569" y="-380" name="bottomdouble"/>
-  <anchor x="569" y="1840" name="tophalfright"/>
-  <anchor x="0" y="1840" name="tophalfleft"/>
+  <anchor x="565" y="1822" name="tophalfright"/>
+  <anchor x="-4" y="1822" name="tophalfleft"/>
   <anchor x="200" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi" xOffset="-55"/>
-    <component base="breve" xOffset="-68"/>
+    <contour>
+      <point x="420" y="1062" type="line"/>
+      <point x="240" y="1062" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="1182" type="curve"/>
+      <point x="523" y="1182"/>
+      <point x="655" y="1294"/>
+      <point x="723" y="1492" type="curve"/>
+      <point x="606" y="1492" type="line"/>
+      <point x="563" y="1383"/>
+      <point x="482" y="1328"/>
+      <point x="363" y="1328" type="curve" smooth="yes"/>
+      <point x="252" y="1328"/>
+      <point x="178" y="1379"/>
+      <point x="174" y="1492" type="curve"/>
+      <point x="58" y="1492" type="line"/>
+      <point x="58" y="1479" type="line"/>
+      <point x="66" y="1301"/>
+      <point x="181" y="1182"/>
+    </contour>
   </outline>
   <lib>
     <dict>

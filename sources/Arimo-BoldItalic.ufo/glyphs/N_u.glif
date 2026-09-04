@@ -6,7 +6,24 @@
 Nu
 </note>
   <outline>
-    <component base="N"/>
+    <contour>
+      <point x="480" y="928" type="line" smooth="yes"/>
+      <point x="490" y="981"/>
+      <point x="504" y="1064"/>
+      <point x="520" y="1177" type="curve"/>
+      <point x="884" y="0" type="line"/>
+      <point x="1240" y="0" type="line"/>
+      <point x="1526" y="1466" type="line"/>
+      <point x="1264" y="1466" type="line"/>
+      <point x="1083" y="545" type="line" smooth="yes"/>
+      <point x="1070" y="482"/>
+      <point x="1060" y="421"/>
+      <point x="1039" y="279" type="curve"/>
+      <point x="672" y="1466" type="line"/>
+      <point x="322" y="1466" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="298" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

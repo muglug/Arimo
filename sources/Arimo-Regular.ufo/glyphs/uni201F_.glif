@@ -6,7 +6,31 @@
 uni201F
 </note>
   <outline>
-    <component base="quotereversed" xOffset="-54"/>
-    <component base="quotereversed" xOffset="255"/>
+    <contour>
+      <point x="179" y="1261" type="curve"/>
+      <point x="267" y="1261" type="line"/>
+      <point x="267" y="1466" type="line"/>
+      <point x="72" y="1466" type="line"/>
+      <point x="72" y="1315" type="line" smooth="yes"/>
+      <point x="72" y="1173"/>
+      <point x="97" y="1079"/>
+      <point x="150" y="991" type="curve"/>
+      <point x="273" y="991" type="line"/>
+      <point x="210" y="1085"/>
+      <point x="179" y="1175"/>
+    </contour>
+    <contour>
+      <point x="488" y="1261" type="curve"/>
+      <point x="576" y="1261" type="line"/>
+      <point x="576" y="1466" type="line"/>
+      <point x="381" y="1466" type="line"/>
+      <point x="381" y="1315" type="line" smooth="yes"/>
+      <point x="381" y="1173"/>
+      <point x="406" y="1079"/>
+      <point x="459" y="991" type="curve"/>
+      <point x="582" y="991" type="line"/>
+      <point x="519" y="1085"/>
+      <point x="488" y="1175"/>
+    </contour>
   </outline>
 </glyph>

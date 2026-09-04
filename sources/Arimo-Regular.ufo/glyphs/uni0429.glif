@@ -11,18 +11,18 @@ uni0429
       <point x="1659" y="0" type="line"/>
       <point x="1659" y="-408" type="line"/>
       <point x="1839" y="-408" type="line"/>
-      <point x="1839" y="160" type="line"/>
-      <point x="1664" y="160" type="line"/>
-      <point x="1664" y="1409" type="line"/>
-      <point x="1478" y="1409" type="line"/>
-      <point x="1478" y="160" type="line"/>
-      <point x="1012" y="160" type="line"/>
-      <point x="1012" y="1409" type="line"/>
-      <point x="826" y="1409" type="line"/>
-      <point x="826" y="160" type="line"/>
-      <point x="359" y="160" type="line"/>
-      <point x="359" y="1409" type="line"/>
-      <point x="168" y="1409" type="line"/>
+      <point x="1839" y="166" type="line"/>
+      <point x="1664" y="166" type="line"/>
+      <point x="1664" y="1466" type="line"/>
+      <point x="1478" y="1466" type="line"/>
+      <point x="1478" y="166" type="line"/>
+      <point x="1012" y="166" type="line"/>
+      <point x="1012" y="1466" type="line"/>
+      <point x="826" y="1466" type="line"/>
+      <point x="826" y="166" type="line"/>
+      <point x="359" y="166" type="line"/>
+      <point x="359" y="1466" type="line"/>
+      <point x="168" y="1466" type="line"/>
     </contour>
   </outline>
 </glyph>

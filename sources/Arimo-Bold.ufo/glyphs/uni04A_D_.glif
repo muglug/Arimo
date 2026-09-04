@@ -7,18 +7,18 @@ uni04AD
 </note>
   <outline>
     <contour>
-      <point x="361" y="892" type="line"/>
+      <point x="361" y="876" type="line"/>
       <point x="361" y="0" type="line"/>
       <point x="524" y="0" type="line"/>
       <point x="524" y="-408" type="line"/>
       <point x="765" y="-408" type="line"/>
-      <point x="765" y="190" type="line"/>
-      <point x="643" y="190" type="line"/>
-      <point x="643" y="892" type="line"/>
-      <point x="946" y="892" type="line"/>
-      <point x="946" y="1082" type="line"/>
-      <point x="58" y="1082" type="line"/>
-      <point x="58" y="892" type="line"/>
+      <point x="765" y="186" type="line"/>
+      <point x="643" y="186" type="line"/>
+      <point x="643" y="876" type="line"/>
+      <point x="946" y="876" type="line"/>
+      <point x="946" y="1062" type="line"/>
+      <point x="58" y="1062" type="line"/>
+      <point x="58" y="876" type="line"/>
     </contour>
   </outline>
 </glyph>
