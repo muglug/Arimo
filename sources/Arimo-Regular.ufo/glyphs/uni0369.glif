@@ -8,6 +8,22 @@ uni0369
   <anchor x="0" y="480" name="_topmkmk"/>
   <anchor x="0" y="1680" name="topmkmk"/>
   <outline>
-    <component base="uni1D48" xOffset="-371"/>
+    <component base="uni1D48" xOffset="-371" identifier="BA0AA2F6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BA0AA2F6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

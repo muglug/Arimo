@@ -6,7 +6,26 @@
 uni1FBB
 </note>
   <outline>
-    <component base="A"/>
-    <component base="tonos" xOffset="-118"/>
+    <component base="A" identifier="6EE9B373"/>
+    <component base="tonos" xOffset="-118" identifier="9ADA858B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6EE9B373</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9ADA858B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

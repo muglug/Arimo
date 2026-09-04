@@ -15,7 +15,26 @@ atilde
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="940" y="0" name="ogonek"/>
   <outline>
-    <component base="a"/>
-    <component base="tilde" xOffset="245"/>
+    <component base="a" identifier="F03B70F4"/>
+    <component base="tilde" xOffset="245" identifier="E11B543D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E11B543D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F03B70F4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

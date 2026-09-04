@@ -16,4 +16,10 @@ uni0362
       <point x="825" y="-189" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
 </glyph>

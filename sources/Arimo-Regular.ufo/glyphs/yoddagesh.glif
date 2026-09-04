@@ -9,10 +9,9 @@ yoddagesh
   <anchor x="270" y="1350" name="hebrewtop1"/>
   <anchor x="270" y="1700" name="upperdot"/>
   <anchor x="280" y="0" name="hebrewbottom1"/>
-  <anchor x="280" y="0" name="hebrewbottomleft"/>
+  <anchor x="180" y="0" name="hebrewbottomleft"/>
   <anchor x="200" y="1350" name="hebrewtopleft"/>
   <anchor x="360" y="1350" name="hebrewtopright"/>
-  <anchor x="180" y="0" name="hebrewbottomleft"/>
   <anchor x="500" y="1430" name="rafe"/>
   <anchor x="270" y="0" name="hebrewbottom2"/>
   <anchor x="270" y="1350" name="hebrewtop2"/>

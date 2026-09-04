@@ -34,4 +34,10 @@ uni0334
       <point x="103" y="241"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
 </glyph>

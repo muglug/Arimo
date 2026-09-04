@@ -6,6 +6,20 @@
 uniA781
 </note>
   <outline>
-    <component base="l" yOffset="-402"/>
+    <component base="l" yOffset="-402" identifier="21DE9204"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>21DE9204</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

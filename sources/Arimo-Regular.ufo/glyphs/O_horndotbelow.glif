@@ -11,7 +11,26 @@ Ohorndotbelow
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="730" y="-310" name="ogonek"/>
   <outline>
-    <component base="Ohorn"/>
-    <component base="dotbelow.alt1" xOffset="940"/>
+    <component base="Ohorn" identifier="09DF02F0"/>
+    <component base="dotbelow.alt1" xOffset="940" identifier="F57E193F"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>09DF02F0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F57E193F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

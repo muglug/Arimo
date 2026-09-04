@@ -6,7 +6,26 @@
 uniFB03
 </note>
   <outline>
-    <component base="fi" xOffset="500"/>
-    <component base="f"/>
+    <component base="fi" xOffset="500" identifier="878FECC3"/>
+    <component base="f" identifier="877E050D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>877E050D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>878FECC3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

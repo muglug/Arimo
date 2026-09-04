@@ -5,8 +5,32 @@
 uni03B1030403140301
 </note>
   <outline>
-    <component base="alpha"/>
-    <component base="macron" xOffset="220"/>
-    <component base="uni1FDE" xOffset="230" yOffset="350"/>
+    <component base="alpha" identifier="C50655B9"/>
+    <component base="macron" xOffset="220" identifier="62FFBE36"/>
+    <component base="uni1FDE" xOffset="230" yOffset="350" identifier="0BC47D47"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0BC47D47</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>62FFBE36</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C50655B9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

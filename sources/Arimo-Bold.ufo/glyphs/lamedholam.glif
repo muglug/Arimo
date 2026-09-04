@@ -11,7 +11,6 @@ lamedholam
   <anchor x="480" y="0" name="hebrewbottomleft"/>
   <anchor x="-180" y="1350" name="hebrewtopleft"/>
   <anchor x="900" y="1350" name="hebrewtopright"/>
-  <anchor x="780" y="0" name="hebrewbottomleft"/>
   <anchor x="1000" y="1430" name="rafe"/>
   <anchor x="420" y="0" name="hebrewbottom2"/>
   <anchor x="810" y="1350" name="hebrewtop2"/>

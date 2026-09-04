@@ -5,7 +5,28 @@
 uni1AB0
 </note>
   <outline>
-    <component base="circumflex" xOffset="-662"/>
-    <component base="circumflex"/>
+    <component base="circumflex" xOffset="-662" identifier="76CF56C4"/>
+    <component base="circumflex" identifier="42621700"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>42621700</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>76CF56C4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

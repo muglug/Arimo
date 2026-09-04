@@ -14,7 +14,26 @@ wcircumflex
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="1000" y="0" name="ogonek"/>
   <outline>
-    <component base="w"/>
-    <component base="circumflex" xOffset="404"/>
+    <component base="w" identifier="727D9843"/>
+    <component base="circumflex" xOffset="404" identifier="2D7D441D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2D7D441D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>727D9843</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

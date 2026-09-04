@@ -16,7 +16,26 @@ ugrave
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="850" y="0" name="ogonek"/>
   <outline>
-    <component base="u" xOffset="6"/>
-    <component base="grave" xOffset="236"/>
+    <component base="u" xOffset="6" identifier="CD54CCF8"/>
+    <component base="grave" xOffset="236" identifier="41798A1B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>41798A1B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CD54CCF8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

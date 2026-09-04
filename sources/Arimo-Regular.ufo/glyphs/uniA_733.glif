@@ -8,7 +8,7 @@ uniA733
   <outline>
     <contour>
       <point x="1120" y="-20" type="curve" smooth="yes"/>
-      <point x="1295.0" y="-20.0"/>
+      <point x="1295" y="-20"/>
       <point x="1411" y="42"/>
       <point x="1503" y="207" type="curve"/>
       <point x="1509" y="207" type="line"/>

@@ -1,0 +1,281 @@
+# buildVariable: Build a variable font from a source file
+rule buildVariable
+  command = /Users/brownmatthew/git/arimo/venv/bin/python3.12 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o variable $
+      $fontmake_type $in $args $stamp
+  description = buildVariable
+
+# fix: Run gftools-fix
+rule fix
+  command = /Users/brownmatthew/git/arimo/venv/bin/python3.12 -m $
+      gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
+  description = fix
+
+# compress: Compress to webfont
+rule compress
+  command = /Users/brownmatthew/git/arimo/venv/bin/python3.12 -m $
+      gftools.builder.jobrunner fonttools ttLib.woff2 compress -o $out $in $
+      $stamp
+  description = compress
+
+# buildStat: Build a STAT table from one or more source files
+rule buildSTAT-operation
+  command = gftools-gen-stat --out $tempdir $args -- $in && mv $finalfile $
+      $out $stamp
+rule buildSTAT-postprocess
+  command = gftools-gen-stat --inplace $args -- $in $stamp
+
+# instantiateUfo: Create instance UFOs from a Glyphs or designspace file
+rule instantiateUfo
+  command = /Users/brownmatthew/git/arimo/venv/bin/python3.12 -m $
+      gftools.builder.jobrunner fontmake -i "$instance_name" -o ufo $
+      $fontmake_type $in $args $stamp
+  description = instantiateUfo
+
+# buildTTF: Build a TTF from a source file
+rule buildTTF
+  command = /Users/brownmatthew/git/arimo/venv/bin/python3.12 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o ttf $
+      $fontmake_type $in $args $stamp
+  description = buildTTF
+
+# autohint: Run gftools-autohint
+rule autohint
+  command = /Users/brownmatthew/git/arimo/venv/bin/python3.12 -m $
+      gftools.builder.jobrunner gftools-autohint $args -o $out $in $stamp
+  description = autohint
+
+# buildOTF: Build a OTF from a source file
+rule buildOTF
+  command = /Users/brownmatthew/git/arimo/venv/bin/python3.12 -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o otf $
+      $fontmake_type $in $args $stamp
+  description = buildOTF
+
+# copy: Copy a file
+rule copy
+  command = /Users/brownmatthew/git/arimo/venv/bin/python3.12 -m $
+      gftools.builder.jobrunner cp $in $out $stamp
+  description = copy
+
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5n5p41af
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5n5p41af: $
+    buildVariable Arimo-Italic.designspace
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -m
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/Arimo-Italic.ufo.json
+build instance_ufos/Arimo-Italic.ufo.json: instantiateUfo $
+    Arimo-Italic.designspace
+  operation = instantiateUfo
+  instance_name = Arimo Italic
+  fontmake_type = -m
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --output-dir instance_ufos
+# Generating instance_ufos/Arimo-BoldItalic.ufo.json
+build instance_ufos/Arimo-BoldItalic.ufo.json: instantiateUfo $
+    Arimo-Italic.designspace
+  operation = instantiateUfo
+  instance_name = Arimo Bold Italic
+  fontmake_type = -m
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --output-dir instance_ufos
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpj91y53wf
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpj91y53wf: $
+    buildVariable Arimo.designspace
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -m
+  fontmake_args =  --verbose WARNING 
+# Generating instance_ufos/Arimo-Regular.ufo.json
+build instance_ufos/Arimo-Regular.ufo.json: instantiateUfo Arimo.designspace
+  operation = instantiateUfo
+  instance_name = Arimo Regular
+  fontmake_type = -m
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --output-dir instance_ufos
+# Generating instance_ufos/Arimo-Bold.ufo.json
+build instance_ufos/Arimo-Bold.ufo.json: instantiateUfo Arimo.designspace
+  operation = instantiateUfo
+  instance_name = Arimo Bold
+  fontmake_type = -m
+  fontmake_args =  --verbose WARNING 
+  args =  --ufo-structure=json --output-dir instance_ufos
+# Generating ../fonts/webfonts/Arimo-Italic[wght].woff2
+build ../fonts/webfonts/Arimo-Italic[wght].woff2: compress $
+    ../fonts/variable/Arimo-Italic[wght].ttf
+  operation = compress
+# Postprocessing  with BuildSTAT
+build $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmo2amc_y.buildStatstamp: $
+    buildSTAT-postprocess ../fonts/variable/Arimo[wght].ttf $
+    ../fonts/variable/Arimo-Italic[wght].ttf | $
+    ../fonts/variable/Arimo[wght].ttf ../fonts/variable/Arimo-Italic[wght].ttf
+  stamp =  && touch $
+      /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmo2amc_y.buildStatstamp
+  postprocess = buildStat
+# Generating ../fonts/webfonts/Arimo[wght].woff2
+build ../fonts/webfonts/Arimo[wght].woff2: compress $
+    ../fonts/variable/Arimo[wght].ttf
+  operation = compress
+# Generating ../fonts/webfonts/Arimo-Italic.woff2
+build ../fonts/webfonts/Arimo-Italic.woff2: compress $
+    ../fonts/ttf/Arimo-Italic.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Arimo-BoldItalic.woff2
+build ../fonts/webfonts/Arimo-BoldItalic.woff2: compress $
+    ../fonts/ttf/Arimo-BoldItalic.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Arimo-Regular.woff2
+build ../fonts/webfonts/Arimo-Regular.woff2: compress $
+    ../fonts/ttf/Arimo-Regular.ttf
+  operation = compress
+# Generating ../fonts/webfonts/Arimo-Bold.woff2
+build ../fonts/webfonts/Arimo-Bold.woff2: compress ../fonts/ttf/Arimo-Bold.ttf
+  operation = compress
+# Generating ../fonts/variable/Arimo-Italic[wght].ttf
+build ../fonts/variable/Arimo-Italic[wght].ttf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp5n5p41af
+  operation = fix
+  args = 
+# Generating ../fonts/variable/Arimo[wght].ttf
+build ../fonts/variable/Arimo[wght].ttf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpj91y53wf
+  operation = fix
+  args = 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpkq66scm9
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpkq66scm9: $
+    buildTTF instance_ufos/Arimo-Italic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpftnpin89
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpftnpin89: $
+    buildOTF instance_ufos/Arimo-Italic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvx1gtqem
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvx1gtqem: $
+    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpkq66scm9
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Arimo-Italic.ttf
+build ../fonts/ttf/Arimo-Italic.ttf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpvx1gtqem
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Arimo-Italic.otf
+build ../fonts/otf/Arimo-Italic.otf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpftnpin89
+  operation = fix
+  args = 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxh4y_f5
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxh4y_f5: $
+    buildTTF instance_ufos/Arimo-BoldItalic.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpx1vpozxp
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpx1vpozxp: $
+    buildOTF instance_ufos/Arimo-BoldItalic.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpanh0an0f
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpanh0an0f: $
+    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxh4y_f5
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Arimo-BoldItalic.ttf
+build ../fonts/ttf/Arimo-BoldItalic.ttf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpanh0an0f
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Arimo-BoldItalic.otf
+build ../fonts/otf/Arimo-BoldItalic.otf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpx1vpozxp
+  operation = fix
+  args = 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpzsa0sbbf
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpzsa0sbbf: $
+    buildTTF instance_ufos/Arimo-Regular.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpchd1tyyj
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpchd1tyyj: $
+    buildOTF instance_ufos/Arimo-Regular.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp08ppnf12
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp08ppnf12: $
+    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpzsa0sbbf
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Arimo-Regular.ttf
+build ../fonts/ttf/Arimo-Regular.ttf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp08ppnf12
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Arimo-Regular.otf
+build ../fonts/otf/Arimo-Regular.otf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpchd1tyyj
+  operation = fix
+  args = 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpqoysxhy4
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpqoysxhy4: $
+    buildTTF instance_ufos/Arimo-Bold.ufo.json
+  operation = buildTTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp53g5ta99
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp53g5ta99: $
+    buildOTF instance_ufos/Arimo-Bold.ufo.json
+  operation = buildOTF
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -u
+  fontmake_args =  --verbose WARNING 
+# Generating /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxibcupl
+build /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxibcupl: $
+    autohint /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpqoysxhy4
+  operation = autohint
+  args = --fail-ok 
+# Generating ../fonts/ttf/Arimo-Bold.ttf
+build ../fonts/ttf/Arimo-Bold.ttf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmphxibcupl
+  operation = fix
+  args = 
+# Generating ../fonts/otf/Arimo-Bold.otf
+build ../fonts/otf/Arimo-Bold.otf: fix $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmp53g5ta99
+  operation = fix
+  args = 
+default ../fonts/webfonts/Arimo-Italic[wght].woff2 $
+    /var/folders/ys/kzhbdm0s7b54fg_2jkfqdb500000gn/T/tmpmo2amc_y.buildStatstamp $
+    ../fonts/webfonts/Arimo[wght].woff2 $
+    ../fonts/webfonts/Arimo-Italic.woff2 $
+    ../fonts/webfonts/Arimo-BoldItalic.woff2 $
+    ../fonts/webfonts/Arimo-Regular.woff2 $
+    ../fonts/webfonts/Arimo-Bold.woff2 ../fonts/otf/Arimo-Italic.otf $
+    ../fonts/otf/Arimo-BoldItalic.otf ../fonts/otf/Arimo-Regular.otf $
+    ../fonts/otf/Arimo-Bold.otf

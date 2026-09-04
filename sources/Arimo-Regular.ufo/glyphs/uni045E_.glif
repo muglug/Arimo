@@ -7,7 +7,26 @@ uni045E
 </note>
   <anchor x="510" y="1580" name="cytop"/>
   <outline>
-    <component base="y"/>
-    <component base="breve.cyr" xOffset="183"/>
+    <component base="y" identifier="C232991A"/>
+    <component base="breve.cyr" xOffset="183" identifier="C588741E"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C232991A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C588741E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

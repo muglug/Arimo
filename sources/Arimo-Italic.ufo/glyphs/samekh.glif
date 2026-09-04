@@ -12,7 +12,6 @@ samekh
   <anchor x="580" y="0" name="hebrewbottomleft"/>
   <anchor x="200" y="1350" name="hebrewtopleft"/>
   <anchor x="1060" y="1350" name="hebrewtopright"/>
-  <anchor x="1000" y="0" name="hebrewbottomleft"/>
   <anchor x="1200" y="1430" name="rafe"/>
   <anchor x="580" y="0" name="hebrewbottom2"/>
   <anchor x="760" y="1350" name="hebrewtop2"/>

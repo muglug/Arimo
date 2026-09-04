@@ -6,7 +6,26 @@
 uni1FCA
 </note>
   <outline>
-    <component base="H" xOffset="300"/>
-    <component base="uni1FEF" xOffset="-169"/>
+    <component base="H" xOffset="300" identifier="0B5D901B"/>
+    <component base="uni1FEF" xOffset="-169" identifier="1EC535DB"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0B5D901B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>1EC535DB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

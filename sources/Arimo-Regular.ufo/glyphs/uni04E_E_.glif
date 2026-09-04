@@ -6,7 +6,26 @@
 uni04EE
 </note>
   <outline>
-    <component base="uni0423"/>
-    <component base="macron" xOffset="376" yOffset="329"/>
+    <component base="uni0423" identifier="EBAC04C9"/>
+    <component base="macron" xOffset="376" yOffset="329" identifier="1CF80B59"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1CF80B59</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EBAC04C9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

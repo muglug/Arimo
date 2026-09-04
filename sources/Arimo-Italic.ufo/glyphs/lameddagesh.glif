@@ -12,7 +12,6 @@ lameddagesh
   <anchor x="380" y="0" name="hebrewbottomleft"/>
   <anchor x="0" y="1350" name="hebrewtopleft"/>
   <anchor x="800" y="1350" name="hebrewtopright"/>
-  <anchor x="700" y="0" name="hebrewbottomleft"/>
   <anchor x="880" y="1430" name="rafe"/>
   <anchor x="380" y="0" name="hebrewbottom2"/>
   <anchor x="880" y="1350" name="hebrewtop2"/>

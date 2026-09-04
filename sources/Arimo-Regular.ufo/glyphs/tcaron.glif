@@ -14,7 +14,26 @@ tcaron
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="380" y="0" name="ogonek"/>
   <outline>
-    <component base="t"/>
-    <component base="caroncommaaccent" xOffset="460" yOffset="75"/>
+    <component base="t" identifier="2D9B394E"/>
+    <component base="caroncommaaccent" xOffset="460" yOffset="75" identifier="29A0AD7B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>29A0AD7B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2D9B394E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

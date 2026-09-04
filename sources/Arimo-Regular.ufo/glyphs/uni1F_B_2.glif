@@ -6,8 +6,32 @@
 uni1FB2
 </note>
   <outline>
-    <component base="alpha"/>
-    <component base="uni1FEF" xOffset="126"/>
-    <component base="uni0345" xOffset="540"/>
+    <component base="alpha" identifier="83F91A70"/>
+    <component base="uni1FEF" xOffset="126" identifier="001CC1CA"/>
+    <component base="uni0345" xOffset="540" identifier="94848120"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>001CC1CA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>83F91A70</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>94848120</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,26 @@
 uni04D0
 </note>
   <outline>
-    <component base="A"/>
-    <component base="breve.uc" xOffset="378"/>
+    <component base="A" identifier="94BE2E0C"/>
+    <component base="breve.uc" xOffset="378" identifier="D64CB807"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>94BE2E0C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D64CB807</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -14,7 +14,26 @@ nacute
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="840" y="0" name="ogonek"/>
   <outline>
-    <component base="n" xOffset="4"/>
-    <component base="acute" xOffset="388"/>
+    <component base="n" xOffset="4" identifier="A35F5BA0"/>
+    <component base="acute" xOffset="388" identifier="C5285FB4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A35F5BA0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C5285FB4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

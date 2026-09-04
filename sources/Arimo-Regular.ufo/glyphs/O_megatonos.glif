@@ -6,7 +6,26 @@
 Omegatonos
 </note>
   <outline>
-    <component base="Omega" xOffset="10"/>
-    <component base="tonos" xOffset="-274" yOffset="-132"/>
+    <component base="Omega" xOffset="10" identifier="1E416873"/>
+    <component base="tonos" xOffset="-274" yOffset="-132" identifier="22FC89A8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1E416873</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>22FC89A8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

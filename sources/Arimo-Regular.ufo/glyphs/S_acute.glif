@@ -14,7 +14,26 @@ Sacute
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="800" y="0" name="ogonek"/>
   <outline>
-    <component base="S"/>
-    <component base="acute.uc" xOffset="470"/>
+    <component base="S" identifier="C921C19A"/>
+    <component base="acute.uc" xOffset="470" identifier="C97837BD"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>C921C19A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C97837BD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

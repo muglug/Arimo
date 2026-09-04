@@ -6,7 +6,26 @@
 epsilontonos
 </note>
   <outline>
-    <component base="epsilon"/>
-    <component base="tonos" xOffset="202"/>
+    <component base="epsilon" identifier="AC727D4E"/>
+    <component base="tonos" xOffset="202" identifier="270C9372"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>270C9372</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AC727D4E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

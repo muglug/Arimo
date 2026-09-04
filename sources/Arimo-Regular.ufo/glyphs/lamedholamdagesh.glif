@@ -8,17 +8,40 @@ lamedholamdagesh
   <anchor x="600" y="1350" name="hebrewtop1"/>
   <anchor x="600" y="1700" name="upperdot"/>
   <anchor x="420" y="0" name="hebrewbottom1"/>
-  <anchor x="420" y="0" name="hebrewbottomleft"/>
+  <anchor x="700" y="0" name="hebrewbottomleft"/>
   <anchor x="-180" y="1350" name="hebrewtopleft"/>
   <anchor x="800" y="1350" name="hebrewtopright"/>
-  <anchor x="700" y="0" name="hebrewbottomleft"/>
   <anchor x="880" y="1430" name="rafe"/>
   <anchor x="420" y="0" name="hebrewbottom2"/>
   <anchor x="680" y="1350" name="hebrewtop2"/>
   <anchor x="420" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="lamed"/>
-    <component base="holam" xOffset="-69"/>
-    <component base="dagesh" xOffset="426" yOffset="20"/>
+    <component base="lamed" identifier="57945418"/>
+    <component base="holam" xOffset="-69" identifier="DEF377F9"/>
+    <component base="dagesh" xOffset="426" yOffset="20" identifier="166B66A8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>166B66A8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>57945418</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DEF377F9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

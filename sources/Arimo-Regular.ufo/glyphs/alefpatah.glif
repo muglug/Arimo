@@ -9,16 +9,34 @@ alefpatah
   <anchor x="660" y="1350" name="hebrewtop1"/>
   <anchor x="660" y="1700" name="upperdot"/>
   <anchor x="360" y="0" name="hebrewbottom1"/>
-  <anchor x="660" y="0" name="hebrewbottomleft"/>
+  <anchor x="1060" y="0" name="hebrewbottomleft"/>
   <anchor x="240" y="1350" name="hebrewtopleft"/>
   <anchor x="1080" y="1350" name="hebrewtopright"/>
-  <anchor x="1060" y="0" name="hebrewbottomleft"/>
   <anchor x="1120" y="1430" name="rafe"/>
   <anchor x="960" y="0" name="hebrewbottom2"/>
   <anchor x="660" y="1350" name="hebrewtop2"/>
   <anchor x="460" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="alef"/>
-    <component base="patah" xOffset="643"/>
+    <component base="alef" identifier="A2CC1009"/>
+    <component base="patah" xOffset="643" identifier="33BCD005"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>33BCD005</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A2CC1009</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

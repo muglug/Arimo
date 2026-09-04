@@ -6,7 +6,26 @@
 alphatonos
 </note>
   <outline>
-    <component base="alpha"/>
-    <component base="tonos" xOffset="289"/>
+    <component base="alpha" identifier="1CAE3C52"/>
+    <component base="tonos" xOffset="289" identifier="F02E79EA"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1CAE3C52</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F02E79EA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

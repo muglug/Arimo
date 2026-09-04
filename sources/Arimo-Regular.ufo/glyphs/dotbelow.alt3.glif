@@ -4,6 +4,20 @@
 dotbelow.alt3
 </note>
   <outline>
-    <component base="dotbelow.alt1" xOffset="-644"/>
+    <component base="dotbelow.alt1" xOffset="-644" identifier="813DB728"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>813DB728</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

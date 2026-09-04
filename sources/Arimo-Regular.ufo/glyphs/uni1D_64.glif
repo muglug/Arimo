@@ -6,6 +6,6 @@
 uni1D64
 </note>
   <outline>
-    <component base="uni1D58" xOffset="5" yOffset="-626"/>
+    <component base="uni1D58" yOffset="-626"/>
   </outline>
 </glyph>

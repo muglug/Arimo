@@ -6,6 +6,20 @@
 uni2093
 </note>
   <outline>
-    <component base="uni036F" xOffset="334" yOffset="-626"/>
+    <component base="uni036F" xOffset="334" yOffset="-626" identifier="78F3BA05"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>78F3BA05</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

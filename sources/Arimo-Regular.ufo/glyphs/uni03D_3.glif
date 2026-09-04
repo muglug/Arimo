@@ -6,7 +6,26 @@
 uni03D3
 </note>
   <outline>
-    <component base="uni03D2" xOffset="380"/>
-    <component base="uni0374" xOffset="-221"/>
+    <component base="uni03D2" xOffset="380" identifier="3534D85E"/>
+    <component base="uni0374" xOffset="-221" identifier="E35BB673"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3534D85E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E35BB673</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,26 @@
 uni1FDA
 </note>
   <outline>
-    <component base="I" xOffset="300"/>
-    <component base="uni1FEF" xOffset="-171"/>
+    <component base="I" xOffset="300" identifier="51F89A89"/>
+    <component base="uni1FEF" xOffset="-171" identifier="70B1FB29"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>51F89A89</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>70B1FB29</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

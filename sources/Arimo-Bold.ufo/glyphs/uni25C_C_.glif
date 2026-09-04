@@ -14,7 +14,6 @@ uni25CC
   <anchor x="610" y="0" name="hebrewbottomleft"/>
   <anchor x="260" y="1350" name="hebrewtopleft"/>
   <anchor x="1000" y="1350" name="hebrewtopright"/>
-  <anchor x="1000" y="0" name="hebrewbottomleft"/>
   <anchor x="600" y="1200" name="top"/>
   <anchor x="1000" y="1200" name="caronalt"/>
   <anchor x="600" y="-130" name="bottom"/>

@@ -6,8 +6,32 @@
 threequarters
 </note>
   <outline>
-    <component base="fraction" xOffset="781"/>
-    <component base="foursuperior" xOffset="952" yOffset="-561"/>
-    <component base="threesuperior" xOffset="46"/>
+    <component base="fraction" xOffset="781" identifier="29B392B6"/>
+    <component base="foursuperior" xOffset="952" yOffset="-561" identifier="EA022B5B"/>
+    <component base="threesuperior" xOffset="46" identifier="516066E8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>29B392B6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>516066E8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EA022B5B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

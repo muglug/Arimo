@@ -6,7 +6,26 @@
 uni1FEB
 </note>
   <outline>
-    <component base="Y" xOffset="450"/>
-    <component base="tonos" xOffset="-83"/>
+    <component base="Y" xOffset="450" identifier="CCD634DE"/>
+    <component base="tonos" xOffset="-83" identifier="EC36733D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CCD634DE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EC36733D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

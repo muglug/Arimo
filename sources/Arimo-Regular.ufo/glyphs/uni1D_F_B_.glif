@@ -24,10 +24,4 @@ uni1DFB
       <point x="787" y="890" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>945</integer>
-    </dict>
-  </lib>
 </glyph>

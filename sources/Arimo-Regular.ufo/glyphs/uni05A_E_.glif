@@ -8,4 +8,10 @@ uni05AE
   <outline>
     <component base="uni0598" xOffset="-299"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
 </glyph>

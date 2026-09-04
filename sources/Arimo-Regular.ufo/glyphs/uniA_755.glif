@@ -48,14 +48,14 @@ uniA755
       <point x="803" y="1041"/>
       <point x="739" y="908" type="curve"/>
       <point x="735" y="908" type="line"/>
-      <point x="735.0" y="945.094986843297"/>
-      <point x="728.0669720706521" y="1072.7990837880436"/>
+      <point x="735" y="945.09499"/>
+      <point x="728.06697" y="1072.79908"/>
     </contour>
     <contour>
       <point x="737" y="113" type="line"/>
       <point x="737" y="528" type="line" smooth="yes"/>
-      <point x="737.0" y="799"/>
-      <point x="813.8614643081745" y="962.0"/>
+      <point x="737" y="799"/>
+      <point x="813.86146" y="962"/>
       <point x="1028" y="962" type="curve" smooth="yes"/>
       <point x="1198" y="962"/>
       <point x="1283" y="840"/>

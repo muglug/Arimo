@@ -21,7 +21,7 @@ commaaccent
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
-      <integer>682</integer>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

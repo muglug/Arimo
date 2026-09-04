@@ -7,7 +7,26 @@ uni0401
 </note>
   <anchor x="685" y="1840" name="cytop"/>
   <outline>
-    <component base="E"/>
-    <component base="dieresis.uc" xOffset="377"/>
+    <component base="E" identifier="1C3DD501"/>
+    <component base="dieresis.uc" xOffset="377" identifier="AC6E1D0C"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1C3DD501</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AC6E1D0C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

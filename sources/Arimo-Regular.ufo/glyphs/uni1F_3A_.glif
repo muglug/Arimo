@@ -6,7 +6,26 @@
 uni1F3A
 </note>
   <outline>
-    <component base="I" xOffset="600"/>
-    <component base="uni1FCD" xOffset="-18"/>
+    <component base="I" xOffset="600" identifier="C3053CF9"/>
+    <component base="uni1FCD" xOffset="-18" identifier="30779852"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>30779852</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C3053CF9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

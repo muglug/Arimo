@@ -14,7 +14,26 @@ Rcaron
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="1180" y="0" name="ogonek"/>
   <outline>
-    <component base="R"/>
-    <component base="caron.uc" xOffset="358"/>
+    <component base="R" identifier="6375886B"/>
+    <component base="caron.uc" xOffset="358" identifier="7A7C8033"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6375886B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7A7C8033</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

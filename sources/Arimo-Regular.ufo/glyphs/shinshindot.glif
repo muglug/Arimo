@@ -10,16 +10,34 @@ shinshindot
   <anchor x="760" y="1350" name="hebrewtop1"/>
   <anchor x="760" y="1700" name="upperdot"/>
   <anchor x="720" y="0" name="hebrewbottom1"/>
-  <anchor x="720" y="0" name="hebrewbottomleft"/>
+  <anchor x="1080" y="0" name="hebrewbottomleft"/>
   <anchor x="140" y="1350" name="hebrewtopleft"/>
   <anchor x="1460" y="1350" name="hebrewtopright"/>
-  <anchor x="1080" y="0" name="hebrewbottomleft"/>
   <anchor x="1700" y="1430" name="rafe"/>
   <anchor x="720" y="0" name="hebrewbottom2"/>
   <anchor x="700" y="1350" name="hebrewtop2"/>
   <anchor x="700" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="shin"/>
-    <component base="holam" xOffset="1325"/>
+    <component base="shin" identifier="E490623A"/>
+    <component base="holam" xOffset="1325" identifier="0CE42F52"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0CE42F52</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E490623A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

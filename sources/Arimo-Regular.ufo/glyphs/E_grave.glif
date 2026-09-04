@@ -14,7 +14,26 @@ Egrave
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="1120" y="0" name="ogonek"/>
   <outline>
-    <component base="E"/>
-    <component base="grave.uc" xOffset="319"/>
+    <component base="E" identifier="FF265177"/>
+    <component base="grave.uc" xOffset="319" identifier="B82CDE39"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B82CDE39</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FF265177</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

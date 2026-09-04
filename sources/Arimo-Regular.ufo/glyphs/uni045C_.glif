@@ -6,7 +6,26 @@
 uni045C
 </note>
   <outline>
-    <component base="uni043A"/>
-    <component base="acute" xOffset="319"/>
+    <component base="uni043A" identifier="AF40810B"/>
+    <component base="acute" xOffset="319" identifier="3EBBCCA6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3EBBCCA6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AF40810B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

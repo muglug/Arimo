@@ -14,7 +14,7 @@ ncommaaccent
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="900" y="0" name="ogonek"/>
   <outline>
-    <component base="n" xOffset="4"/>
+    <component base="n"/>
     <component base="commaaccent" xOffset="347"/>
   </outline>
 </glyph>

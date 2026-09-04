@@ -6,7 +6,26 @@
 uni040D
 </note>
   <outline>
-    <component base="uni0418"/>
-    <component base="grave.uc" xOffset="340"/>
+    <component base="uni0418" identifier="7D0DD815"/>
+    <component base="grave.uc" xOffset="340" identifier="C9912960"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7D0DD815</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C9912960</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

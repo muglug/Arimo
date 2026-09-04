@@ -5,7 +5,26 @@
 ncommaaccent.loclMAH
 </note>
   <outline>
-    <component base="n"/>
-    <component base="cedilla" xOffset="290"/>
+    <component base="n" identifier="B061172A"/>
+    <component base="cedilla" xOffset="290" identifier="77E7A435"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>77E7A435</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B061172A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

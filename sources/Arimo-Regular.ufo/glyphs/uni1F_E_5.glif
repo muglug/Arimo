@@ -6,7 +6,26 @@
 uni1FE5
 </note>
   <outline>
-    <component base="rho"/>
-    <component base="uni1FFE" xOffset="250" yOffset="100"/>
+    <component base="rho" identifier="B717E6D5"/>
+    <component base="uni1FFE" xOffset="250" yOffset="100" identifier="D8F8AE4A"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B717E6D5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D8F8AE4A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

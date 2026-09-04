@@ -11,8 +11,32 @@ uni1E4F
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="680" y="0" name="ogonek"/>
   <outline>
-    <component base="o"/>
-    <component base="tilde" xOffset="235"/>
-    <component base="dieresis.uc" xOffset="255" yOffset="10"/>
+    <component base="o" identifier="59FF8041"/>
+    <component base="tilde" xOffset="235" identifier="A7A45F05"/>
+    <component base="dieresis.uc" xOffset="255" yOffset="10" identifier="70F1808C"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>59FF8041</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>70F1808C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A7A45F05</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

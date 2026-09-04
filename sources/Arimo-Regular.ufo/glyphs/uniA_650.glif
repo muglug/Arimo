@@ -6,7 +6,26 @@
 uniA650
 </note>
   <outline>
-    <component base="uni042A"/>
-    <component base="I" xOffset="1534"/>
+    <component base="uni042A" identifier="084A777E"/>
+    <component base="I" xOffset="1534" identifier="CFD8D7AF"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>084A777E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CFD8D7AF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

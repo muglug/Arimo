@@ -6,8 +6,32 @@
 uni1FC7
 </note>
   <outline>
-    <component base="eta"/>
-    <component base="tilde" xOffset="228"/>
-    <component base="uni0345" xOffset="230"/>
+    <component base="eta" identifier="25A71FCF"/>
+    <component base="tilde" xOffset="228" identifier="C5C75E4E"/>
+    <component base="uni0345" xOffset="230" identifier="322FC93B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>25A71FCF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>322FC93B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C5C75E4E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

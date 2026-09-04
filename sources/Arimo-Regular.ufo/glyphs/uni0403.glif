@@ -6,7 +6,26 @@
 uni0403
 </note>
   <outline>
-    <component base="Gamma"/>
-    <component base="acute.uc" xOffset="369"/>
+    <component base="Gamma" identifier="7C05C92B"/>
+    <component base="acute.uc" xOffset="369" identifier="31D7A13B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>31D7A13B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7C05C92B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

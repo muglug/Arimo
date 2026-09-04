@@ -6,8 +6,32 @@
 uni01DC
 </note>
   <outline>
-    <component base="u"/>
-    <component base="dieresis" xOffset="245"/>
-    <component base="grave" xOffset="112" yOffset="280"/>
+    <component base="u" identifier="642B2CC9"/>
+    <component base="dieresis" xOffset="245" identifier="98395924"/>
+    <component base="grave" xOffset="112" yOffset="280" identifier="1B75978D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1B75978D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>642B2CC9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>98395924</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

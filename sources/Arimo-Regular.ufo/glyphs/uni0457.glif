@@ -6,7 +6,26 @@
 uni0457
 </note>
   <outline>
-    <component base="dotlessi"/>
-    <component base="dieresis" xOffset="-53"/>
+    <component base="dotlessi" identifier="D2516CFA"/>
+    <component base="dieresis" xOffset="-53" identifier="E551D084"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D2516CFA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E551D084</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

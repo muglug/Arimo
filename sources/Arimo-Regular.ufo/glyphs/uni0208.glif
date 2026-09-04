@@ -14,7 +14,26 @@ uni0208
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="200" y="0" name="ogonek"/>
   <outline>
-    <component base="I"/>
-    <component base="uni030F" xOffset="234" yOffset="362"/>
+    <component base="I" identifier="32981CF1"/>
+    <component base="uni030F" xOffset="234" yOffset="362" identifier="DC90CA79"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>32981CF1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DC90CA79</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

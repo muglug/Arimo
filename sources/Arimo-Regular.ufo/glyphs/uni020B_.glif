@@ -15,6 +15,6 @@ uni020B
   <anchor x="220" y="0" name="ogonek"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni0311" xOffset="286"/>
+    <component base="uni0311" xOffset="290"/>
   </outline>
 </glyph>

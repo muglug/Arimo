@@ -5,9 +5,38 @@
 uni03C5030803060301
 </note>
   <outline>
-    <component base="upsilon"/>
-    <component base="dieresis" xOffset="198" yOffset="-69"/>
-    <component base="breve" xOffset="236" yOffset="159"/>
-    <component base="tonos.short" xOffset="225"/>
+    <component base="upsilon" identifier="931C0563"/>
+    <component base="dieresis" xOffset="198" yOffset="-69" identifier="96BB80C8"/>
+    <component base="breve" xOffset="236" yOffset="159" identifier="743038FB"/>
+    <component base="tonos.short" xOffset="225" identifier="6120E29B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>6120E29B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>743038FB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>931C0563</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>96BB80C8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

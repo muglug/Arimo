@@ -11,7 +11,26 @@ ocircumflextilde
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="680" y="0" name="ogonek"/>
   <outline>
-    <component base="o"/>
-    <component base="circumflextilde.lc" xOffset="561"/>
+    <component base="o" identifier="FC677F90"/>
+    <component base="circumflextilde.lc" xOffset="561" identifier="A937156F"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A937156F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FC677F90</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -12,16 +12,22 @@ uni1DE1
       <point x="201" y="1707" type="line"/>
       <point x="107" y="1707" type="line"/>
       <point x="107" y="1437" type="line"/>
-      <point x="107.0" y="1408"/>
-      <point x="107.0" y="1380"/>
+      <point x="107" y="1408"/>
+      <point x="107" y="1380"/>
       <point x="107" y="1351" type="curve"/>
       <point x="-95" y="1707" type="line"/>
       <point x="-200" y="1707" type="line"/>
       <point x="-200" y="1210" type="line"/>
       <point x="-105" y="1210" type="line"/>
       <point x="-105" y="1482" type="line"/>
-      <point x="-105.0" y="1509"/>
-      <point x="-105.0" y="1537"/>
+      <point x="-105" y="1509"/>
+      <point x="-105" y="1537"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
 </glyph>

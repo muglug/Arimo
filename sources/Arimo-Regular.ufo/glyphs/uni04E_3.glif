@@ -6,7 +6,26 @@
 uni04E3
 </note>
   <outline>
-    <component base="uni0438"/>
-    <component base="macron" xOffset="260"/>
+    <component base="uni0438" identifier="8FA10CD7"/>
+    <component base="macron" xOffset="260" identifier="B2FC84DB"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8FA10CD7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B2FC84DB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

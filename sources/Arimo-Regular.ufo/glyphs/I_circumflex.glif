@@ -14,7 +14,26 @@ Icircumflex
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="200" y="0" name="ogonek"/>
   <outline>
-    <component base="I"/>
-    <component base="circumflex.uc" xOffset="-46"/>
+    <component base="I" identifier="0589C487"/>
+    <component base="circumflex.uc" xOffset="-46" identifier="1B60F6AD"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0589C487</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>1B60F6AD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

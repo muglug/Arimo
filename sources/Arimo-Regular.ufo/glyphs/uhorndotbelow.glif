@@ -11,7 +11,26 @@ uhorndotbelow
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="860" y="0" name="ogonek"/>
   <outline>
-    <component base="uhorn"/>
-    <component base="dotbelow.alt1" xOffset="685"/>
+    <component base="uhorn" identifier="899D233A"/>
+    <component base="dotbelow.alt1" xOffset="685" identifier="4DCFBB07"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4DCFBB07</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>899D233A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

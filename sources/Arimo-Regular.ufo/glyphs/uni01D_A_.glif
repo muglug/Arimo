@@ -6,8 +6,32 @@
 uni01DA
 </note>
   <outline>
-    <component base="u"/>
-    <component base="dieresis" xOffset="245"/>
-    <component base="caron" xOffset="233" yOffset="280"/>
+    <component base="u" identifier="1028D178"/>
+    <component base="dieresis" xOffset="245" identifier="A73595EB"/>
+    <component base="caron" xOffset="233" yOffset="280" identifier="CAF63594"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1028D178</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A73595EB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CAF63594</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -14,7 +14,26 @@ uni1E26
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="1150" y="0" name="ogonek"/>
   <outline>
-    <component base="H"/>
-    <component base="dieresis.uc" xOffset="397"/>
+    <component base="H" identifier="A0B79F58"/>
+    <component base="dieresis.uc" xOffset="397" identifier="9B7F2BEC"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9B7F2BEC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A0B79F58</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

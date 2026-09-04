@@ -6,8 +6,32 @@
 onethird
 </note>
   <outline>
-    <component base="onesuperior"/>
-    <component base="fraction" xOffset="761"/>
-    <component base="threesuperior" xOffset="1017" yOffset="-563"/>
+    <component base="onesuperior" identifier="17D568A7"/>
+    <component base="fraction" xOffset="761" identifier="CD176BBD"/>
+    <component base="threesuperior" xOffset="1017" yOffset="-563" identifier="DD2B7FCB"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>17D568A7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CD176BBD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DD2B7FCB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

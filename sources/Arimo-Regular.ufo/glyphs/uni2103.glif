@@ -6,7 +6,26 @@
 uni2103
 </note>
   <outline>
-    <component base="degree"/>
-    <component base="C" xOffset="670"/>
+    <component base="degree" identifier="114E0B6D"/>
+    <component base="C" xOffset="670" identifier="6CDDDEF1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>114E0B6D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6CDDDEF1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

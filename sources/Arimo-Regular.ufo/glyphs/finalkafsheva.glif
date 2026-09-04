@@ -8,16 +8,34 @@ finalkafsheva
   <anchor x="400" y="1350" name="hebrewtop1"/>
   <anchor x="400" y="1700" name="upperdot"/>
   <anchor x="420" y="0" name="hebrewbottom1"/>
-  <anchor x="340" y="0" name="hebrewbottomleft"/>
+  <anchor x="1040" y="0" name="hebrewbottomleft"/>
   <anchor x="140" y="1350" name="hebrewtopleft"/>
   <anchor x="800" y="1350" name="hebrewtopright"/>
-  <anchor x="1040" y="0" name="hebrewbottomleft"/>
   <anchor x="880" y="1430" name="rafe"/>
   <anchor x="340" y="0" name="hebrewbottom2"/>
   <anchor x="400" y="1350" name="hebrewtop2"/>
   <anchor x="540" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="finalkaf"/>
-    <component base="sheva" xOffset="408" yOffset="811"/>
+    <component base="finalkaf" identifier="EA9CE195"/>
+    <component base="sheva" xOffset="408" yOffset="811" identifier="FA7CEBC3"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>EA9CE195</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FA7CEBC3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

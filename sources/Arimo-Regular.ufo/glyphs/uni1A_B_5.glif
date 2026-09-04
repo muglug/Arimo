@@ -5,7 +5,28 @@
 uni1AB5
 </note>
   <outline>
-    <component base="uni0353" xOffset="-259"/>
-    <component base="uni0353" xOffset="261"/>
+    <component base="uni0353" xOffset="-259" identifier="B8F17D43"/>
+    <component base="uni0353" xOffset="261" identifier="37BA2B77"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>37BA2B77</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B8F17D43</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

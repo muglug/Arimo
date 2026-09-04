@@ -6,7 +6,26 @@
 uni1F19
 </note>
   <outline>
-    <component base="E" xOffset="200"/>
-    <component base="uni1FFE" xOffset="-228"/>
+    <component base="E" xOffset="200" identifier="2FAAB306"/>
+    <component base="uni1FFE" xOffset="-228" identifier="EEC7150A"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2FAAB306</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EEC7150A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

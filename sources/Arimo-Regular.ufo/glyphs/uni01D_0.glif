@@ -14,7 +14,26 @@ uni01D0
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="160" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi.alt1"/>
-    <component base="caron" xOffset="-119"/>
+    <component base="dotlessi.alt1" identifier="A2E44174"/>
+    <component base="caron" xOffset="-119" identifier="32B97778"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>32B97778</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A2E44174</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

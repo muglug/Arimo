@@ -15,7 +15,26 @@ ohookabove
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="680" y="0" name="ogonek"/>
   <outline>
-    <component base="o"/>
-    <component base="hookabovecomb" xOffset="839" yOffset="-288"/>
+    <component base="o" identifier="ACB8A853"/>
+    <component base="hookabovecomb" xOffset="839" yOffset="-288" identifier="72B8AF46"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>72B8AF46</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ACB8A853</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

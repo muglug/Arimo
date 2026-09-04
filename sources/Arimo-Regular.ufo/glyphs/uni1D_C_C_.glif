@@ -5,7 +5,28 @@
 uni1DCC
 </note>
   <outline>
-    <component base="breve" xOffset="-48"/>
-    <component base="uni0304" xOffset="-308" yOffset="148"/>
+    <component base="breve" xOffset="-48" identifier="B971D6CB"/>
+    <component base="uni0304" xOffset="-308" yOffset="148" identifier="1A74AAF5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1A74AAF5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B971D6CB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

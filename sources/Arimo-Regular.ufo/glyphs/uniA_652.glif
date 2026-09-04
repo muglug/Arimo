@@ -6,7 +6,26 @@
 uniA652
 </note>
   <outline>
-    <component base="I"/>
-    <component base="uni0462" xOffset="341"/>
+    <component base="I" identifier="791103C6"/>
+    <component base="uni0462" xOffset="341" identifier="0F8639BB"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0F8639BB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>791103C6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

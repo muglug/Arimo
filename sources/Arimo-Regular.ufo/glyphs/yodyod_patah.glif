@@ -9,17 +9,40 @@ yodyod_patah
   <anchor x="520" y="1350" name="hebrewtop1"/>
   <anchor x="520" y="1700" name="upperdot"/>
   <anchor x="520" y="0" name="hebrewbottom1"/>
-  <anchor x="520" y="0" name="hebrewbottomleft"/>
+  <anchor x="700" y="0" name="hebrewbottomleft"/>
   <anchor x="200" y="1350" name="hebrewtopleft"/>
   <anchor x="780" y="1350" name="hebrewtopright"/>
-  <anchor x="700" y="0" name="hebrewbottomleft"/>
   <anchor x="880" y="1430" name="rafe"/>
   <anchor x="360" y="0" name="hebrewbottom2"/>
   <anchor x="520" y="1350" name="hebrewtop2"/>
   <anchor x="520" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="yod"/>
-    <component base="yod" xOffset="510"/>
-    <component base="patah" xOffset="522" yOffset="547"/>
+    <component base="yod" identifier="43D6DB0C"/>
+    <component base="yod" xOffset="510" identifier="865E3702"/>
+    <component base="patah" xOffset="522" yOffset="547" identifier="A82047C9"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>43D6DB0C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>865E3702</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A82047C9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

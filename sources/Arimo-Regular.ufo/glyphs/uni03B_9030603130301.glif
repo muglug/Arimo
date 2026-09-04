@@ -5,8 +5,32 @@
 uni03B9030603130301
 </note>
   <outline>
-    <component base="iota"/>
-    <component base="uni1FCE" xOffset="-99" yOffset="350"/>
-    <component base="breve" xOffset="-60" yOffset="-39"/>
+    <component base="iota" identifier="3F19B27B"/>
+    <component base="uni1FCE" xOffset="-99" yOffset="350" identifier="074C4CA2"/>
+    <component base="breve" xOffset="-60" yOffset="-39" identifier="94B2D1BF"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>074C4CA2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>3F19B27B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>94B2D1BF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

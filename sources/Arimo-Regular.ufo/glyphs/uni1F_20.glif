@@ -6,7 +6,26 @@
 uni1F20
 </note>
   <outline>
-    <component base="eta"/>
-    <component base="uni1FBD" xOffset="226" yOffset="100"/>
+    <component base="eta" identifier="514E71F0"/>
+    <component base="uni1FBD" xOffset="226" yOffset="100" identifier="F5C036D5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>514E71F0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F5C036D5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

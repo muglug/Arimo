@@ -6,6 +6,6 @@
 uni2090
 </note>
   <outline>
-    <component base="uni1D43" xOffset="2" yOffset="-629"/>
+    <component base="uni1D43" yOffset="-629"/>
   </outline>
 </glyph>

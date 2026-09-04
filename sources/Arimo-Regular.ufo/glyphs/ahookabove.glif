@@ -14,7 +14,26 @@ ahookabove
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="940" y="0" name="ogonek"/>
   <outline>
-    <component base="a"/>
-    <component base="hookabovecomb" xOffset="820" yOffset="-309"/>
+    <component base="a" identifier="BE950ED1"/>
+    <component base="hookabovecomb" xOffset="820" yOffset="-309" identifier="13B67B8C"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>13B67B8C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BE950ED1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

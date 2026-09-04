@@ -14,7 +14,26 @@ itilde
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="220" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="tilde" xOffset="-49"/>
+    <component base="dotlessi" identifier="ABB77FE0"/>
+    <component base="tilde" xOffset="-49" identifier="A566800E"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A566800E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ABB77FE0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

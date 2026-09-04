@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ij" format="2">
-  <advance width="909"/>
+  <advance width="910"/>
   <unicode hex="0133"/>
   <note>
 ij
@@ -15,6 +15,6 @@ ij
   <anchor x="540" y="-400" name="ogonek"/>
   <outline>
     <component base="i"/>
-    <component base="j" xOffset="454"/>
+    <component base="j" xOffset="455"/>
   </outline>
 </glyph>

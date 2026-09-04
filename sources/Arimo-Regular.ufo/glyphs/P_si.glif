@@ -9,8 +9,8 @@ Psi
     <contour>
       <point x="948" y="427" type="line"/>
       <point x="1031" y="427" type="line" smooth="yes"/>
-      <point x="1352.4121719572108" y="427.0"/>
-      <point x="1566.0" y="646.9758898957643"/>
+      <point x="1352.41217" y="427"/>
+      <point x="1566" y="646.97589"/>
       <point x="1566" y="946" type="curve" smooth="yes"/>
       <point x="1566" y="1409" type="line"/>
       <point x="1375" y="1409" type="line"/>
@@ -29,8 +29,8 @@ Psi
       <point x="336" y="1409" type="line"/>
       <point x="145" y="1409" type="line"/>
       <point x="145" y="946" type="line" smooth="yes"/>
-      <point x="145.0" y="644.7210380822951"/>
-      <point x="358.52829438292395" y="427.0"/>
+      <point x="145" y="644.72104"/>
+      <point x="358.52829" y="427"/>
       <point x="680" y="427" type="curve" smooth="yes"/>
       <point x="763" y="427" type="line"/>
       <point x="763" y="0" type="line"/>

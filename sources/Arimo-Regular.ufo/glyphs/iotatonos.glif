@@ -6,7 +6,26 @@
 iotatonos
 </note>
   <outline>
-    <component base="iota"/>
-    <component base="tonos" xOffset="-47"/>
+    <component base="iota" identifier="4152C6AD"/>
+    <component base="tonos" xOffset="-47" identifier="0F9A32A0"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0F9A32A0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4152C6AD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

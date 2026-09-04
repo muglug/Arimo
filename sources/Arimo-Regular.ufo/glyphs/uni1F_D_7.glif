@@ -6,7 +6,26 @@
 uni1FD7
 </note>
   <outline>
-    <component base="iota"/>
-    <component base="uni1FC1" xOffset="-111"/>
+    <component base="iota" identifier="2F62AA91"/>
+    <component base="uni1FC1" xOffset="-111" identifier="A266FAED"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2F62AA91</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A266FAED</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,26 @@
 uni1F77
 </note>
   <outline>
-    <component base="iota"/>
-    <component base="tonos" xOffset="-64"/>
+    <component base="iota" identifier="B9968CE3"/>
+    <component base="tonos" xOffset="-64" identifier="22E1FFF8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>22E1FFF8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B9968CE3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

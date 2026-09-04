@@ -6,7 +6,26 @@
 uni04D3
 </note>
   <outline>
-    <component base="a"/>
-    <component base="dieresis" xOffset="241"/>
+    <component base="a" identifier="4DA74FBE"/>
+    <component base="dieresis" xOffset="241" identifier="9FE2630E"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4DA74FBE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9FE2630E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,26 @@
 uni1F5F
 </note>
   <outline>
-    <component base="Y" xOffset="600"/>
-    <component base="uni1FDF"/>
+    <component base="Y" xOffset="600" identifier="3013D007"/>
+    <component base="uni1FDF" identifier="F329DDD5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3013D007</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F329DDD5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

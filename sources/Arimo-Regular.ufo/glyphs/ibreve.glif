@@ -14,7 +14,26 @@ ibreve
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="220" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="breve" xOffset="-11"/>
+    <component base="dotlessi" identifier="0E4B032E"/>
+    <component base="breve" xOffset="-11" identifier="D46074D2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0E4B032E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D46074D2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

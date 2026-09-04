@@ -6,8 +6,32 @@
 seveneighths
 </note>
   <outline>
-    <component base="fraction" xOffset="701"/>
-    <component base="eightsuperior" xOffset="972" yOffset="-562"/>
-    <component base="sevensuperior" xOffset="102"/>
+    <component base="fraction" xOffset="701" identifier="F6EAFA13"/>
+    <component base="eightsuperior" xOffset="972" yOffset="-562" identifier="10978A4C"/>
+    <component base="sevensuperior" xOffset="102" identifier="C066F50D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>10978A4C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C066F50D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F6EAFA13</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

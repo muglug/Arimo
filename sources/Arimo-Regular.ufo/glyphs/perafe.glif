@@ -9,16 +9,34 @@ perafe
   <anchor x="560" y="1700" name="hebrewtop1"/>
   <anchor x="560" y="1700" name="upperdot"/>
   <anchor x="600" y="0" name="hebrewbottom1"/>
-  <anchor x="600" y="0" name="hebrewbottomleft"/>
+  <anchor x="900" y="0" name="hebrewbottomleft"/>
   <anchor x="240" y="1350" name="hebrewtopleft"/>
   <anchor x="1000" y="1350" name="hebrewtopright"/>
-  <anchor x="900" y="0" name="hebrewbottomleft"/>
   <anchor x="1100" y="1430" name="rafe"/>
   <anchor x="600" y="0" name="hebrewbottom2"/>
   <anchor x="400" y="1350" name="hebrewtop2"/>
   <anchor x="600" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="pe"/>
-    <component base="rafe" xOffset="578"/>
+    <component base="pe" identifier="BF2B8FC1"/>
+    <component base="rafe" xOffset="578" identifier="AC8EBD10"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AC8EBD10</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BF2B8FC1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

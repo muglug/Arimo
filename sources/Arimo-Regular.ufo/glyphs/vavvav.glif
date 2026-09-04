@@ -10,16 +10,34 @@ vavvav
   <anchor x="520" y="1350" name="hebrewtop1"/>
   <anchor x="520" y="1700" name="upperdot"/>
   <anchor x="520" y="0" name="hebrewbottom1"/>
-  <anchor x="520" y="0" name="hebrewbottomleft"/>
+  <anchor x="700" y="0" name="hebrewbottomleft"/>
   <anchor x="200" y="1350" name="hebrewtopleft"/>
   <anchor x="780" y="1350" name="hebrewtopright"/>
-  <anchor x="700" y="0" name="hebrewbottomleft"/>
   <anchor x="880" y="1430" name="rafe"/>
   <anchor x="360" y="0" name="hebrewbottom2"/>
   <anchor x="520" y="1350" name="hebrewtop2"/>
   <anchor x="520" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="vav"/>
-    <component base="vav" xOffset="510"/>
+    <component base="vav" identifier="AA512603"/>
+    <component base="vav" xOffset="510" identifier="1E9FFE5B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1E9FFE5B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AA512603</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -11,7 +11,26 @@ Ohorngrave
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="920" y="0" name="ogonek"/>
   <outline>
-    <component base="Ohorn"/>
-    <component base="grave.uc" xOffset="428"/>
+    <component base="Ohorn" identifier="96F4EA6C"/>
+    <component base="grave.uc" xOffset="428" identifier="91DFB4A7"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>91DFB4A7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>96F4EA6C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,26 @@
 AEacute
 </note>
   <outline>
-    <component base="AE"/>
-    <component base="acute.uc" xOffset="996"/>
+    <component base="AE" identifier="9513BFFD"/>
+    <component base="acute.uc" xOffset="996" identifier="7D84A15A"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7D84A15A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9513BFFD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

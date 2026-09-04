@@ -15,7 +15,26 @@ ydieresis
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="200" y="-400" name="ogonek"/>
   <outline>
-    <component base="y"/>
-    <component base="dieresis" xOffset="187"/>
+    <component base="y" identifier="FC946EDD"/>
+    <component base="dieresis" xOffset="187" identifier="21911CCF"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>21911CCF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FC946EDD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

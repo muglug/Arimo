@@ -6,7 +6,26 @@
 uni1F78
 </note>
   <outline>
-    <component base="o"/>
-    <component base="uni1FEF" xOffset="159"/>
+    <component base="o" identifier="A0703295"/>
+    <component base="uni1FEF" xOffset="159" identifier="F262D314"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>A0703295</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F262D314</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

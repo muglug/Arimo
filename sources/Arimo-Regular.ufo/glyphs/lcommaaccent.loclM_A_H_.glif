@@ -5,7 +5,26 @@
 lcommaaccent.loclMAH
 </note>
   <outline>
-    <component base="l"/>
-    <component base="cedilla" xOffset="-52"/>
+    <component base="l" identifier="43BAAD8C"/>
+    <component base="cedilla" xOffset="-52" identifier="9DD7571B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>43BAAD8C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9DD7571B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

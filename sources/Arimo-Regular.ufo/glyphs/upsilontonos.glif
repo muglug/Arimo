@@ -6,7 +6,26 @@
 upsilontonos
 </note>
   <outline>
-    <component base="upsilon"/>
-    <component base="tonos" xOffset="252"/>
+    <component base="upsilon" identifier="CB70A597"/>
+    <component base="tonos" xOffset="252" identifier="2CF75822"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2CF75822</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CB70A597</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

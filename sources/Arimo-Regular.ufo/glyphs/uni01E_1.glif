@@ -6,8 +6,32 @@
 uni01E1
 </note>
   <outline>
-    <component base="a"/>
-    <component base="dotaccent" xOffset="302" yOffset="-80"/>
-    <component base="macron" xOffset="220" yOffset="280"/>
+    <component base="a" identifier="8A94A676"/>
+    <component base="dotaccent" xOffset="302" yOffset="-80" identifier="AA13A3D2"/>
+    <component base="macron" xOffset="220" yOffset="280" identifier="364F3266"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>364F3266</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8A94A676</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AA13A3D2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

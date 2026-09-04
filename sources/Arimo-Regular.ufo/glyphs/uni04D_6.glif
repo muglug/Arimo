@@ -6,7 +6,26 @@
 uni04D6
 </note>
   <outline>
-    <component base="E"/>
-    <component base="breve.uc" xOffset="412"/>
+    <component base="E" identifier="5DF4957D"/>
+    <component base="breve.uc" xOffset="412" identifier="3160BE07"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3160BE07</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5DF4957D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

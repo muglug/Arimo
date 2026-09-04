@@ -6,7 +6,26 @@
 uni1F45
 </note>
   <outline>
-    <component base="o"/>
-    <component base="uni1FDE" xOffset="280" yOffset="100"/>
+    <component base="o" identifier="3341CA32"/>
+    <component base="uni1FDE" xOffset="280" yOffset="100" identifier="F73C01B6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3341CA32</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F73C01B6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

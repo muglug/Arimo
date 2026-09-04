@@ -14,7 +14,26 @@ uni1E92
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="1030" y="0" name="ogonek"/>
   <outline>
-    <component base="Z"/>
-    <component base="dotbelow.alt1" xOffset="776"/>
+    <component base="Z" identifier="2A637A7D"/>
+    <component base="dotbelow.alt1" xOffset="776" identifier="4E32BE6D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2A637A7D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4E32BE6D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

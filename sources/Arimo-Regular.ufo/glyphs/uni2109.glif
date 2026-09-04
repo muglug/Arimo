@@ -6,7 +6,26 @@
 uni2109
 </note>
   <outline>
-    <component base="degree"/>
-    <component base="F" xOffset="670"/>
+    <component base="degree" identifier="AA722C1E"/>
+    <component base="F" xOffset="670" identifier="52E4072C"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>52E4072C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AA722C1E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

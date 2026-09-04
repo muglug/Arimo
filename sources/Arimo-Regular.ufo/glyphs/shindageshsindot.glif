@@ -9,17 +9,40 @@ shindageshsindot
   <anchor x="760" y="1350" name="hebrewtop1"/>
   <anchor x="760" y="1700" name="upperdot"/>
   <anchor x="720" y="0" name="hebrewbottom1"/>
-  <anchor x="720" y="0" name="hebrewbottomleft"/>
+  <anchor x="1080" y="0" name="hebrewbottomleft"/>
   <anchor x="0" y="1350" name="hebrewtopleft"/>
   <anchor x="1300" y="1350" name="hebrewtopright"/>
-  <anchor x="1080" y="0" name="hebrewbottomleft"/>
   <anchor x="1360" y="1430" name="rafe"/>
   <anchor x="720" y="0" name="hebrewbottom2"/>
   <anchor x="800" y="1350" name="hebrewtop2"/>
   <anchor x="700" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="shin"/>
-    <component base="dagesh" xOffset="958" yOffset="-79"/>
-    <component base="holam" xOffset="145"/>
+    <component base="shin" identifier="1DF0C609"/>
+    <component base="dagesh" xOffset="958" yOffset="-79" identifier="2C8C1DF1"/>
+    <component base="holam" xOffset="145" identifier="B823DE7D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1DF0C609</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2C8C1DF1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B823DE7D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

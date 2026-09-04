@@ -11,7 +11,26 @@ Abreveacute
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="1200" y="0" name="ogonek"/>
   <outline>
-    <component base="A"/>
-    <component base="breveacute" xOffset="686"/>
+    <component base="A" identifier="59E3DC66"/>
+    <component base="breveacute" xOffset="686" identifier="ADFEA1A0"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>59E3DC66</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ADFEA1A0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

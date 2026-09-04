@@ -11,8 +11,32 @@ Abrevedotbelow
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="1200" y="0" name="ogonek"/>
   <outline>
-    <component base="A"/>
-    <component base="breve.uc" xOffset="374"/>
-    <component base="dotbelow.alt1" xOffset="820"/>
+    <component base="A" identifier="DE7F4178"/>
+    <component base="breve.uc" xOffset="374" identifier="18CA4AB2"/>
+    <component base="dotbelow.alt1" xOffset="820" identifier="43C5BCE7"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>18CA4AB2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>43C5BCE7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DE7F4178</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

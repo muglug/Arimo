@@ -11,7 +11,26 @@ Uhorngrave
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="830" y="0" name="ogonek"/>
   <outline>
-    <component base="Uhorn"/>
-    <component base="grave.uc" xOffset="346"/>
+    <component base="Uhorn" identifier="332F8A8B"/>
+    <component base="grave.uc" xOffset="346" identifier="B80ECA38"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>332F8A8B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B80ECA38</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,8 +6,32 @@
 twothirds
 </note>
   <outline>
-    <component base="twosuperior" xOffset="-7"/>
-    <component base="fraction" xOffset="771"/>
-    <component base="threesuperior" xOffset="1027" yOffset="-563"/>
+    <component base="twosuperior" xOffset="-7" identifier="CE0C06B7"/>
+    <component base="fraction" xOffset="771" identifier="15D288A7"/>
+    <component base="threesuperior" xOffset="1027" yOffset="-563" identifier="B4406D14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>15D288A7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B4406D14</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CE0C06B7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

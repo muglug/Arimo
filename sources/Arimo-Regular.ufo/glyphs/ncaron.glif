@@ -14,7 +14,26 @@ ncaron
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="840" y="0" name="ogonek"/>
   <outline>
-    <component base="n" xOffset="4"/>
-    <component base="caron" xOffset="272"/>
+    <component base="n" xOffset="4" identifier="C02BE93E"/>
+    <component base="caron" xOffset="272" identifier="403321A5"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>403321A5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C02BE93E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -14,7 +14,26 @@ Scedilla
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="730" y="-400" name="ogonek"/>
   <outline>
-    <component base="S"/>
-    <component base="cedilla" xOffset="422"/>
+    <component base="S" identifier="060243D7"/>
+    <component base="cedilla" xOffset="422" identifier="0BB0C103"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>060243D7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>0BB0C103</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -14,7 +14,26 @@ Adotbelow
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="1200" y="0" name="ogonek"/>
   <outline>
-    <component base="A"/>
-    <component base="dotbelow.alt1" xOffset="820"/>
+    <component base="A" identifier="28F0023F"/>
+    <component base="dotbelow.alt1" xOffset="820" identifier="551B1D32"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>28F0023F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>551B1D32</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

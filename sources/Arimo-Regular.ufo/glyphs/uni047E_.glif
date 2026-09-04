@@ -6,7 +6,26 @@
 uni047E
 </note>
   <outline>
-    <component base="uni0460"/>
-    <component base="cyrillic_otmark" xOffset="1360" yOffset="360"/>
+    <component base="uni0460" identifier="E15580D7"/>
+    <component base="cyrillic_otmark" xOffset="1360" yOffset="360" identifier="FF4B332A"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E15580D7</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FF4B332A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

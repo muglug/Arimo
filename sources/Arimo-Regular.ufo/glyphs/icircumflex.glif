@@ -15,7 +15,26 @@ icircumflex
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="220" y="0" name="ogonek"/>
   <outline>
-    <component base="dotlessi"/>
-    <component base="circumflex" xOffset="-45"/>
+    <component base="dotlessi" identifier="097874D5"/>
+    <component base="circumflex" xOffset="-45" identifier="ACCD253F"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>097874D5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>ACCD253F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

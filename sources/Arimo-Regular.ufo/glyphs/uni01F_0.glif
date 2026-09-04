@@ -14,7 +14,26 @@ uni01F0
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="100" y="-400" name="ogonek"/>
   <outline>
-    <component base="j.dotless"/>
-    <component base="caron" xOffset="-110"/>
+    <component base="j.dotless" identifier="83ED98CD"/>
+    <component base="caron" xOffset="-110" identifier="7617D5DB"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7617D5DB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>83ED98CD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

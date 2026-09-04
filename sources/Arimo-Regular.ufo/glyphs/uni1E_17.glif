@@ -11,8 +11,32 @@ uni1E17
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="680" y="0" name="ogonek"/>
   <outline>
-    <component base="e"/>
-    <component base="acute" xOffset="366" yOffset="275"/>
-    <component base="macron" xOffset="250"/>
+    <component base="e" identifier="4100BCB1"/>
+    <component base="acute" xOffset="366" yOffset="275" identifier="EB5A286D"/>
+    <component base="macron" xOffset="250" identifier="9FF60D32"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4100BCB1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9FF60D32</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EB5A286D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

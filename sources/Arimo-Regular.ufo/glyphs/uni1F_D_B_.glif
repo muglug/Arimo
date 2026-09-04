@@ -6,7 +6,26 @@
 uni1FDB
 </note>
   <outline>
-    <component base="I" xOffset="300"/>
-    <component base="tonos" xOffset="-118"/>
+    <component base="I" xOffset="300" identifier="2C5484F5"/>
+    <component base="tonos" xOffset="-118" identifier="0B086BFD"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0B086BFD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2C5484F5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -9,8 +9,8 @@ uniFE2C
   </outline>
   <lib>
     <dict>
-      <key>public.markColor</key>
-      <string>1,0.6412,0.6294,1</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
     </dict>
   </lib>
 </glyph>

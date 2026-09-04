@@ -6,8 +6,32 @@
 oneeighth
 </note>
   <outline>
-    <component base="onesuperior"/>
-    <component base="fraction" xOffset="761"/>
-    <component base="eightsuperior" xOffset="972" yOffset="-562"/>
+    <component base="onesuperior" identifier="51AC9E52"/>
+    <component base="fraction" xOffset="761" identifier="F70DCA81"/>
+    <component base="eightsuperior" xOffset="972" yOffset="-562" identifier="61C875B8"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>51AC9E52</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>61C875B8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F70DCA81</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

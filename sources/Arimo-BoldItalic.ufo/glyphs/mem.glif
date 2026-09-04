@@ -12,7 +12,6 @@ mem
   <anchor x="600" y="0" name="hebrewbottomleft"/>
   <anchor x="140" y="1350" name="hebrewtopleft"/>
   <anchor x="1160" y="1350" name="hebrewtopright"/>
-  <anchor x="1080" y="0" name="hebrewbottomleft"/>
   <anchor x="1260" y="1430" name="rafe"/>
   <anchor x="700" y="0" name="hebrewbottom2"/>
   <anchor x="820" y="1350" name="hebrewtop2"/>

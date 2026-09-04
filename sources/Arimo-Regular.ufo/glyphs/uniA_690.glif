@@ -6,7 +6,26 @@
 uniA690
 </note>
   <outline>
-    <component base="T"/>
-    <component base="ogonek" xOffset="298"/>
+    <component base="T" identifier="2792B726"/>
+    <component base="ogonek" xOffset="298" identifier="3292D308"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2792B726</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>3292D308</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

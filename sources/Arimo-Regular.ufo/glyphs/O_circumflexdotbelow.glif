@@ -11,8 +11,32 @@ Ocircumflexdotbelow
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="730" y="-310" name="ogonek"/>
   <outline>
-    <component base="O"/>
-    <component base="circumflex.uc" xOffset="456" yOffset="5"/>
-    <component base="dotbelow.alt1" xOffset="940"/>
+    <component base="O" identifier="93A2520B"/>
+    <component base="circumflex.uc" xOffset="456" yOffset="5" identifier="65D3D1F0"/>
+    <component base="dotbelow.alt1" xOffset="940" identifier="212A5EFE"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>212A5EFE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>65D3D1F0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>93A2520B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

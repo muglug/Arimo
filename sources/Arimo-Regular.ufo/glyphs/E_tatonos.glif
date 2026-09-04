@@ -6,7 +6,26 @@
 Etatonos
 </note>
   <outline>
-    <component base="H" xOffset="237"/>
-    <component base="tonos" xOffset="-219" yOffset="-132"/>
+    <component base="H" xOffset="237" identifier="0CF28F0D"/>
+    <component base="tonos" xOffset="-219" yOffset="-132" identifier="4BE0A4FF"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0CF28F0D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4BE0A4FF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

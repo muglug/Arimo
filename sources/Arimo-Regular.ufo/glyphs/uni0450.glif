@@ -6,7 +6,26 @@
 uni0450
 </note>
   <outline>
-    <component base="e"/>
-    <component base="grave" xOffset="198"/>
+    <component base="e" identifier="4101DC38"/>
+    <component base="grave" xOffset="198" identifier="65763D1A"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>4101DC38</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>65763D1A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,26 @@
 uni1F7B
 </note>
   <outline>
-    <component base="upsilon"/>
-    <component base="tonos" xOffset="253"/>
+    <component base="upsilon" identifier="FB5B6BE5"/>
+    <component base="tonos" xOffset="253" identifier="58B42B7B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>58B42B7B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FB5B6BE5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

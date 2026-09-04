@@ -7,4 +7,10 @@ uni20F0
   <outline>
     <component base="asterisk" xOffset="-390" yOffset="287"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
 </glyph>

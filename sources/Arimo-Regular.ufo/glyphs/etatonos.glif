@@ -6,7 +6,26 @@
 etatonos
 </note>
   <outline>
-    <component base="eta"/>
-    <component base="tonos" xOffset="313"/>
+    <component base="eta" identifier="B7B8A5BB"/>
+    <component base="tonos" xOffset="313" identifier="AE80EF17"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AE80EF17</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B7B8A5BB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

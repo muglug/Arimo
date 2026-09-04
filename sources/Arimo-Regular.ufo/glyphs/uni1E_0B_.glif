@@ -14,7 +14,26 @@ uni1E0B
   <anchor x="0" y="1840" name="tophalfleft"/>
   <anchor x="850" y="0" name="ogonek"/>
   <outline>
-    <component base="d"/>
-    <component base="dotaccent" xOffset="260"/>
+    <component base="d" identifier="F675AC75"/>
+    <component base="dotaccent" xOffset="260" identifier="878AA9C6"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>878AA9C6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F675AC75</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,8 +6,32 @@
 uniAB38
 </note>
   <outline>
-    <component base="l" xOffset="136"/>
-    <component base="tilde" xOffset="23" yOffset="-400"/>
-    <component base="tilde" xOffset="23" yOffset="-710"/>
+    <component base="l" xOffset="136" identifier="51901DAA"/>
+    <component base="tilde" xOffset="23" yOffset="-400" identifier="8A214B09"/>
+    <component base="tilde" xOffset="23" yOffset="-710" identifier="5E716121"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>51901DAA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5E716121</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8A214B09</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -6,7 +6,26 @@
 uni1FD9
 </note>
   <outline>
-    <component base="I"/>
-    <component base="macron" xOffset="-39" yOffset="334"/>
+    <component base="I" identifier="5C806525"/>
+    <component base="macron" xOffset="-39" yOffset="334" identifier="0E8C123D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0E8C123D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5C806525</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

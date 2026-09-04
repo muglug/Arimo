@@ -6,8 +6,32 @@
 uni1FE2
 </note>
   <outline>
-    <component base="upsilon"/>
-    <component base="dieresis" xOffset="200"/>
-    <component base="uni1FEF" xOffset="92" yOffset="240"/>
+    <component base="upsilon" identifier="43BBC72B"/>
+    <component base="dieresis" xOffset="200" identifier="8611E53E"/>
+    <component base="uni1FEF" xOffset="92" yOffset="240" identifier="D8006CBC"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>43BBC72B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8611E53E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D8006CBC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

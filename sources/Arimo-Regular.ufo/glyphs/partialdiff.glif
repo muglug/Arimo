@@ -21,7 +21,7 @@ partialdiff
       <point x="685" y="1343"/>
       <point x="772" y="1199"/>
       <point x="772" y="938" type="curve" smooth="yes"/>
-      <point x="772.0" y="899"/>
+      <point x="772" y="899"/>
       <point x="769" y="860"/>
       <point x="768" y="821" type="curve"/>
       <point x="764" y="821" type="line"/>

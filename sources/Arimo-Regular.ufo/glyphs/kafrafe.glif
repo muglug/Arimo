@@ -9,16 +9,34 @@ kafrafe
   <anchor x="460" y="1700" name="hebrewtop1"/>
   <anchor x="460" y="1700" name="upperdot"/>
   <anchor x="460" y="0" name="hebrewbottom1"/>
-  <anchor x="460" y="0" name="hebrewbottomleft"/>
+  <anchor x="760" y="0" name="hebrewbottomleft"/>
   <anchor x="200" y="1350" name="hebrewtopleft"/>
   <anchor x="800" y="1350" name="hebrewtopright"/>
-  <anchor x="760" y="0" name="hebrewbottomleft"/>
   <anchor x="980" y="1430" name="rafe"/>
   <anchor x="460" y="0" name="hebrewbottom2"/>
   <anchor x="300" y="1350" name="hebrewtop2"/>
   <anchor x="460" y="0" name="hebrewbottom3"/>
   <outline>
-    <component base="kaf"/>
-    <component base="rafe" xOffset="469"/>
+    <component base="kaf" identifier="9222D38F"/>
+    <component base="rafe" xOffset="469" identifier="415906DB"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2026-09-04 17:56:07 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>415906DB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9222D38F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
